@@ -11,4 +11,4 @@ Liste:
 - Premier item
   - sous-item (tabulation + un tiret)
 
-![une image d'Arnaud]
+![une image d'Arnaud](Diplome.jpg)
