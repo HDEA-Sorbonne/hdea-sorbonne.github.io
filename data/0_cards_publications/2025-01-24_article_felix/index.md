@@ -6,6 +6,7 @@ tags:
 - felix
 - publication
 ---
+![Une image d'arnaud](Page Arnaud.jpg)
 
 ## Un Titre de ma première partie
 
@@ -35,3 +36,6 @@ Une liste:
 - Un autre de
     - un sous item
 - Un dernier item pour la route
+-
+![Obis Eleonore](https://github.com/user-attachments/assets/aeb4b67b-91df-4a9a-874f-f7f5d72d477e)
+
