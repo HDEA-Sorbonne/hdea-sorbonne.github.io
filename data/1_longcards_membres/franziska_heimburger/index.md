@@ -26,7 +26,7 @@ abstract: MCF
 
 ## Thèmes de recherche
 
- Coalitions militaires ; Histoire des conflits militaires 1850-1923 ; Histoire et Langues ; Digital History
+Histoire des conflits militaires 1850-1923 ; Coalitions militaires ; Histoire et Langues ; Digital History
 
 ## Interventions orales récentes
 
