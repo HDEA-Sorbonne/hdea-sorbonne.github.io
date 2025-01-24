@@ -10,4 +10,5 @@ Voici le texte
 Liste:
 - Premier item
   - sous-item (tabulation + un tiret)
+
 ![une image d'Arnaud]
