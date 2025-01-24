@@ -6,7 +6,7 @@ tags:
 - felix
 - publication
 ---
-![Une image d'arnaud](page_arnaud.jpg)
+![small](page_arnaud.jpg)
 
 ## Un Titre de ma première partie
 
