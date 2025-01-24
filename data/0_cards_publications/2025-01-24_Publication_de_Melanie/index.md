@@ -6,3 +6,8 @@ tags:
 - Royaume-Uni
 ---
 Voici le texte
+## titre intermédiaire (un espace après les hashtags)
+Liste:
+- Premier item
+  - sous-item (tabulation + un tiret)
+![une image d'Arnaud]
