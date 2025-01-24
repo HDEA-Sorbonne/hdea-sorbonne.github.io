@@ -16,6 +16,7 @@ Voilà le contenu de mon article je suis très content.
 
 ## Un Titre de ma deuxieme 
 
+![La photo d'arnaud](Page Arnaud.jpg)
 
 ### Une sous catégorie 
 
@@ -32,4 +33,5 @@ _Ca sera un texte en italique_
 Une liste:
 - Un item de liste
 - Un autre de
+    - un sous item
 - Un dernier item pour la route
