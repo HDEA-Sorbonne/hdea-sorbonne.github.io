@@ -1,6 +1,6 @@
 ---
 uuid: d650aca8-adc0-4673-b766-aa0f9e7771a2
-prettyName: ArnaudPage
+prettyName: PageArnaud
 
 title: Arnaud Page
 abstract: Maître de Conférences HDR
