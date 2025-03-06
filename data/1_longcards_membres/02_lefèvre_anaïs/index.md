@@ -28,17 +28,11 @@ abstract: Doctorante
 
  Thèse : Perceptions et significations du travail carcéral aux Etats-Unis, 1919-2003
 
-## Ouvrage et direction de numéro de revue
-
- /
 
 ## Article dans une revue
 
- “An Enormous Amount of Human Waste”: Self-esteem, Capitalism, and the US Prison, 1973-1989, Transatlantica (2020).
+ “An Enormous Amount of Human Waste”: Self-esteem, Capitalism, and the US Prison, 1973-1989, *Transatlantica* (2020).
 
-## Chapitre dans un ouvrage collectif
-
- /
 
 ## Interventions orales récentes
 
@@ -48,9 +42,6 @@ abstract: Doctorante
 
 "“It's Real, It's Vital, It's Thrilling”: The Cultural Boom of Chain Gang Horrors," North American History Colloquium, Erfurt Universität, 13-16 juin 2023.
 
-## Vulgarisation et interventions dans les média
-
- /
 
 ## Organisation d'événements et partenariats
 
