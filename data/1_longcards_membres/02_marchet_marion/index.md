@@ -30,13 +30,13 @@ abstract: Membre associée
 
 ## Article dans une revue
 
- « Le pari universaliste avant Black Lives Matter : candidatures et représentation africaines- américaines dans la banlieue blanche du Midwest (1981-2008) », dossier « Personnel politique local : trajectoires et pratiques de représentation », revue Politique américaine, printemps 2023.
+ « Le pari universaliste avant Black Lives Matter : candidatures et représentation africaines- américaines dans la banlieue blanche du Midwest (1981-2008) », dossier « Personnel politique local : trajectoires et pratiques de représentation », revue *Politique américaine*, printemps 2023.
 
-« Mobilité sociales et spatiales d'Africain·es-Américain·es vers la banlieue de « l'entre- deux » dans la deuxième moitié du 20ème siècle : le cas d'Euclid, Ohio », dossier « Entre- deux », revue E-Rea, 2022.
+« Mobilité sociales et spatiales d'Africain·es-Américain·es vers la banlieue de « l'entre- deux » dans la deuxième moitié du 20ème siècle : le cas d'Euclid, Ohio », dossier « Entre- deux », revue *E-Rea*, 2022.
 
 ## Chapitre dans un ouvrage collectif
 
- Marion Marchet et Victoria Gonzalez Maltes, « Le vote par correspondance aux États-Unis, nouvelle fracture partisane à l'ère Trump et post-Trump » dans dir. Boidin-Caravias et al., La pandémie de Covid-19 : Expériences américaines, Aubervilliers, Éditions de l'IHEAL, Colectivo, n°1, mars 2022, pp. 236-252.
+ Marion Marchet et Victoria Gonzalez Maltes, « Le vote par correspondance aux États-Unis, nouvelle fracture partisane à l'ère Trump et post-Trump » dans dir. Boidin-Caravias et al., *La pandémie de Covid-19 : Expériences américaines*, Aubervilliers, Éditions de l'IHEAL, Colectivo, n°1, mars 2022, pp. 236-252.
 
 ## Interventions orales récentes
 
@@ -56,11 +56,11 @@ Co-organisatrice de la journée d'étude AREA, « Rethinking The Rust Belt since
 
 ## Autres / Divers
 
- Recension Charlotte Recoquillon, Harlem, une histoire de la gentrification, Paris, Éditions de la Maison des sciences de l'homme, novembre 2024, Politiques Américaines.
+ Recension Charlotte Recoquillon, *Harlem, une histoire de la gentrification*, Paris, Éditions de la Maison des sciences de l'homme, novembre 2024, *Politiques Américaines*.
 
 Recension Olivier Maheo, De Rosa Parks au Black Power: Une histoire populaire des mouvements noirs, 1945-1970, Rennes, Presses universitaires de Rennes, septembre 2024, Les Cahiers d'histoire.
 
-Recension Olivier Richomme, Race and Partisanship in California Redistricting, Lanham, Rowman & Littlefield, 2019, Revue Française d'Études Américaines, vol. 163, n°2, 2020, pp. 127-34.
+Recension Olivier Richomme, *Race and Partisanship in California Redistricting, Lanham, Rowman & Littlefield*, 2019, *Revue Française d'Études Américaines*, vol. 163, n°2, 2020, pp. 127-34.
 
 « Citizen Brown, Race For Profit: Race et citoyenneté aux XXème et XXIème siècles », présentation d'ouvrages et compte-rendu de tables rondes de la Society of American City and Regional Planning History, Arlington (Virginie), 31 octobre-3 novembre 2019, Transatlantica, n°1, 2019.
 
