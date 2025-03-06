@@ -28,53 +28,51 @@ abstract: Professeure
 
  Civilisation britannique, économie britannique, commerce international, services britanniques, services publiques, santé publique (questions d'inégalités, migration…), bien-être
 
-## Ouvrage et direction de numéro de revue
+## Ouvrages et direction de numéro de revue
 
  Ouvrages individuels 
 
-1) Les services britanniques au 21e siècle : une étude interdisciplinaire, Nancy, Presses de Nancy, 2015.
-2)The NHS and Contemporary Health Challenges from a Multilevel Perspective, IGI Global, août 2020, 261 pages (indexé par Scopus). 
+1) *Les services britanniques au 21e siècle : une étude interdisciplinaire*, Nancy, Presses de Nancy, 2015.
+2)*The NHS and Contemporary Health Challenges from a Multilevel Perspective*, IGI Global, août 2020, 261 pages (indexé par Scopus). 
 
 Direction d'ouvrage/numéros
 
-1) Wellbeing : Challenging the Anglo-Saxon Hegemony, Paris : PSN, 2017 (avec Catherine Coron, dir.)
-2) Understanding Mega-Free Trade Agreements : The Political and Economic Governance of New Cross-Regionalism, Londres : Routledge, 2017 (avec Jean-Baptiste Velut, Vanessa Boullet, Valérie Peyronel, dir.)
-3) Wellbeing : Political Discourse and Policy in the Anglosphere, Revue Internationale Interventions Economiques, Université de Québec à Montréal, Canada, 62, juin 2019 (avec Nathalie Champroux et Iside Costantini, dir.)
-4) Seventy Years On: Framing Health Policy in Britain, Revue française de civilisation britannique, 24 (3), septembre 2019 (dir.)
-5) Rethinking the Dynamics of Exclusion in Trade Policymaking, Journal of New Political Economy, University of Manchester, Manchester, Royaume-Uni, février 2021 (avec Gabriel Siles Brugges et Jean-Baptiste Velut, dir.)
-6) The Unequal Costs of Covid-19 on Well-being in Europe, Springer International Publishing AG, décembre 2022 (avec Vanessa Boullet, Iside Costantini et Paul Gibbs, dir.)
-
-7) Le Parti Conservateur au pouvoir : politiques, enjeux et bilan (2010-2020) Septentrion, collection : Espaces politiques, juillet 2023 (avec Stéphane Porion)
-8) Advancing Health and Equity: Best Practices in an International Perspective, Special Issue, International Journal of Health, Wellness and Society, octobre 2023 (dir.)
-9) Le monde britannique face à l'épidémie de Covid - divisions politiques, réalignements diplomatiques, économiques et sociétaux, Revue française de civilisation britannique, [En ligne], 28(2) novembre 2023 (avec Philippe Brillet dir.) 
-10) (En cours) Gentrification and the media: Building and propagating discourses on exclusive urban change, Amsterdam University Press, 2024 (avec Stephane Sadoux, Marie Pierre Vincent et David Fée dir.)
-11) (En cours) Towards a sustainable approach to well-being in education (avec Natia Gegelashvili, Davit Sikharulidze, Kakhaber George Lazarashvili and Paul Gibbs, dir.), International Journal of Health, Wellness and Society, décembre 2024
-12) (En cours) Wellbeing and Quality of Life in the British Isles (avec Vanessa Boullet et Iside Costantini, dir.), Observatoire de la Société britannique, 2024.
-13 (En cours) Discourse and Policy Perspectives on Health and Wellbeing, Springer International Publishing AG, (avec Arnaud Page et Liana Winett, dir.), 2025.
-14) (En cours) Digitalisation of Health Care, International Journal of Health, Wellness and Society, mars 2025.
-15) (En cours) New Trade Linkages, Old Trade Disconnects: Drivers, governance and effects of integrated trade policies in a fragmented world economy, (avec Jean-Baptiste Velut, Richard Ouellet et Gabriel Siles Brügges, dir. Papers in Political Economy, Université de Québec à Montréal, Canada, 2025.
+1) *Wellbeing : Challenging the Anglo-Saxon Hegemony*, Paris : PSN, 2017 (avec Catherine Coron, dir.)
+2) *Understanding Mega-Free Trade Agreements : The Political and Economic Governance of New Cross-Regionalism*, Londres : Routledge, 2017 (avec Jean-Baptiste Velut, Vanessa Boullet, Valérie Peyronel, dir.)
+3) "Wellbeing : Political Discourse and Policy in the Anglosphere", *Revue Internationale Interventions Economiques*, Université de Québec à Montréal, Canada, 62, juin 2019 (avec Nathalie Champroux et Iside Costantini, dir.)
+4) "Seventy Years On: Framing Health Policy in Britain", *Revue française de civilisation britannique*, 24 (3), septembre 2019 (dir.)
+5) "Rethinking the Dynamics of Exclusion in Trade Policymaking", *Journal of New Political Economy*, University of Manchester, Manchester, Royaume-Uni, février 2021 (avec Gabriel Siles Brugges et Jean-Baptiste Velut, dir.)
+6) *The Unequal Costs of Covid-19 on Well-being in Europe*, Springer International Publishing AG, décembre 2022 (avec Vanessa Boullet, Iside Costantini et Paul Gibbs, dir.)
+7) *Le Parti Conservateur au pouvoir : politiques, enjeux et bilan (2010-2020)*, Septentrion, collection : Espaces politiques, juillet 2023 (avec Stéphane Porion)
+8) "Advancing Health and Equity: Best Practices in an International Perspective", Special Issue, *International Journal of Health, Wellness and Society*, octobre 2023 (dir.)
+9) "Le monde britannique face à l'épidémie de Covid - divisions politiques, réalignements diplomatiques, économiques et sociétaux", *Revue française de civilisation britannique*, [En ligne], 28(2) novembre 2023 (avec Philippe Brillet dir.) 
+10) (En cours) *Gentrification and the media: Building and propagating discourses on exclusive urban change*, Amsterdam University Press, 2024 (avec Stephane Sadoux, Marie Pierre Vincent et David Fée dir.)
+11) (En cours) "Towards a sustainable approach to well-being in education" (avec Natia Gegelashvili, Davit Sikharulidze, Kakhaber George Lazarashvili and Paul Gibbs, dir.), *International Journal of Health, Wellness and Society*, décembre 2024
+12) (En cours) "Wellbeing and Quality of Life in the British Isles" (avec Vanessa Boullet et Iside Costantini, dir.), *Observatoire de la Société britannique*, 2024.
+13 (En cours) *Discourse and Policy Perspectives on Health and Wellbeing*, Springer International Publishing AG, (avec Arnaud Page et Liana Winett, dir.), 2025.
+14) (En cours) "Digitalisation of Health Care", *International Journal of Health, Wellness and Society*, mars 2025.
+15) (En cours) "New Trade Linkages, Old Trade Disconnects: Drivers, governance and effects of integrated trade policies in a fragmented world economy", (avec Jean-Baptiste Velut, Richard Ouellet et Gabriel Siles Brügges, dir. *Papers in Political Economy*, Université de Québec à Montréal, Canada, 2025.
 
 ## Article dans une revue
 
  Articles dans revues internationales à comité de lecture
 
-1) « Inequity in supply of health care? The case of Continuing Health Care (CHC) in England »,  International Journal of Health, Wellness and Society, University of Illinois, Chicago, États-Unis, 8(4) décembre 2018, 43˗60.
-2) « Why Person-Centred Care is not working for us: A narrative on Parkinson's Disease »,  Auto/Biography Review, University of Leeds Beckett, Royaume-Uni, mai 2019.
-3) « Introduction » Dalingwater, Louise, Nathalie Champroux et Iside Constantini (dir.), Wellbeing : Political Discourse and Policy in the Anglosphere, Revue Internationale Interventions Economiques, Université de Québec à Montréal, Canada, juin 2019 (avec Nathalie Champroux et Iside Constantini). 
-4) « Linking health and wellbeing in public policy: The case of the UK », Dalingwater, Louise, Nathalie Champroux et Iside Constantini (dir.), Wellbeing : Political Discourse and Policy in the Anglosphere, Papers in Political Economy, Université de Québec à Montréal, Canada, juin 2019.
-5) « Universal health care and the limits to a Canadian-style Progressive Trade Agenda», Stéphane Paquin et Hubert Rioux (dir.), numéro thématique :  L'agenda progressiste et les négociations commerciales internationales, Papers in Political Economy, Université de Quebec à Montréal, Canada, 65, 2020.
-6) « Introduction », Gabriel Siles Brugges, Jean-Baptiste Velut et Louise Dalingwater (dir.), Rethinking the Dynamics of Exclusion in Trade Policymaking, Journal of New Political Economy, University of Manchester, Manchester, Royaume-Uni, février 2021.
-7) « Policies on marginalized migrant communities during Covid-19: migration management prioritized over population health » (avec Elisabeth Mangrio, Michael Strange et Slobodan Zdravkovic), Critical Policy Studies, DOI: 10.1080/19460171.2022.2102046, publié le 22 juillet 2022.
-8) «Embedded Liberalism and Health Populism in the UK in a Post-Truth Era » dans Kevin Kolben et Michèle Rioux (dir.) Special Issue: Re-Embedding Trade in the Shadow of Populism, Politics and Governance, 11 (1), janvier 2023, Open Access.
-9) « Introduction to Special Issue: Advancing Health and Equity: Best Practices in an International Perspective », International Journal of Health, Wellness and Society, University of Illinois, Chicago, États-Unis, décembre 2023.
-10) « Introduction to Special Issue: Towards a sustainable approach to well-being in education », (avec Natia Gegelashvili, Davit Sikharulidze, Kakhaber George Lazarashvili and Paul Gibbs), International Journal of Health, Wellness and Society, décembre 2024.
-11) « Is student well-being better served by an ethic of care or a duty of care?  A perspective on the current debate in English higher educational establishments » dans Natia Gegelashvili, Louise Dalingwater, Davit Sikharulidze, Kakhaber George Lazarashvili and Paul Gibbs (dir.), Towards a sustainable approach to well-being in education, International Journal of Health, Wellness and Society, décembre 2024.
-12) (à paraître) « Introduction to Special Issue: Digitalising Healthcare », International Journal of Health, Wellness and Society, University of Illinois, Chicago, États-Unis, mars 2025.
-13) (à paraître) « “Women Are Hard to Study”:  An Analysis of U.S. and U.K. National Policymaker Discourse on Menopause-related Research », Critical Policy Studies, 2024 (avec Liana Winett)
-14) (à paraître) «“Outside we may become wrinkly but inside we are growing crumbly”:
-Menopause treatment and access as discussed in U.K. and U.S. Legislative Chambers in the 20th and 21st centuries », Critical Policy Studies, 2024 (avec Liana Winett)
-15 (à paraître) « The hidden politics and economics of the COVID-19 crisis: the impact of the pandemic on marginalised groups in Europe » dans Steven Corbett et Jasna Balorda, Hidden politics and economics of COVID-19, Social Policy and Society, décembre 2025.
-16) (à paraître) « Trading health in a post-Brexit era: The case of India » dans Jean-Baptiste Velut, Louise Dalingwater, Richard Ouellet et Gabriel Siles Brügges, dir. New Trade Linkages, Old Trade Disconnects: Drivers, governance and effects of integrated trade policies in a fragmented world economy, Papers in Political Economy, Université de Québec à Montréal, Canada, 2025.
+1) « Inequity in supply of health care? The case of Continuing Health Care (CHC) in England »,  *International Journal of Health, Wellness and Society*, University of Illinois, Chicago, États-Unis, 8(4) décembre 2018, 43˗60.
+2) « Why Person-Centred Care is not working for us: A narrative on Parkinson's Disease »,  *Auto/Biography Review*, University of Leeds Beckett, Royaume-Uni, mai 2019.
+3) « Introduction » Dalingwater, Louise, Nathalie Champroux et Iside Constantini (dir.), Wellbeing : Political Discourse and Policy in the Anglosphere, *Revue Internationale Interventions Economiques*, Université de Québec à Montréal, Canada, juin 2019 (avec Nathalie Champroux et Iside Constantini). 
+4) « Linking health and wellbeing in public policy: The case of the UK », Dalingwater, Louise, Nathalie Champroux et Iside Constantini (dir.), *Wellbeing : Political Discourse and Policy in the Anglosphere*, Papers in Political Economy, Université de Québec à Montréal, Canada, juin 2019.
+5) « Universal health care and the limits to a Canadian-style Progressive Trade Agenda», Stéphane Paquin et Hubert Rioux (dir.), numéro thématique :  L'agenda progressiste et les négociations commerciales internationales, *Papers in Political Economy*, Université de Quebec à Montréal, Canada, 65, 2020.
+6) « Introduction », Gabriel Siles Brugges, Jean-Baptiste Velut et Louise Dalingwater (dir.), Rethinking the Dynamics of Exclusion in Trade Policymaking, *Journal of New Political Economy*, University of Manchester, Manchester, Royaume-Uni, février 2021.
+7) « Policies on marginalized migrant communities during Covid-19: migration management prioritized over population health » (avec Elisabeth Mangrio, Michael Strange et Slobodan Zdravkovic), *Critical Policy Studies*, DOI: 10.1080/19460171.2022.2102046, publié le 22 juillet 2022.
+8) «Embedded Liberalism and Health Populism in the UK in a Post-Truth Era » dans Kevin Kolben et Michèle Rioux (dir.) Special Issue: Re-Embedding Trade in the Shadow of Populism, *Politics and Governance*, 11 (1), janvier 2023, Open Access.
+9) « Introduction to Special Issue: Advancing Health and Equity: Best Practices in an International Perspective », *International Journal of Health, Wellness and Society*, University of Illinois, Chicago, États-Unis, décembre 2023.
+10) « Introduction to Special Issue: Towards a sustainable approach to well-being in education », (avec Natia Gegelashvili, Davit Sikharulidze, Kakhaber George Lazarashvili and Paul Gibbs), *International Journal of Health, Wellness and Society*, décembre 2024.
+11) « Is student well-being better served by an ethic of care or a duty of care?  A perspective on the current debate in English higher educational establishments » dans Natia Gegelashvili, Louise Dalingwater, Davit Sikharulidze, Kakhaber George Lazarashvili and Paul Gibbs (dir.), Towards a sustainable approach to well-being in education, *International Journal of Health, Wellness and Society*, décembre 2024.
+12) (à paraître) « Introduction to Special Issue: Digitalising Healthcare », *International Journal of Health, Wellness and Society*, University of Illinois, Chicago, États-Unis, mars 2025.
+13) (à paraître) « “Women Are Hard to Study”:  An Analysis of U.S. and U.K. National Policymaker Discourse on Menopause-related Research », *Critical Policy Studies*, 2024 (avec Liana Winett)
+14) (à paraître) «“Outside we may become wrinkly but inside we are growing crumbly”: Menopause treatment and access as discussed in U.K. and U.S. Legislative Chambers in the 20th and 21st centuries », *Critical Policy Studies*, 2024 (avec Liana Winett)
+15 (à paraître) « The hidden politics and economics of the COVID-19 crisis: the impact of the pandemic on marginalised groups in Europe » dans Steven Corbett et Jasna Balorda, Hidden politics and economics of COVID-19, *Social Policy and Society*, décembre 2025.
+16) (à paraître) « Trading health in a post-Brexit era: The case of India » dans Jean-Baptiste Velut, Louise Dalingwater, Richard Ouellet et Gabriel Siles Brügges, dir. *New Trade Linkages, Old Trade Disconnects: Drivers, governance and effects of integrated trade policies in a fragmented world economy*, Papers in Political Economy, Université de Québec à Montréal, Canada, 2025.
 
 
 Articles dans revues nationales à comité de lecture
