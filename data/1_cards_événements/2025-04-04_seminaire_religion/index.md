@@ -1,13 +1,8 @@
 ---
-title: "Séminaire Culture & religion" séance Religion et sexualité 
-
-
-Louise Chabanel, EPHE- Sorbonne Université : « Construction hétéronormative de la sexualité dans les milieux évangéliques aux « États-Unis et en France »
-Benjamin Dubrulle, EHESS : « L'accueil des minorités sexuelles et de genre dans l'islam britannique »
-
-"
+title: "Séminaire Culture & religion" séance Religion et sexualité"
 event: true
-abstract: ""
+abstract: "Louise Chabanel, EPHE- Sorbonne Université : « Construction hétéronormative de la sexualité dans les milieux évangéliques aux « États-Unis et en France »
+Benjamin Dubrulle, EHESS : « L'accueil des minorités sexuelles et de genre dans l'islam britannique »"
 ---
 
 ## ﻿Séquentiel
