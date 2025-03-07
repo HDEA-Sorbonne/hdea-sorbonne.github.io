@@ -6,19 +6,7 @@ title: Cori Ng
 abstract: ATER
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Cori Ng
-
-## Fonction
-
- ATER
+![small](Ng_Cori.jpg)
 
 ## Contact
 

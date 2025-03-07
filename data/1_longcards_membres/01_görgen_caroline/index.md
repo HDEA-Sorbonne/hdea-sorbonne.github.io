@@ -6,19 +6,7 @@ title: Carolin Görgen
 abstract: Maîtresse de conférence en civilisation américaine
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Carolin Görgen
-
-## Fonction
-
- Maîtresse de conférence en civilisation américaine
+![small](Gorgen_Carolin.jpg)
 
 ## Contact
 

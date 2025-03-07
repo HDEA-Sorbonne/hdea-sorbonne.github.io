@@ -6,19 +6,7 @@ title: Marie-Madeleine MARTINET
 abstract: professeur émérite
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Marie-Madeleine MARTINET
-
-## Fonction
-
- professeur émérite
+![small](Martinet_Marie-Madeleine.jpg)
 
 ## Contact
 

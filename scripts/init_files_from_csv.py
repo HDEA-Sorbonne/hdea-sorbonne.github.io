@@ -9,6 +9,7 @@ MEMBER_DIR: Path = DATA_DIR / '4_longcards_membres'
 EVENT_DIR: Path = DATA_DIR / "1_cards_événements"
 SPLIT_PATTERN: str = r"\s|\'|\-|\_|«|»|,"
 IMAGE_PATH = "./avatar.webp"
+IGNORE_MEMBER_COLUMNS = ["Nom d'utilisateur", "Prénom et Nom", "Fonction"]
 
 def make_yaml_header_member(name: str, position: str) -> str:
     return (f"---\n" +
@@ -45,12 +46,15 @@ def generate_markdown_page_event(event_dict: dict, main_header: str, author_head
 def generate_markdown_page_member(member_dict: dict, main_header: str, position_header: str, photo_header: str):
     md_page: str = make_yaml_header_member(
         name=member_dict[main_header], position=member_dict[position_header])
+    md_page += f"# {member_dict[main_header]}\n"
     # add photo to page
-    # md_page += f"![Photo of {member_dict[photo_header]}]()\n\n"
-    md_page += f'<img src="{IMAGE_PATH}" width="200px" />\n\n'
+    if member_dict[photo_header] != "":
+        md_page += f"![small]({member_dict[photo_header]})\n\n"
+    else:
+        md_page += f'<img src="{IMAGE_PATH}" width="200px" />\n\n'
     member_dict.pop(photo_header)
     for key, val in member_dict.items():
-        if val != "":
+        if val != "" and key not in IGNORE_MEMBER_COLUMNS:
             md_page += f"## {key}\n\n {val}\n\n"
     return md_page
 
@@ -65,7 +69,10 @@ def csv_to_markdown_members(csv_file: str, main_header: str = "Prénom et Nom", 
             member_subdir: Path = MEMBER_DIR / ("_".join(member_name.split())).lower()
 
             member_subdir.mkdir(parents=True, exist_ok=True)
-            shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
+            if row[photo_header] != '' and os.path.exists('./inputs/photos/' + row[photo_header]):
+                shutil.copy('./inputs/photos/' + row[photo_header], str(member_subdir / row[photo_header]))
+            else:
+                shutil.copy('./resources/avatar.webp', str(member_subdir / 'avatar.webp'))
             with (member_subdir / "index.md").open(mode="w", encoding="utf-8") as md_file:
                 md_file.write(generate_markdown_page_member(member_dict=row,
                                                             main_header=main_header, position_header=position_header, photo_header=photo_header))

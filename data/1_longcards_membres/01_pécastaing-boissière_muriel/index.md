@@ -6,19 +6,7 @@ title: Muriel Pécastaing-Boissière
 abstract: MCF hors-classe en Civilisation britannique
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Muriel Pécastaing-Boissière
-
-## Fonction
-
- MCF hors-classe en Civilisation britannique
+![small](mpb_052024.png)
 
 ## Contact
 

@@ -8,17 +8,6 @@ abstract: Professeur des universités
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Will SLAUTER
-
-## Fonction
-
- Professeur des universités
 
 ## Contact
 

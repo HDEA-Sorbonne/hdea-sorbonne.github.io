@@ -8,18 +8,6 @@ abstract: Doctorante
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Marie Sellier
-
-## Fonction
-
- Doctorante
-
 ## Contact
 
  marie.etu.sellier@gmail.com

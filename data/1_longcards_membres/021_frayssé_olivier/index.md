@@ -8,18 +8,6 @@ abstract: Professeur émérite
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Olivier Frayssé
-
-## Fonction
-
- Professeur émérite
-
 ## Contact
 
  fraysseo@aol.com

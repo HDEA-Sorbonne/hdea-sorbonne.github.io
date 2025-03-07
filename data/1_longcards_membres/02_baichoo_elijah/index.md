@@ -6,19 +6,7 @@ title: Elijah Baichoo
 abstract: doctorant
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Elijah Baichoo
-
-## Fonction
-
- doctorant
+![small](Baichoo_Elijah.jpg)
 
 ## Contact
 

@@ -6,19 +6,7 @@ title: Marion Marchet
 abstract: Membre associée
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Marion Marchet
-
-## Fonction
-
- Membre associée
+![small](photo_id_2_1.jpg)
 
 ## Contact
 

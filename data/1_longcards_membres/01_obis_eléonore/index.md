@@ -6,19 +6,7 @@ title: Eléonore Obis
 abstract: MCF UFR LEA
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Eléonore Obis
-
-## Fonction
-
- MCF UFR LEA
+![small](Obis_Eleonore.jpg)
 
 ## Contact
 

@@ -8,10 +8,6 @@ abstract: Etudiante doctorante
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
 ## Prénom et Nom
 
  Amel Boukaabache

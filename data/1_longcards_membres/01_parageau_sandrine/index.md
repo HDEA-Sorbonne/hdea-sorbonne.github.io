@@ -6,19 +6,7 @@ title: Sandrine Parageau
 abstract: Professeure des Universités
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Sandrine Parageau
-
-## Fonction
-
- Professeure des Universités
+![small](Parageau_Sandrine.jpg)
 
 ## Contact
 

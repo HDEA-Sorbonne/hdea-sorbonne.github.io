@@ -8,18 +8,6 @@ abstract: Professeure
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Louise Dalingwater
-
-## Fonction
-
- Professeure
-
 ## Contact
 
  louise.dalingwater@sorbonne-universite.fr

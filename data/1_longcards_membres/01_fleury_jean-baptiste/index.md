@@ -8,18 +8,6 @@ abstract: Professeur des universités
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Jean-Baptiste Fleury
-
-## Fonction
-
- Professeur des universités
-
 ## Contact
 
  jean-baptiste.fleury@sorbonne-universite.fr

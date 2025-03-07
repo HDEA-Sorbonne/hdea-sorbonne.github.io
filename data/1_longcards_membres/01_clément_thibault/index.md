@@ -8,18 +8,6 @@ abstract: Maître de conférences
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Thibaut Clément
-
-## Fonction
-
- Maître de conférences
-
 ## Contact
 
  thibaut.clement@sorbonne-universite.fr

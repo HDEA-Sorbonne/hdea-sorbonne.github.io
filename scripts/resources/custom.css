@@ -9,3 +9,16 @@
     --text-num: 30;
     --bg-num: 255;
 }
+
+#article-header h1{
+    color: white
+}
+
+.landing-block{
+    max-width: 33rem !important;
+}
+
+#landing-logo{
+    max-height:200px !important;
+    top: 0 !important;
+}

@@ -6,19 +6,7 @@ title: Charlotte Brivio
 abstract: Doctorante, chargée d'enseignement
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Charlotte Brivio
-
-## Fonction
-
- Doctorante, chargée d'enseignement
+![small](Brivio_Charlotte.jpeg)
 
 ## Contact
 

@@ -6,19 +6,7 @@ title: Louise CHABANEL
 abstract: Doctorante
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Louise CHABANEL
-
-## Fonction
-
- Doctorante
+![small](Chabanel_Louise.jpg)
 
 ## Contact
 

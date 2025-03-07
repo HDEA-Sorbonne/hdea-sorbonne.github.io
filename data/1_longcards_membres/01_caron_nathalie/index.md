@@ -8,18 +8,6 @@ abstract: Professeure des universités
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Nathalie Caron
-
-## Fonction
-
- Professeure des universités
-
 ## Contact
 
  nathalie.caron@sorbonne-universite.fr

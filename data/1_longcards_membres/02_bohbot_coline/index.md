@@ -6,19 +6,7 @@ title: Coline BOHBOT
 abstract: Doctorante
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Coline BOHBOT
-
-## Fonction
-
- Doctorante
+![small](Bohbot_Coline.jpg)
 
 ## Contact
 

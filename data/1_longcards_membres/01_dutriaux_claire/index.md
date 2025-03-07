@@ -6,19 +6,7 @@ title: Claire Dutriaux
 abstract: Maîtresse de conférences
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Claire Dutriaux
-
-## Fonction
-
- Maîtresse de conférences
+![small](Dutriaux_Claire.jpg)
 
 ## Contact
 

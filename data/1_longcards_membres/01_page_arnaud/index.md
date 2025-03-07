@@ -6,19 +6,8 @@ title: Arnaud Page
 abstract: Maître de Conférences HDR
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- PAGEA
-
-## Prénom et Nom
-
- Arnaud Page
-
-## Fonction
-
- Maître de Conférences HDR
+# Arnaud Page
+![small](Page_Arnaud.jpg)
 
 ## Contact
 

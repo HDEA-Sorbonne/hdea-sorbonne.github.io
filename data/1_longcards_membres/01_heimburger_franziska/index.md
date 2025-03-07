@@ -8,18 +8,6 @@ abstract: MCF
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Franziska Heimburger
-
-## Fonction
-
- MCF
-
 ## Contact
 
  Franziska.Heimburger@sorbonne-universite.fr

@@ -6,20 +6,6 @@ title: Steven O'Connor
 abstract: Maître de conférences en Civilisation britannique
 ---
 
-<img src="./avatar.webp" width="200px" />
-
-## ﻿Nom d'utilisateur
-
- Anonymous
-
-## Prénom et Nom
-
- Steven O'Connor
-
-## Fonction
-
- Maître de conférences en Civilisation britannique
-
 ## Contact
 
  steven.oconnor@sorbonne-universite.fr
