@@ -15,8 +15,8 @@ abstract: Maître de Conférences HDR
 
 ## Thèmes de recherche
 
-Histoire des sciences
-Histoire de l'agriculture et de l'environnement
+Histoire des sciences; 
+Histoire de l'agriculture et de l'environnement; 
 Histoire de l'alimentation
 
 ## Ouvrage et direction de numéro de revue
@@ -27,7 +27,10 @@ Histoire de l'alimentation
 
 ## Article dans une revue
 
+« La mesure de la faim : Les enquêtes nutritionnelles d’Edward Smith (Grande-Bretagne, années 1860) », *Revue d’histoire du XIXe siècle*, juin 2025 (à paraître).
+
  “Pure White Bread? Bleached Flour, Contestations, and Regulations, 1900-1950”, *Technology and Culture*, vol. 64, n° 1, 2023, pp. 149-171.
+ 
 “'The True Food of the Brain': Protéines et constructions raciales en Angleterre, 1840-1910”, *Cahiers Victoriens et Edouardiens*, n° 97, 2023.
 
 “Glutenophilia: Chemistry and Flour Quality in Nineteenth-Century France and Great Britain”, *Ambix (The Journal of the Society for the History of Alchemy and Chemistry)*, vol. 68, n° 4, 2021, pp. 365-384 (avec Maxime Guesnon).
@@ -88,7 +91,7 @@ Histoire de l'alimentation
 
 ## Vulgarisation et interventions dans les média
 
- Invité de l'émission “Le Cours de l'Histoire”, France Culture, 2 juin 2022: “Chimie à la ferme, pollution intensive”.
+ Invité de l'émission “Le Cours de l'Histoire”, *France Culture*, 2 juin 2022: “Chimie à la ferme, pollution intensive”.
 
 ## Organisation d'événements et partenariats
 
