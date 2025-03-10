@@ -5,8 +5,7 @@ prettyName: ClaraVinh
 title: Clara Vinh
 abstract: Doctorante
 ---
-
-<img src="./avatar.webp" width="200px" />
+![small](Vinh_Clara.jpg)
 
 ## ﻿Nom d'utilisateur
 
