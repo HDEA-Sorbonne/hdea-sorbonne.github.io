@@ -6,7 +6,7 @@ title: Thibaut Clément
 abstract: Maître de conférences
 ---
 
-<img src="./avatar.webp" width="200px" />
+![small](Clement_Thibaut.jpg)
 
 ## Contact
 
