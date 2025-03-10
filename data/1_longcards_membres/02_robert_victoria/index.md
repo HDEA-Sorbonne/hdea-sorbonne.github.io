@@ -6,7 +6,7 @@ title: Victoria Robert
 abstract: Doctorante associée- ILCEA4 UGA
 ---
 
-![small]( Robert_Victoria.jpeg)
+![small](Robert_Victoria.jpg)
 
 ## Contact
 
