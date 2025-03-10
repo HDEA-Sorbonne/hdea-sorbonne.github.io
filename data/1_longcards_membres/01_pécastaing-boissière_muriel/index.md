@@ -5,8 +5,7 @@ prettyName: MurielPécastaingBoissière
 title: Muriel Pécastaing-Boissière
 abstract: MCF hors-classe en Civilisation britannique
 ---
-
-![small](mpb_052024.png)
+![small](Pecastaing_Boissiere_Muriel.jpg)
 
 ## Contact
 
