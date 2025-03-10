@@ -6,7 +6,7 @@ title: Mélanie Cournil
 abstract: Maîtresse de conférences en civilisation britannique
 ---
 
-![small](melanie_cournil.jpg)
+![small](Cournil_Melanie.jpg)
 
 ## Contact
 
