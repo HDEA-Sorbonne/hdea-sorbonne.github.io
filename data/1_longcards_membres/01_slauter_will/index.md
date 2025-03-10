@@ -5,8 +5,7 @@ prettyName: WillSLAUTER
 title: Will SLAUTER
 abstract: Professeur des universités
 ---
-
-<img src="./avatar.webp" width="200px" />
+![small](2_slauter_photo.jpg)
 
 
 ## Contact
