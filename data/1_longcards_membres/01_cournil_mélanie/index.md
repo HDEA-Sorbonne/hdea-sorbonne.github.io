@@ -31,7 +31,7 @@ Ouvrages pédagogiques:
 
 ## Article dans une revue
 
- - « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », accepté, à paraître dans le *British Journal of the History of Science*.
+- « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », *British Journal of the History of Science*, février 2025.
 - « 'What Dangerous Men' : La pratique de la médecine sur l'île de la Dominique à la fin du XVIIIe siècle », *Revue de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles*, N°75, « La couleur », décembre 2018, publication en ligne, [ https://journals.openedition.org/1718/1333].
 - « La construction d'un discours antiabolitionniste britannique dans les années 1830 : James MacQueen et la 'controverse Mary Prince' », *Études écossaises*, N°20, avril 2018, publication en ligne, [https://journals.openedition.org/etudesecossaises/1422].
 - « La colonie de Darien : l'échec de l'empire écossais à la fin du XVIIe siècle », *La Vie des idées*, publication en ligne, 13 octobre 2015, [https://laviedesidees.fr/La-colonie-de-Darien.html].
@@ -39,14 +39,14 @@ Ouvrages pédagogiques:
 
 ## Chapitre dans un ouvrage collectif
 
- - Introduction scientifique de *L'histoire de Mary Prince, esclave antillaise*, Éditions Karthala (à paraître en 2025).
+- Introduction scientifique de *L'histoire de Mary Prince, esclave antillaise*, Éditions Karthala (à paraître en 2025).
 - « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s)*. 1600-1840 », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit (accepté, à paraître en 2025).
 - Traductions avec appareil critique de textes de Robert Wedderburn, in Marie-Jeanne Rossignol & Michaël Roy (dirs.), *Une anthologie de la pensée noire : États-Unis et Haïti (XVIIIe-XIXe siècles)*, Paris : Hors d'atteinte, 2023, pp. 78-84 ; 311-315.
 - « De Leith à la Barbade, via la côte de l'Or : le voyage triangulaire de la brigantine Neptune en 1729 », in Tri Tran (dir.), *L'eau en Écosse/Water in Scotland*, Calédonia, Annales Littéraires, Franche-Comté: PUFC, 2022, pp. 187-202.
 
 ## Interventions orales récentes
 
- - « Prendre la mesure des échanges botaniques à l'ère impériale : Une approche quantitative et qualitative de la correspondance professionnelle de William Jackson Hooker », séminaire d'équipe HDEA, 25 septembre 2024
+- « Prendre la mesure des échanges botaniques à l'ère impériale : Une approche quantitative et qualitative de la correspondance professionnelle de William Jackson Hooker », séminaire d'équipe HDEA, 25 septembre 2024
 - « Collecting botanical specimens for the Glasgow Botanic Gardens: Scottish plant hunters in North America (1820s-1830s) », Congrès annuel de l'Omohundro Institute of Early American History & Culture, Poitiers, 19-21 juin 2024.
 - « Les réseaux scientifiques de William Jackson Hooker : une cartographie botanique de l'Empire britannique ? », Séminaire Nineteenth-Century Worlds, CREA/Université Paris Nanterre, 12 avril 2024.
 - « Collecteurs de plantes en Amérique du Nord (1820-1841) : la botanique au prisme de l'Empire britannique », Journée d'étude « Voyageurs européens en Amérique du Nord : perception(s), confrontation(s), représentation(s). 1600-1840 », Université Sorbonne Paris Nord/Condorcet, 10 novembre 2023.
