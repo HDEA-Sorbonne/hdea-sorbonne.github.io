@@ -107,6 +107,9 @@ Organisation de 11 séances avec Irène Delcourt, Alice Bonzom, Joe Karackattu, 
 
 ## Autres / Divers
 
+#### Responsabilités scientifiques au sein de l'unité de recherche HDEA:
+- Membre élue du conseil de HDEA (2019- présent, rééelue en décembre 2023)
+
 #### Activité éditoriale:
 - Membre du comité de lecture de la revue *Études Écossaises* (2024-)
 - Évaluation d'articles et de chapitres pour le *Journal of Early American History*, la Revue *LISA*, la *Revue d'histoire du XIXe siècle*, et les éditions Le Manuscrit (2022- )
