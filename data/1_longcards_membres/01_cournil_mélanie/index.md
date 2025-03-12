@@ -16,11 +16,13 @@ abstract: Maîtresse de conférences en civilisation britannique
 
 ## Thèmes de recherche
 
- Thématiques générales: histoire de l'Empire britannique (XIXe s.); histoire de la botanique; histoire des sciences; histoire de l'Écosse (XVIIIe-XIXe s.); histoire de Glasgow; histoire des esclavage.
+#### Thématiques générales: 
+Histoire de l'Empire britannique (XIXe s.); histoire de la botanique; histoire des sciences; histoire de l'Écosse (XVIIIe-XIXe s.); histoire de Glasgow; histoire des esclavages
 
-Thématiques particulières: jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoirs; réseaux impériaux; William Jackson Hooker
+#### Thématiques particulières:
+Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoirs; réseaux impériaux; William Jackson Hooker
 
-## Ouvrage et direction de numéro de revue
+## Ouvrages et direction de numéros de revue
 
  #### Direction de numéro de revue:
 
@@ -35,13 +37,13 @@ Thématiques particulières: jardins botaniques; histoire des Glasgow Botanic Ga
 
 - « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », *British Journal of the History of Science*, février 2025.
 - « 'What Dangerous Men' : La pratique de la médecine sur l'île de la Dominique à la fin du XVIIIe siècle », *Revue de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles*, N°75, « La couleur », décembre 2018, publication en ligne, [ https://journals.openedition.org/1718/1333].
-- « La construction d'un discours antiabolitionniste britannique dans les années 1830 : James MacQueen et la 'controverse Mary Prince' », *Études écossaises*, N°20, avril 2018, publication en ligne, [https://journals.openedition.org/etudesecossaises/1422].
+- « La construction d'un discours antiabolitionniste britannique dans les années 1830 : James MacQueen et la 'controverse Mary Prince'», *Études écossaises*, N°20, avril 2018, publication en ligne, [https://journals.openedition.org/etudesecossaises/1422].
 - « La colonie de Darien : l'échec de l'empire écossais à la fin du XVIIe siècle », *La Vie des idées*, publication en ligne, 13 octobre 2015, [https://laviedesidees.fr/La-colonie-de-Darien.html].
 - « Doomed to fail? Scotland and Empire in the late 17th century », *Books & Ideas*, publication en ligne, 26 octobre 2015, [https://booksandideas.net/Doomed-to-Fail.html].
 
 ## Chapitres dans un ouvrage collectif
 
-- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s)*. 1600-1840 », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit (accepté, à paraître en 2025).
+- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s). 1600-1840* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit (accepté, à paraître en 2025).
 - « De Leith à la Barbade, via la côte de l'Or : le voyage triangulaire de la brigantine Neptune en 1729 », in Tri Tran (dir.), *L'eau en Écosse/Water in Scotland*, Calédonia, Annales Littéraires, Franche-Comté: PUFC, 2022, pp. 187-202.
 
 ## Autres publications
@@ -61,7 +63,7 @@ Thématiques particulières: jardins botaniques; histoire des Glasgow Botanic Ga
 - « Comment présenter ses travaux de recherches : Conseils et stratégies de diffusion à destination des doctorant.e.s », Séminaire AREA (laboratoire junior des doctorant·es de HDEA), Sorbonne Université, 21 février 2023.
 - Participation à la table ronde « Science, instruction et culture », Colloque Jeunes chercheurs REDEHJA (Réseau pour le développement européen de l'histoire de la Jeune Amérique) « État des savoirs, enjeux et perspectives de la recherche sur la jeune Amérique », Fondation des États-Unis (Paris), 29-30 septembre 2022.
 
-## Diffusion de la recherche et interventions dans les médias
+## Diffusion de la recherche auprès du grand public
 
 #### Entretiens:
 
@@ -110,14 +112,14 @@ Organisation de 11 séances avec Irène Delcourt, Alice Bonzom, Joe Karackattu, 
 #### Responsabilités scientifiques au sein de l'unité de recherche HDEA:
 - Membre élue du conseil de HDEA (2019- présent, rééelue en décembre 2023)
 
-#### Activité éditoriale:
+#### Activités éditoriales:
 - Membre du comité de lecture de la revue *Études Écossaises* (2024-)
 - Évaluation d'articles et de chapitres pour le *Journal of Early American History*, la Revue *LISA*, la *Revue d'histoire du XIXe siècle*, et les éditions Le Manuscrit (2022- )
-- Membre du conseil de rédaction des revues en ligne ¨La Vie des idées* et *Books & Ideas* (2021- )
+- Membre du conseil de rédaction des revues en ligne *La Vie des idées* et *Books & Ideas* (2021- )
 - Co-rédactrice en chef des revues en ligne *La Vie des idées* et *Books & Ideas* (2016-2021), responsable générale du site *Books & Ideas* (2016-2018) et co-responsable du développement international des deux revues (2018-2021).
 
 #### Distinctions et bourses de recherche:
-- Bourse de recherche Society of Antiquaries of Scotland, 2025.
+- Bourse de recherche Society of Antiquaries of Scotland (*travel grant*), 2025.
 - Visiting Research Fellow, University of Glasgow Library, Glasgow, 2024.
 - Dibner Research Fellow in the History of Science and Technology, The Huntington Library, San Marino, États-Unis (short-term fellowship de deux mois, mai-juin), 2023.
 - Lauréate du prix de thèse de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles, 2017.
