@@ -29,7 +29,7 @@ abstract: professeur émérite
 
 - « Eighteenth-century visuality and ambiguous spaces of sociability: Townscapes, architecture and entertainments », in « Sociable Spaces in Eighteenth-Century Britain: A Material and Visual Experience », *Etudes Anglaises* 74/3 (2021): 317-35.
 
-## Chapitre dans un ouvrage collectif
+## Chapitres dans un ouvrage collectif
 
  (depuis 2020)
  
