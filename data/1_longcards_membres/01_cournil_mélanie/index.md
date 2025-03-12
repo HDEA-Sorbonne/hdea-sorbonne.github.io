@@ -24,14 +24,14 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Ouvrages et direction de numéros de revue
 
- #### Direction de numéro de revue:
-
-- Mélanie Cournil & Jeanne Schaaf (Université Lumière Lyon 2), « Scottish Territories and Memories », *Études Écossaises*, N°25 (à paraître en ligne début 2026).
-
 #### Ouvrages pédagogiques:
 
 - Mélanie Cournil, Tanguy Martin-Payen & Maud Michaud. *Innovations scientifiques et responsabilité*. Neuilly, Atlande, Collection clefs concours : Dossier Anglais (CAPES), 2019, 256 p.
 - Mélanie Cournil, Tanguy Martin-Payen & Maud Michaud. *L'idée de progrès*. Neuilly, Atlande, Collection clefs concours : Dossier Anglais (CAPES), 2018, 505 p.
+
+#### Direction de numéro de revue:
+
+- Mélanie Cournil & Jeanne Schaaf (Université Lumière Lyon 2), « Scottish Territories and Memories », *Études Écossaises*, N°25 (à paraître en ligne début 2026).
 
 ## Articles dans une revue
 
