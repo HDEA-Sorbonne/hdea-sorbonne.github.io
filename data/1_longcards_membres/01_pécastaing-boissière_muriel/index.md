@@ -17,15 +17,15 @@ abstract: MCF hors-classe en Civilisation britannique
 
 ## Ouvrage et direction de numéro de revue
 
- Annie Besant: Struggles and Quest. Londres : TPH, 2017
+ — *Annie Besant: Struggles and Quest*. Londres : TPH, 2017
 
 ## Article dans une revue
 
- “'Rents in the Veil of Time': Annie Besant's Auto-biographies of Giordano Bruno” in Cahiers victoriens et édouardiens 98, Automne  2023
+ — “'Rents in the Veil of Time': Annie Besant's Auto-biographies of Giordano Bruno” in *Cahiers victoriens et édouardiens* 98, Automne  2023
 
 ## Chapitre dans un ouvrage collectif
 
- “ 'I would not have left your platform had I not been compelled...': Annie Besant's exclusion from the National Secular Society (1891)” in Hedenborg White, Manon et Tim Rudbog, éds, Esotericism and Deviance, Brill, 2023
+ — “ 'I would not have left your platform had I not been compelled...': Annie Besant's exclusion from the National Secular Society (1891)” in Hedenborg White, Manon et Tim Rudbog, éds, *Esotericism and Deviance*, Brill, 2023
 
 ## Interventions orales récentes
 
@@ -34,8 +34,8 @@ abstract: MCF hors-classe en Civilisation britannique
 
 ## Vulgarisation et interventions dans les média
 
- — consultante sur l'ouvrage "Elles ne sont pas celles que vous croyez" (Causette & Rageot, 2023) par les journalistes du magazine Causette Anna Cuxac, Sylvie Fagnart, Lauren Malka, Alison Terrien et Alizée Vincent
-— consultante sur le film de Léa Todorov "La Nouvelle Femme" (2023) adapté de la vie de Maria Montessori
+ — consultante sur l'ouvrage *Elles ne sont pas celles que vous croyez* (Causette & Rageot, 2023) par les journalistes du magazine *Causette* Anna Cuxac, Sylvie Fagnart, Lauren Malka, Alison Terrien et Alizée Vincent
+— consultante sur le film de Léa Todorov *La Nouvelle Femme* (2023) adapté de la vie de Maria Montessori
 
 ## Organisation d'événements et partenariats
 
@@ -44,10 +44,10 @@ abstract: MCF hors-classe en Civilisation britannique
 
 ## Autres / Divers
 
- Membre fondateur (2015) et membre du jury de l'Association MAOUI / Prix Manon Gozard de la recherche étudiante en Civilisation et Histoire britanniques
+ —  Membre fondateur (2015) et membre du jury de l'Association MAOUI / Prix Manon Gozard de la recherche étudiante en Civilisation et Histoire britanniques
 
 ## Lien(s) vers autres pages
 
- Administratrice de la page Facebook de l'association Maoui
+ —  Administratrice de la page Facebook de l'association Maoui
 https://www.facebook.com/groups/1631529440410908/
 
