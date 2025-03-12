@@ -3,22 +3,10 @@ uuid: 2b94f2b3-ba02-45a0-b319-d18c143b9835
 prettyName: AmelBoukaabache
 
 title: Amel Boukaabache
-abstract: Etudiante doctorante
+abstract: Doctorante
 ---
 
 <img src="./avatar.webp" width="200px" />
-
-## Prénom et Nom
-
- Amel Boukaabache
-
-## Fonction
-
- Etudiante doctorante
-
-## Contact
-
- 0663834291
 
 ## Thèmes de recherche
 
