@@ -8,10 +8,6 @@ abstract: Doctorante
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Anonymous
-
 ## Prénom et Nom
 
  Sandrine Gengoux-Lauzat
