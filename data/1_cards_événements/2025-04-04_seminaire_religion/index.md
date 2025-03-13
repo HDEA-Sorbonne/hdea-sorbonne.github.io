@@ -6,9 +6,6 @@ abstract: "Louise Chabanel, EPHE- Sorbonne Université : « Construction hétér
 Benjamin Dubrulle, EHESS : « L'accueil des minorités sexuelles et de genre dans l'islam britannique »"
 ---
 
-## ﻿Séquentiel
-
- 2
 
 ## Titre
 
