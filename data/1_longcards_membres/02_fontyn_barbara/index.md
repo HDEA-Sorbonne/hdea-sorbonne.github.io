@@ -31,7 +31,10 @@ abstract: Doctorante
 ## Autres / Divers
 
  Traductions aux éditions de l'Oxalide:
+ 
 *Albert Nobbs et autres nouvelles*, George Moore
+
 *Irish Fairy Tales*, James Stephens
+
 *J. R. R. Tolkien and the Battle of the Somme*, Emmanuel Beaudry & Corentin Lecorsier
 
