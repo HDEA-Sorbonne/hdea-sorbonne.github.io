@@ -16,11 +16,11 @@ abstract: MCF UFR LEA
 
  Le vin aux États-Unis, le vin en Californie, l'œnologie, la dégustation, le vin nature, le marketing du vin, la littérature sur le vin, l'histoire du vin, le concept de terroir, l'adaptation au réchauffement climatique.
 
-## Chapitre dans un ouvrage collectif
+## Chapitres dans un ouvrage collectif
 
- « Wine labels and consumer culture in the United States » in Visualizing Consumer Culture. Edited by Claire Dutriaux and Clémentine Tholas. InMedia 7.1. (2018)
+ « Wine labels and consumer culture in the United States » in *Visualizing Consumer Culture*. Edited by Claire Dutriaux and Clémentine Tholas. *InMedia* 7.1. (2018)
 
-Avec Jean Szlamowicz. « Analyse stylistique, sémantique et culturelle de la terminologie dans les notes de dégustation oenologiques en anglais ». Du sens à l'expérience : Gastronomie et oenologie au prisme de leurs terminologies. Dir. Anne Parizot et Benoît Verdier. Reims, Ed. Epure (2018), pp. 205-222
+Avec Jean Szlamowicz. « Analyse stylistique, sémantique et culturelle de la terminologie dans les notes de dégustation oenologiques en anglais ». *Du sens à l'expérience : Gastronomie et oenologie au prisme de leurs terminologies*. Dir. Anne Parizot et Benoît Verdier. Reims, Ed. Epure (2018), pp. 205-222
 
 ## Interventions orales récentes
 
@@ -30,7 +30,7 @@ Avec Jean Szlamowicz. « Analyse stylistique, sémantique et culturelle de la te
 
 ## Autres / Divers
 
- Traduction de l'ouvrage de Patrick Mc Govern, Ancient Wine. The Search for the Origins of Viniculture. Princeton : Princeton University Press. 2007 / Naissance de la vigne et du vin. Trad. Eléonore Obis. Paris : éditions Libre et Solidaire. décembre 2015 (464 pages)
+ Traduction de l'ouvrage de Patrick Mc Govern, *Ancient Wine. The Search for the Origins of Viniculture*. Princeton: Princeton University Press. 2007 / *Naissance de la vigne et du vin*. Trad. Eléonore Obis. Paris : éditions Libre et Solidaire. décembre 2015 (464 pages)
 
 ## Lien(s) vers autres pages
 
