@@ -27,23 +27,23 @@ Research topics:
 
  Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	“Bound Histories: Memories, Materialities, and Meanings of Photo Albums,” *Photographica*, No. 12 (forthcoming 2026).
 
- Carolin Görgen and Monica Bravo, eds. *Ecologies of Photography in the American West*, under advance contract with Leuven University Press, expected 2026/27. 
+ Carolin Görgen and Monica Bravo, editors, *Ecologies of Photography in the American West*, under advance contract with Leuven University Press, expected 2026/27. 
 
-Carolin Görgen & Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” *Miranda: Journal of the English-speaking World* (2022), https://journals.openedition.org/miranda/44163.
+ Carolin Görgen and Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” *Miranda: Journal of the English-speaking World* (2022), https://journals.openedition.org/miranda/44163.
 
 ## Articles dans une revue
-
- Selection of articles:
 
 Görgen, Carolin. “Californie à Paris: Photographic Circulation and the Making of Imperial Identities, c. 1900,” *Transatlantica*, no. 2, 2024.
 
 Görgen, Carolin. “Vienna to San Francisco via Chicago: Camera Club Exchanges in the 1890s,” *Transatlantic Cultures*, 2023.
 
-Görgen, Carolin. “Camera Obscura: Revue internationale pour la photographie paraissant tous les mois en 4 langues, 1899-1901.” *Photographica*, no. 3 (2021).
-
 Görgen, Carolin. “Everyday Photography? Politicizing a 'vernacular' photo album of the San Francisco Earthquake and Fire of 1906,” *Interfaces: Image Text Language*, No. 44, 2021, pp. 29-51.
 
+Görgen, Carolin. “Camera Obscura: Revue internationale pour la photographie paraissant tous les mois en 4 langues, 1899-1901.” *Photographica*, no. 3 (2021).
+
 Görgen, Carolin. “'San Francisco on a thousand plates' - New perspectives on photo-historical research around 1900 through the lens of the California Camera Club,” *Interfaces: Image Text Language*, No. 41, 2019, pp. 7-24.
+
+Görgen, Carolin. “‘Bring your Camera’ – The Western American landscape through California Camera Club practice in the early 1900s,” *Journal of the LUCAS Graduate Conference*, Vol. 7, 2019, pp. 19-37. 
 
 Görgen, Carolin. “Des cendres à la nouvelle métropole. Le California Camera Club et la reconstruction photographique de San Francisco au lendemain du tremblement de terre et de l'incendie de 1906,” *Transbordeur: Photographie Histoire Société*, No. 2, 2018, pp. 186-199.
 
@@ -51,7 +51,7 @@ Görgen, Carolin. “Historiens du territoire et de la pratique : Les photograph
 
 ## Chapitres dans un ouvrage collectif
 
- Görgen, Carolin. “Ruines Écologiques du Tremblement de Terre de San Francisco,” in *Les formes de la Ruine*, eds. Alain Schnapp and Sylvie Ramond (Lyon and Paris: Musée des Beaux-Arts de Lyon and Lienart, 2024).
+Görgen, Carolin. “Ruines Écologiques du Tremblement de Terre de San Francisco,” in *Les formes de la Ruine*, eds. Alain Schnapp and Sylvie Ramond (Lyon and Paris: Musée des Beaux-Arts de Lyon and Lienart, 2024).
 
 Görgen, Carolin. “Toward a 'History of Uses': Photographic Dissemination in the Early Twentieth-century American West,” in *Factuality and Utilization of Early Photography*, eds. Tatjana Bartsch et al. (Berlin and Leipzig: German Archeological Institute & Harrassowitz Verlag, 2022).
 
@@ -63,23 +63,27 @@ Görgen, Carolin. “Arnold Genthe and the California Camera Club,” in *Among 
 
 “'I know what I'm doing' - Female Empowerment and Gendered Ideas of Photography in the Transatlantic Camera Club Network,” Keynote for the conference “Love and Lenses: Photographic Couples, Gender Relationships, and Transatlantic Networks,” Maison Française d'Oxford & Rothermore American Institute, Oxford, UK, Oct. 12, 2023
 
-“Women Photographers in the West Coast Camera Club Environment, c. 1900,” Cascadia Art Museum, Seattle, Aug. 30, 2023
+“Women Photographers in the West Coast Camera Club Environment,” Cascadia Art Museum, Seattle, Aug. 30, 2023
 
 “Californie 1900: Circulating California's Environmental Imagination at the Paris World's Fair,” Seminar of the Department of European Languages and Transcultural Studies, University of California Los Angeles, Sept. 27, 2023
 
 “Camera Clubs against the Canon: Writing a Californian Club back into U.S. Photo-history,” Conference “Photographic Societies and Camera Clubs,” History and Theory of Photography Research Centre, Birkbeck, University of London, May 25, 2023
 
+“‘It must be in the climate’: The Los Angeles Camera Club and extractive regional boosterism, c. 1900,” Conference: “Planning and Imagining Los Angeles,” Sorbonne Université/HDEA, Paris, Oct. 15, 2021
+
 ## Vulgarisation et interventions dans les média
 
- “Another West: Ecologies of Photography,” Blog post with Monica Bravo for Verso - Blog of the Huntington Library, 2024
-https://huntington.org/verso/another-west-ecologies-photography
+ “Another West: Ecologies of Photography,” Blog post with Monica Bravo for *Verso*, Blog of the Huntington Library, 2024
+https://huntington.org/verso/another-west-ecologies-photography.
 
 “Politicizing vernacular photographs of the San Francisco Earthquake and Fire,” Apr. 20, 2021, California Historical Society, San Francisco & online; aired on U.S. television C-SPAN in 2021. 
 Watch: https://www.youtube.com/watch?v=AMQXdYOqonw
 
+“Women in the out of doors: The Los Angeles Camera Club, c. 1900,” Blog post for *Photo-Friends*, Blog of the Los Angeles Public Library, http://photofriends.org/author/carolingoergen/. 
+
 ## Organisation d'événements et partenariats
 
- 2025 Co-organization of two panels “New Directions in the Politics of American Photography” with Matthew Fox-Amato (University of Idaho) at the Annual Congress of the Organization of American Historians, Chicago
+2025 Co-organization of two panels “New Directions in the Politics of American Photography” with Matthew Fox-Amato (University of Idaho) at the Annual Congress of the Organization of American Historians, Chicago
 
 2024 Co-organization of the international symposium “Ecologies of Photography: Materials, Industries, and Environment in the American West” with Monica Bravo (Princeton) at The Huntington Library, Art Museum, and Botanical Gardens
 https://huntington.org/ecologies-photography
@@ -96,7 +100,7 @@ Since 2019 Member of the editorial board of the journal *Photographica* https://
 
 2025 Fulbright Visiting Scholar, University of California Los Angeles
 
-2024 Archibald Hanna Fellowship in American History, Beinecke Library, Yale University
+2024 Archibald Hanna Fellowship in American History, Beinecke Library, Yale University (conferred from 2020)
 
 2023 Thomas Mann Senior Fellowship, Los Angeles, California
 
