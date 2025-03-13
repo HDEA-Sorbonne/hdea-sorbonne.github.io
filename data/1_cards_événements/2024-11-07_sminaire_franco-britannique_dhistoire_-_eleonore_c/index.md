@@ -10,9 +10,6 @@ event: true
 abstract: ""
 ---
 
-## ﻿Séquentiel
-
- 2
 
 ## Titre
 
