@@ -25,10 +25,11 @@ Research topics:
 
  Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, forthcoming 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art. 
 
- Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	“Bound Histories: Memories, Materialities, and Meanings of Photo Albums,” *Photographica*, No. 12 (forthcoming).
+ Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	“Bound Histories: Memories, Materialities, and Meanings of Photo Albums,” *Photographica*, No. 12 (forthcoming 2026).
 
-Carolin Görgen & Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” special journal issue *Miranda: Journal of the English-speaking World* (2022)
-https://journals.openedition.org/miranda/44163
+ Carolin Görgen and Monica Bravo, eds. *Ecologies of Photography in the American West*, under advance contract with Leuven University Press, expected 2026/27. 
+
+Carolin Görgen & Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” *Miranda: Journal of the English-speaking World* (2022), https://journals.openedition.org/miranda/44163.
 
 ## Articles dans une revue
 
@@ -37,6 +38,8 @@ https://journals.openedition.org/miranda/44163
 Görgen, Carolin. “Californie à Paris: Photographic Circulation and the Making of Imperial Identities, c. 1900,” *Transatlantica*, no. 2, 2024.
 
 Görgen, Carolin. “Vienna to San Francisco via Chicago: Camera Club Exchanges in the 1890s,” *Transatlantic Cultures*, 2023.
+
+Görgen, Carolin. “Camera Obscura: Revue internationale pour la photographie paraissant tous les mois en 4 langues, 1899-1901.” *Photographica*, no. 3 (2021).
 
 Görgen, Carolin. “Everyday Photography? Politicizing a 'vernacular' photo album of the San Francisco Earthquake and Fire of 1906,” *Interfaces: Image Text Language*, No. 44, 2021, pp. 29-51.
 
