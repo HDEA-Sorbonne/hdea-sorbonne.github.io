@@ -8,10 +8,6 @@ abstract: Doctorante
 
 <img src="./avatar.webp" width="200px" />
 
-## ﻿Nom d'utilisateur
-
- Barbara Fontyn
-
 ## Prénom et Nom
 
  Barbara Fontyn
