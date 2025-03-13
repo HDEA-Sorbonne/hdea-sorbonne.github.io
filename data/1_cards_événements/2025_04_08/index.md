@@ -1,6 +1,6 @@
 ---
 uuid: a899ce5b-3861-4be2-8998-79f736953ded
-title:Seminaire Policy
+title: Séminaire Policy
 event: true
 abstract: "Arnaud Page"
 ---
