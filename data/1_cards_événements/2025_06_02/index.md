@@ -1,5 +1,4 @@
 ---
-uuid : 
 title: Séminaire Politique
 event: true
 abstract: "Arnaud Page- Poultry Gambia"
