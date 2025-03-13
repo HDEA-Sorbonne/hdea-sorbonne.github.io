@@ -21,14 +21,14 @@ Research topics:
 - Environmental history of California and the American West
 - American art (19th and 20th centuries)
 
-## Ouvrage et direction de numéro de revue
+## Ouvrages et direction de numéro de revue
 
  Carolin Görgen, The California Camera Club: Collective Visions in the Making of the American West. University of Oklahoma Press, forthcoming 2025.
 
 Carolin Görgen & Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” special journal issue Miranda: Journal of the English-speaking World (2022)
 https://journals.openedition.org/miranda/44163
 
-## Article dans une revue
+## Articles dans une revue
 
  Selection of articles:
 
@@ -42,7 +42,7 @@ Görgen, Carolin. “Des cendres à la nouvelle métropole. Le California Camera
 
 Görgen, Carolin. “Historiens du territoire et de la pratique : Les photographes du California Camera Club,” Histoire de l'Art, No. 80, 2017.
 
-## Chapitre dans un ouvrage collectif
+## Chapitres dans un ouvrage collectif
 
  Görgen, Carolin. “Ruines Écologiques du Tremblement de Terre de San Francisco,” in Les formes de la Ruine, eds. Alain Schnapp and Sylvie Ramond (Lyon and Paris: Musée des Beaux-Arts de Lyon and Lienart, 2024).
 
