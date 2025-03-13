@@ -14,10 +14,6 @@ Perçue progressivement comme un problème public, la gestion de l’eau est pri
 Elisabeth Davin-Mortier est post-doctorante au Laboratory for the History of Science and Technology à l’École polytechnique fédérale de Lausanne. Sa thèse intitulée « Les territoires de l’eau en Palestine rurale : une histoire environnementale, sociale et politique durant la domination britannique (1917-1947) », soutenue en 2022 à Sorbonne Université, sera publiée prochainement aux Presses des mines. "
 ---
 
-## ﻿Séquentiel
-
- 1
-
 ## Titre
 
  Séminaire franco-britannique d’histoire - Elisabeth Davin-Mortier (Lausanne), « L’eau en Palestine : l’émergence d’un problème public et sa gestion par l’administration mandataire britannique (1922-1948) »
