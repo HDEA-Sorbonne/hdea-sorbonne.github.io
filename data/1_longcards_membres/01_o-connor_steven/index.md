@@ -19,33 +19,33 @@ abstract: Maître de conférences en Civilisation britannique
 - The experiences of the Free French forces serving under British command
 - The Irish tradition of service in the British armed forces
 
-## Ouvrage et direction de numéro de revue
+## Ouvrages et directions de numéro de revue
 
- Irish Officers in the British Forces 1922-45, Basingstoke, Palgrave Macmillan, 2014, 272 pages. A second edition was published in 2017.
+ *Irish Officers in the British Forces 1922-45*, Basingstoke, Palgrave Macmillan, 2014, 272 pages. A second edition was published in 2017.
 
-Foreign fighters and multinational armies: from civil conflicts to coalition wars, 1848-2015, European Review of History-Revue européenne d'histoire, Vol. 27, N° 1-2 (mars 2020), co-edited by Steven O'Connor and Guillaume Piketty. Routledge published a book version of this special issue in 2022 and a paperback edition in 2024.
+"Foreign fighters and multinational armies: from civil conflicts to coalition wars, 1848-2015," *European Review of History-Revue européenne d'histoire*, Vol. 27, N° 1-2 (mars 2020), co-edited by Steven O'Connor and Guillaume Piketty. Routledge published a book version of this special issue in 2022 and a paperback edition in 2024.
 
-## Article dans une revue
+## Articles dans une revue
 
- « Introduction - Foreign fighters and multinational armies: from civil conflicts to coalition wars, 1848-2015 », European Review of History-Revue européenne d'histoire, Vol. 27, N° 1-2 (mars 2020), p. 1-11 (Steven O'Connor and Guillaume Piketty).
+ « Introduction - Foreign fighters and multinational armies: from civil conflicts to coalition wars, 1848-2015 », *European Review of History-Revue européenne d'histoire*, Vol. 27, N° 1-2 (mars 2020), p. 1-11 (Steven O'Connor and Guillaume Piketty).
 
-« The Free French and British Forces in the Desert War, 1942: The Learning Curve in Interallied Military Cooperation », European Review of History-Revue européenne d'histoire, Vol. 27, N° 1-2 (mars 2020), p. 176-98.
+« The Free French and British Forces in the Desert War, 1942: The Learning Curve in Interallied Military Cooperation », *European Review of History-Revue européenne d'histoire*, Vol. 27, N° 1-2 (mars 2020), p. 176-98.
 
-« Under a foreign flag: integrating foreign units and personnel in the British and German armed forces, 1940-1945 », Journal of Modern European History, Vol. 14, N° 3 (novembre 2016), p. 321-41 (Steven O'Connor and Martin Gutmann). 
+« Under a foreign flag: integrating foreign units and personnel in the British and German armed forces, 1940-1945 », *Journal of Modern European History*, Vol. 14, N° 3 (novembre 2016), p. 321-41 (Steven O'Connor and Martin Gutmann). 
 
-« Why did they fight for Britain? Irish recruits to the British forces, 1939-45 », Etudes Irlandais-es, Vol. 40, N° 1 (Printemps-été 2015), p. 59-70. 
+« Why did they fight for Britain? Irish recruits to the British forces, 1939-45 », *Etudes Irlandais-es*, Vol. 40, N° 1 (Printemps-été 2015), p. 59-70. 
 
-« Irish identity and integration within the British armed forces, 1939-1945 », Irish Historical Studies, Vol. 39, N° 155 (mai 2015), p. 417-38. 
+« Irish identity and integration within the British armed forces, 1939-1945 », *Irish Historical Studies*, Vol. 39, N° 155 (mai 2015), p. 417-38. 
 
-« The pleasure culture of war in independent Ireland, 1922-45 », War in History, Vol. 22, N° 1 (janvier 2015), p. 66-86.
+« The pleasure culture of war in independent Ireland, 1922-45 », *War in History*, Vol. 22, N° 1 (janvier 2015), p. 66-86.
 
-## Chapitre dans un ouvrage collectif
+## Chapitres dans un ouvrage collectif
 
- « Fighting a coalition war: the experience of the Free French soldier in the British 8th Army » dans Claire Miot, Guillaume Piketty et Thomas Vaisset (dir.), Militaires en résistances en France et en Europe, Lille, Presses universitaires du Septentrion, 2020, p. 151-65.
+ « Fighting a coalition war: the experience of the Free French soldier in the British 8th Army » dans Claire Miot, Guillaume Piketty et Thomas Vaisset (dir.), *Militaires en résistances en France et en Europe*, Lille, Presses universitaires du Septentrion, 2020, p. 151-65.
 
-« 'It's up to you now to fight for your own country': Ireland's Great War veterans in the War of Independence, 1919-21 » dans David Swift et Oliver Wilkinson (dir.), Veterans of the First World War: Ex-Servicemen and Ex-Servicewomen in Post-War Britain and Ireland, London, Routledge, 2019, p. 104-21.
+« 'It's up to you now to fight for your own country': Ireland's Great War veterans in the War of Independence, 1919-21 » dans David Swift et Oliver Wilkinson (dir.), *Veterans of the First World War: Ex-Servicemen and Ex-Servicewomen in Post-War Britain and Ireland*, London, Routledge, 2019, p. 104-21.
 
-« Imperial continuities: Irish doctors and the British armed forces, 1922-1945 » dans Ian Miller et David Durnin (dir.), Medicine, Health and Irish Experiences of War, 1914-1945, Manchester, Manchester University Press, 2016, p. 191-205.
+« Imperial continuities: Irish doctors and the British armed forces, 1922-1945 » dans Ian Miller et David Durnin (dir.), *Medicine, Health and Irish Experiences of War, 1914-1945*, Manchester, Manchester University Press, 2016, p. 191-205.
 
 ## Interventions orales récentes
 
@@ -69,7 +69,7 @@ Foreign fighters and multinational armies: from civil conflicts to coalition war
 
 « 24 April 1916 - The Easter Rising: What the papers say », The Revolution Papers, N° 1 (28 décembre 2015), p. 2-3.
 
-« Why did the Irish volunteer as British officers in WWII? », this article appeared on the website of The Irish Times on 1 July 2014 (http://www.irishtimes.com/culture/books/why-did-the-irish-volunteer-as-british-officers-in-wwii-1.1846436)
+« Why did the Irish volunteer as British officers in WWII? », this article appeared on the website of *The Irish Times* on 1 July 2014 (http://www.irishtimes.com/culture/books/why-did-the-irish-volunteer-as-british-officers-in-wwii-1.1846436)
 
 Interviewed by Ronan McGreevy for The Irish Times, 9 june 2014 (the article and the video are available here: http://www.irishtimes.com/life-and-style/health-family/number-of-irish-in-both-wars-unknown-1.1825013)
 
