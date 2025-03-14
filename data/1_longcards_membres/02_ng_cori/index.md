@@ -3,10 +3,14 @@ uuid: 808f20ec-8b55-4ae0-b67e-ca58c1e2e4c5
 prettyName: CoriNg
 
 title: Cori Ng
-abstract: ATER
+abstract: Doctorant
 ---
 
 ![small](Ng_Cori.jpg)
+
+## Directrice de thèse
+
+Louise Dalingwater
 
 ## Contact
 
