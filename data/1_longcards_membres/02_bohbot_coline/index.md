@@ -8,6 +8,9 @@ abstract: Doctorante
 
 ![small](Bohbot_Coline.jpg)
 
+## Directrice de thèse
+
+Sandrine Parageau 
 ## Contact
 
  coline.bohbot@gmail.com
