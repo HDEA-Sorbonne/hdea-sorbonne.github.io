@@ -12,7 +12,7 @@ abstract: Maîtresse de conférences en civilisation britannique
 
  melanie.cournil@sorbonne-universite.fr
 
-#### Actuellement en délégation CNRS de 12 mois, Centre Alexandre Koyré (UMR 8560, EHESS, MNHN), 2024-2025.
+##### Actuellement en délégation CNRS de 12 mois, Centre Alexandre Koyré (UMR 8560, EHESS, MNHN), 2024-2025.
 
 ## Thèmes de recherche
 
@@ -22,7 +22,7 @@ Histoire de l'Empire britannique (XIXe s.); histoire de la botanique; histoire d
 #### Thématiques particulières:
 Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoirs; réseaux impériaux; William Jackson Hooker
 
-## Ouvrages et direction de numéros de revue
+## Ouvrages et direction de numéro de revue
 
 #### Ouvrages pédagogiques:
 
@@ -105,7 +105,7 @@ Organisation de 11 séances avec Irène Delcourt, Alice Bonzom, Joe Karackattu, 
 
 #### Atelier de congrès :
 
-- Co-organisatrice du panel « Power and Empowerment in Ecological Perspective » (avec Yves Figueiredo, Université Paris Cité/LARCA) au 55ème congrès annuel de l'AFEA, Aix-en-Provence, 22-24 mai 2024.
+- Co-organisatrice de l'atelier « Power and Empowerment in Ecological Perspective » (avec Yves Figueiredo, Université Paris Cité/LARCA) au 55ème congrès annuel de l'AFEA, Aix-en-Provence, 22-24 mai 2024.
 
 ## Autres / Divers
 
