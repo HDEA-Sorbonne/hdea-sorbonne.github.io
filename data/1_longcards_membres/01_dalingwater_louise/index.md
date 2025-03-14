@@ -41,7 +41,7 @@ abstract: Professeure
 14) (En cours) "Digitalisation of Health Care", *International Journal of Health, Wellness and Society*, mars 2025.
 15) (En cours) "New Trade Linkages, Old Trade Disconnects: Drivers, governance and effects of integrated trade policies in a fragmented world economy", (avec Jean-Baptiste Velut, Richard Ouellet et Gabriel Siles Brügges, dir. *Papers in Political Economy*, Université de Québec à Montréal, Canada, 2025.
 
-## Article dans une revue
+## Articles dans une revue
 
 ### Articles dans revues internationales à comité de lecture
 
@@ -87,7 +87,7 @@ abstract: Professeure
 20) (à paraître) « The impact of chronic disease on wellbeing and quality of life: The case of Long Covid in Britain », Louise Dalingwater, Vanessa Boullet et Iside Costantini (dir.) Wellbeing and Quality of Life in the British Isles, *Observatoire de la Société britannique*, 2024.
 21) (à paraître) « Menopause : A workplace matter ? Comparative perspectives on menopause policy and practice in the workplace in France, the United Kingdom and the United States » (avec Liana Winett et Laurence Peru-Pirotte), 2025.
 
-## Chapitre dans un ouvrage collectif
+## Chapitres dans un ouvrage collectif
 
  1) « The making of global financial centres in the UK », dans Traian Sandu, Patrick Renaud, Judit Maar, Julia Nyikos (dir.), *Ouest-Est : dynamiques centre-périphérie entre les deux moitiés du continent*, Paris : L'Harmattan, 2012, 31-40.
 2) « Quelle économie au XXIe siècle? », dans Pauline Schnapper et Emmanuelle Avril (dir.), *Le Royaume-Uni au XXIe siècle : Mutations d'un modèle*, Paris : Editions Ophrys, 2014, 141-175 (avec Nicholas Sowels). 
@@ -148,7 +148,7 @@ abstract: Professeure
 
  Participation atelier « État de lieux de la recherche et son financement en LEA », Congrès ANLEA, Caen, 12-14 juin 2024.
 
-## Vulgarisation et interventions dans les média
+## Vulgarisation et interventions dans les médias
 
  •	Conférence devant le Cercle des associés en Risk Management (CARM) : « La libéralisation des services sous le PCTI (TTIP) », 26 novembre 2014. 
 
