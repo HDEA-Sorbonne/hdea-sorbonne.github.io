@@ -1,18 +1,18 @@
 ---
 uuid: 3262e009-b4bd-4c05-bf0b-6177d931ae27
-title: "Séminaire franco-britannique d’histoire - Elisabeth Davin-Mortier (Lausanne), « L’eau en Palestine : l’émergence d’un problème public et sa gestion par l’administration mandataire britannique (1922-1948) »"
+title: "Séminaire franco-britannique d’histoire - Elisabeth Davin-Mortier (Lausanne)"
 ---
 
-## Titre
+## Titre de la présentation
 
-« L’eau en Palestine : l’émergence d’un problème public et sa gestion par l’administration mandataire britannique (1922-1948) »,  Séminaire franco-britannique d’histoire.
+« L’eau en Palestine : l’émergence d’un problème public et sa gestion par l’administration mandataire britannique (1922-1948) »
 
 ## Intervenante 
  Elisabeth Davin-Mortier est post-doctorante au Laboratory for the History of Science and Technology à l’École polytechnique fédérale de Lausanne. Sa thèse intitulée « Les territoires de l’eau en Palestine rurale : une histoire environnementale, sociale et politique durant la domination britannique (1917-1947) », soutenue en 2022 à Sorbonne Université, sera publiée prochainement aux Presses des mines. "
 
 ## Date et lieu
 
- 24/10/2024 - Maison de la Recherche –  Salle D421, Sorbonne Université, 28 rue Serpente, Paris 
+ 24/10/2024 - Maison de la Recherche –  Salle D421, Sorbonne Université, 28 rue Serpente, 75006 Paris 
 
 
 ## Catégorie
@@ -29,7 +29,8 @@ Perçue progressivement comme un problème public, la gestion de l’eau est pri
 
 ## Organisateurs du séminaire
 
-Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA). En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France. 
+Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier–UMR 8596 ; HDEA). En partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France.
+
 Organisation: Fabrice Bensimon, Emmanuelle de Champs, Jean-François Dunyach, John-Erik Hansson, Frédérique Lachaud, Arnaud Page.
 
 ## Contact
