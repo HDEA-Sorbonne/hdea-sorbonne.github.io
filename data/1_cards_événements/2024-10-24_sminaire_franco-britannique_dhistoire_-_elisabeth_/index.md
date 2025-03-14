@@ -2,6 +2,7 @@
 uuid: 3262e009-b4bd-4c05-bf0b-6177d931ae27
 title: "Séminaire franco-britannique d’histoire - Elisabeth Davin-Mortier (Lausanne)"
 ---
+![small](fountain-5062332_1280.jpg)
 
 ## Titre de la présentation
 
