@@ -8,13 +8,9 @@ abstract: Doctorante
 
 <img src="./avatar.webp" width="200px" />
 
-## Prénom et Nom
+## Directeur de thèse
 
- Sandrine Gengoux-Lauzat
-
-## Fonction
-
- Doctorante
+Andrew Diamond
 
 ## Contact
 
