@@ -3,7 +3,7 @@ uuid: 900a6d8c-5d81-4d34-9ba4-bc74f58515d4
 prettyName: MélanieCournil
 
 title: Mélanie Cournil
-abstract: Maîtresse de conférences en civilisation britannique
+abstract: Maîtresse de conférences en histoire britannique
 ---
 
 ![small](Cournil_Melanie.jpg)
