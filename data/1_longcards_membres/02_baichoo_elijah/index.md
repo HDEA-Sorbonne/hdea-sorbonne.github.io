@@ -3,10 +3,14 @@ uuid: e427d58e-a7d5-4855-9253-46154231ee30
 prettyName: ElijahBaichoo
 
 title: Elijah Baichoo
-abstract: doctorant
+abstract: Docteur
 ---
 
 ![small](Baichoo_Elijah.jpg)
+
+## Directrice de thèse
+
+Nathalie Caron
 
 ## Contact
 
