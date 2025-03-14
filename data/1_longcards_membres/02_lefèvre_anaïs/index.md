@@ -9,9 +9,9 @@ abstract: Doctorante
 <img src="./avatar.webp" width="200px" />
 
 
-## Fonction
+## Directeur de thèse
 
- Doctorante
+Andrew Diamond
 
 ## Contact
 
@@ -29,11 +29,11 @@ abstract: Doctorante
 
 ## Interventions orales récentes
 
- "“Who the Hell Needs a Plant at Walla Walla?”: The Roots of the Return of Private Prison Industries in the United States (1970-1979)," Barnes Conference, Temple University, 22-23 mars 2024
+- "“Who the Hell Needs a Plant at Walla Walla?”: The Roots of the Return of Private Prison Industries in the United States (1970-1979)," Barnes Conference, Temple University, 22-23 mars 2024
 
-"“Georgia Has Utilized its Convict Labor to Good Advantage”: The Ambiguities of the Federal Reaction to Chain Gang Violence in the 1930s," Colloque "Governing Throuh Violence: Doctoral Conference on 20th Century U.S. History," Sorbonne-Université, 12-14 octobre 2023
+- "“Georgia Has Utilized its Convict Labor to Good Advantage”: The Ambiguities of the Federal Reaction to Chain Gang Violence in the 1930s," Colloque "Governing Throuh Violence: Doctoral Conference on 20th Century U.S. History," Sorbonne-Université, 12-14 octobre 2023
 
-"“It's Real, It's Vital, It's Thrilling”: The Cultural Boom of Chain Gang Horrors," North American History Colloquium, Erfurt Universität, 13-16 juin 2023.
+- "“It's Real, It's Vital, It's Thrilling”: The Cultural Boom of Chain Gang Horrors," North American History Colloquium, Erfurt Universität, 13-16 juin 2023.
 
 
 ## Organisation d'événements et partenariats
