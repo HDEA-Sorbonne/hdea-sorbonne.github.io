@@ -3,7 +3,7 @@ uuid: 05fd1a6c-686d-4f35-b583-69173679f956
 prettyName: ClaireDutriaux
 
 title: Claire Dutriaux
-abstract: Maîtresse de conférences
+abstract: Maîtresse de conférences en histoire et culture des États-Unis
 ---
 
 ![small](Dutriaux_Claire.jpg)
@@ -20,7 +20,7 @@ abstract: Maîtresse de conférences
 
 ## Ouvrage et directions de numéro de revue
 
--	Claire Dutriaux, Marianne Kac-Vergne (eds.), “The Politics of Silence or Noise in US Film and Television,” *Film Journal*, publication prévue Janvier 2025.
+-	Claire Dutriaux, Marianne Kac-Vergne (Dir.), “The Politics of Silence or Noise in US Film and Television,” *Film Journal*, décembre 2025.
 
 - Claire Dutriaux, Anne-Marie Paquet-Deyris et Taïna Tuhkunen (Dir.), « When the West Meets the South on Screen », *LISA E-Journal*, Vol. XVI-n°1, 2018. ISSN électronique 1762-6153.
 
@@ -32,9 +32,11 @@ abstract: Maîtresse de conférences
 
 ## Articles dans une revue
 
-- “Southern Censorship against Hollywood in Better Films Committees and Local Censorship Boards: Film Control as a Woman's Political Weapon,” *The Historical Journal of Film, Radio, and Television*, Vol. 44, Issue n°2, 2024, pp. 245-260. DOI 10.1080/01439685.2023.2296204. 
+-  “Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era: The Many Lives of Kroger Babb’s Early Ventures,” in Adrienne Boutang (ed.), *Transatlantica*. Accepté, parution juin 2025.
 
-- “'Professional Southerners' in Hollywood and their Influence on the Representations of the Troubled South Before and During the Code Era,” Elizabeth Mullen et Nicole Cloarec (dir.), *Motifs*, n°8, 2024. A paraître.
+ - “‘Professional Southerners’ in Hollywood and their Influence on the Representations of the Troubled South Before and During the Code Era,” Elizabeth Mullen et Nicole Cloarec (dir.), *Motifs*, n°9, 2025.
+  
+- “Southern Censorship against Hollywood in Better Films Committees and Local Censorship Boards: Film Control as a Woman's Political Weapon,” *The Historical Journal of Film, Radio, and Television*, Vol. 44, Issue n°2, 2024, pp. 245-260. DOI 10.1080/01439685.2023.2296204. 
 
 - « Blanchité masculine et classe sociale dans le cinéma hollywoodien des droits civiques », dossier « Représentations de la blanchité dans les fictions audiovisuelles états-uniennes », coordonné par Marianne Kac-Vergne et Jules Sandeau, *Miranda* (online), 24 | 2022. http://journals.openedition.org/miranda/43587
 
@@ -52,6 +54,8 @@ abstract: Maîtresse de conférences
 
 ## Chapitres dans un ouvrage collectif
 
+- “Screening Women Through the Prism of History in Deadwood,” in Sue Matheson (ed.), *Return of the Western: Refracting Genre, Representing Gender*, Edinburgh University Press, 2025, pp. 197-209.
+
 - “Screening Women Through the Prism of History in Deadwood,” in Sue Matheson (ed.), *Return of the Western: Refracting Genre, Representing Gender*, Edinburgh University Press, 2024, pp. 197-209.
 
 - “South Africa's Frontier in *Five Fingers for Marseilles* (Michael Matthews, 2017),” avec Annael Le Poullennec, in Hervé Mayer and David Roche (eds.), *Transnationalism and Imperialism: Endurance of the Global Western Film*, Bloomington: Indiana University Press, 2022, pp. 249-263. 
@@ -65,6 +69,8 @@ abstract: Maîtresse de conférences
 - « Deux visions, deux Suds ? La représentation du Sud d'un Cape Fear à l'autre », Marie Liénard-Yeterian, Taïna Tuhkunen (dir.), *Le Sud au Cinéma : de The Birth of a Nation à Cold Mountain*, Editions de l'Ecole Polytechnique, 2009, pp. 197-209.
 
 ## Interventions orales récentes
+
+- “‘So-Called Southern Speech:’ The Racial Politics of Southern Accents in Hollywood Cinema, 1927-1964,” séminaire « Pop Culture, Politics and Identity » organisé par Guillaume Clément et David Haigron, 13 février 2025, Université de Rennes 2.
 
 - « Better Film Committees and Local Censor Boards: Women Regulating Cinema Locally Before and After the Implementation of the Code (1922-1945)”, colloque Hollywood Before the Code, 27-28-29 juin 2024, Sorbonne Université et Université Paris Nanterre.
 
