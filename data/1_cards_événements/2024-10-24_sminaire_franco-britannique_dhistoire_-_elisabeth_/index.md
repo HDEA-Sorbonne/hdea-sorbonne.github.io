@@ -4,6 +4,7 @@ title: "Séminaire franco-britannique d’histoire - Elisabeth Davin-Mortier (La
 ---
 ![small](fountain-5062332_1280.jpg)
 
+
 ## Titre de la présentation
 
 « L’eau en Palestine : l’émergence d’un problème public et sa gestion par l’administration mandataire britannique (1922-1948) »
