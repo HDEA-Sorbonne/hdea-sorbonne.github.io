@@ -14,24 +14,27 @@ abstract: Professeure des universités
 
 ## Thèmes de recherche
 
- Religion et non religion aux États-Unis, Lumières américaines, sécularisme, transferts intellectuels franco-américains XVIIIe-XIXe s., catholicisme et anticatholicisme, religion et mouvements sociaux.
+- Religion et non religion aux États-Unis
+- Lumières américaines
+- Sécularisme
+- Transferts intellectuels franco-américains XVIIIe-XIXe s.
+- Catholicisme et anticatholicisme
+- Religion et mouvements sociaux.
 
 ## Ouvrage et direction de numéro de revue
 
  - Naomi Wulf, *Une autre démocratie en Amérique. Un regard politique, Orestes Brownson,(1824-1845)*. Édité avec Élise Marienstras et Sophie Wahnich. Paris, Presses Universitaires de Paris Sorbonne, 2017.
-- Avec Guillaume Marche, dir. *La Politisation du religieux en modernité*. Rennes, Presses
-Universitaires de Rennes, coll. « Sciences du religieux », 2015.
+- Avec Guillaume Marche, dir. *La Politisation du religieux en modernité*. Rennes, Presses Universitaires de Rennes, coll. « Sciences du religieux », 2015.
 - Avec Richard Anker, dir. « Transferts du religieux/Religious Transfers ». *Revue française d'études américaines* 141 (4e trimestre 2014).
 - *Thomas Paine contre l'imposture des prêtres*. Paris, L'Harmattan, 1999.
 
-## Article dans une revue
+## Articles dans une revue
 
- - Avec Sophie Vallas. « Historienne des États-Unis : Élise Marienstras, du syndrome de
-l'imposture au désir de changer le monde ». *e-Rea* [En ligne], 21.1 | 2023.
+ - Avec Sophie Vallas. « Historienne des États-Unis : Élise Marienstras, du syndrome de l'imposture au désir de changer le monde ». *e-Rea* [En ligne], 21.1 | 2023.
 - « La religion, angle mort de la « civilisation américaine » ? », *Transatlantica* [En ligne], 1, 2023, mis en ligne le 01 juin 2023. URL : http://journals.openedition.org/transatlantica/21184
 - “Friendship, Secrecy, Transatlantic Networks and the Enlightenment: The Jefferson-Barlow's Translation of Volney's *Ruines* (Paris, 1802)”, *Mémoires du livre/Studies in Book Culture*, Volume 11, Numéro 1, Automne 2019. En ligne: https://www.erudit.org/fr/revues/memoires/2019-v11-n1-memoires05099/1066940ar/resume/
 
-## Chapitre dans un ouvrage collectif
+## Chapitres dans un ouvrage collectif
 
  - « L'éloquence du peuple selon Volney”, L'éloquence révolutionnaire aux États-Unis et en France : circulations, représentations et réceptions (18e-20e siècles), Actes de la journée d'études du 17 mars 2023 à l'Université Paris Nanterre, sous la direction d'Augustin Habran et Hélène Parent. Publié sur Hypothèse. https://serd.hypotheses.org/leloquencerevolutionnaire-aux-etats-unis-et-en-france-circulations-representations-et-receptions-18e-20e-siecles
 - « Abolition in the United States as a Religious Social Movement », Lawrence Aje et Claudine Raynaud, dir. *Ending Slavery: The Antislavery Struggle in Perspective*. Montpellier, Presses universitaires de la Méditerranée, 2022. 221-245.
@@ -47,13 +50,13 @@ l'imposture au désir de changer le monde ». *e-Rea* [En ligne], 21.1 | 2023.
 - 19-20 janvier 2023 : « Discourse on Sex and Catholicism », colloque « Les États-Unis, une nation en construction 1815-1860 : Nouvelles perspectives historiographiques, travaux actuels et regards transnationaux », université Paris Cité.
 - 17 juin 2022 : « Le catholicisme est-il soluble dans la démocratie ? Interrogations politicoreligieuses dans la jeune République américaine », séminaire Culture et Religion dans les Pays Anglophones, Sorbonne Université.
 
-## Vulgarisation et interventions dans les média
+## Vulgarisation et interventions dans les médias
 
  - Avec Caroline Rolland-Diamond, « Des sciences sociales en filière LLCER ou pourquoi le mot “civilisation” ne convient plus en études étrangères », *The Conversation*, 26 août 2018.
 
 ## Organisation d'événements et partenariats
 
- Séminaire de recherche Culture et Religion dans les Pays Anglophones, avec Rémy Bethmont, Paris 8/Transcrit.
+ - Séminaire de recherche Culture et Religion dans les Pays Anglophones, avec Rémy Bethmont, Paris 8/Transcrit.
 
 ## Autres / Divers
 
