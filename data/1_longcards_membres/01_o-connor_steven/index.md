@@ -6,7 +6,7 @@ title: Steven O'Connor
 abstract: Maître de conférences en Civilisation britannique
 ---
 
-![small](oconnor_profile.jpg)
+![small](Oconnor.jpg)
 
 ## Contact
 
