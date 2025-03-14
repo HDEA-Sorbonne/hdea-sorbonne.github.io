@@ -8,6 +8,10 @@ abstract: Doctorante
 
 <img src="./avatar.webp" width="200px" />
 
+## Directrice de thèse
+
+Claire Charlot
+
 ## Thèmes de recherche
 
  Civilisation britannique contemporaine
