@@ -32,12 +32,12 @@ abstract: MCF hors-classe en Civilisation britannique
  — “The 'Key to the Meanings of Colours' in Thought-Forms', Conference Theosophy & Art: A Celebration, Art Workers' Guild, Londres, 8 juillet 2023
 — « La Société Théosophique entre Inde et Occident (1879-1929) », dans le cadre du cycle de conférences de l'Institut d'Étude des Religions et de la Laïcité (IREL) sur « Les Religions d'Asie en Occident », École Pratique des Hautes Études, Maison des Sciences de l'Homme, 54 Bd Raspail, Paris 6e, 23 avril 2024
 
-## Vulgarisation et interventions dans les média
+## Vulgarisation et interventions dans les médias
 
  — consultante sur l'ouvrage *Elles ne sont pas celles que vous croyez* (Causette & Rageot, 2023) par les journalistes du magazine *Causette* Anna Cuxac, Sylvie Fagnart, Lauren Malka, Alison Terrien et Alizée Vincent
 — consultante sur le film de Léa Todorov *La Nouvelle Femme* (2023) adapté de la vie de Maria Montessori
 
-## Organisation d'événements et partenariats
+## Organisation d'événements
 
  — International two-day Conference on Annie Besant (1847-1933), Theosophical Society in England, 50 Gloucester Place, Londres, 30 Septembre-1 Octobre 2017
 — Journée d'étude Anna Kingsford (1846-1888), Theosophical Society in England, 50 Gloucester Place, Londres, 17 février 2018.
