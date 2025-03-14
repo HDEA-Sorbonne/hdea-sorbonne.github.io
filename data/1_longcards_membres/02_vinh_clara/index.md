@@ -7,20 +7,12 @@ abstract: Doctorante
 ---
 ![small](Vinh_Clara.jpg)
 
-## ﻿Nom d'utilisateur
+## Directeur de thèse
 
- Anonymous
-
-## Prénom et Nom
-
- Clara Vinh
-
-## Fonction
-
- Doctorante
+Andrew Diamond
 
 ## Thèmes de recherche
 
- Histoire sociale, politique et culturelle des États-Unis de l'après-guerre
-Culture des armes à feu
+- Histoire sociale, politique et culturelle des États-Unis de l'après-guerre
+- Culture des armes à feu
 
