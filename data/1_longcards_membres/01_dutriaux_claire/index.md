@@ -20,7 +20,7 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 ## Ouvrage et directions de numéro de revue
 
--	Claire Dutriaux, Marianne Kac-Vergne (Dir.), “The Politics of Silence or Noise in US Film and Television,” *Film Journal*, décembre 2025.
+-	Claire Dutriaux, Marianne Kac-Vergne (Dir.), « The Politics of Silence or Noise in US Film and Television», *Film Journal*, décembre 2025.
 
 - Claire Dutriaux, Anne-Marie Paquet-Deyris et Taïna Tuhkunen (Dir.), « When the West Meets the South on Screen », *LISA E-Journal*, Vol. XVI-n°1, 2018. ISSN électronique 1762-6153.
 
@@ -32,21 +32,21 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 ## Articles dans une revue
 
--  “Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era: The Many Lives of Kroger Babb’s Early Ventures,” in Adrienne Boutang (ed.), *Transatlantica*. Accepté, parution juin 2025.
+-  « Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era: The Many Lives of Kroger Babb’s Early Ventures » in Adrienne Boutang (ed.), *Transatlantica*. Accepté, parution juin 2025.
 
- - “‘Professional Southerners’ in Hollywood and their Influence on the Representations of the Troubled South Before and During the Code Era,” Elizabeth Mullen et Nicole Cloarec (dir.), *Motifs*, n°9, 2025.
+ - « ‘Professional Southerners’ in Hollywood and their Influence on the Representations of the Troubled South Before and During the Code Era », Elizabeth Mullen et Nicole Cloarec (dir.), *Motifs*, n°9, 2025.
   
-- “Southern Censorship against Hollywood in Better Films Committees and Local Censorship Boards: Film Control as a Woman's Political Weapon,” *The Historical Journal of Film, Radio, and Television*, Vol. 44, Issue n°2, 2024, pp. 245-260. DOI 10.1080/01439685.2023.2296204. 
+- « Southern Censorship against Hollywood in Better Films Committees and Local Censorship Boards: Film Control as a Woman's Political Weapon », *The Historical Journal of Film, Radio, and Television*, Vol. 44, Issue n°2, 2024, pp. 245-260. DOI 10.1080/01439685.2023.2296204. 
 
 - « Blanchité masculine et classe sociale dans le cinéma hollywoodien des droits civiques », dossier « Représentations de la blanchité dans les fictions audiovisuelles états-uniennes », coordonné par Marianne Kac-Vergne et Jules Sandeau, *Miranda* (online), 24 | 2022. http://journals.openedition.org/miranda/43587
 
-- 'Spirit of the dead, rise up! […] and claim your story.' Représentation de l'esclavage et esthétique de la résistance dans *Sankofa* (Haile Gerima, 1993) », dossier coordonné par Michael Roy, « L'esclavage à l'écran », *Transatlantica*, 1 | 2018. 
+- « 'Spirit of the dead, rise up! […] and claim your story.' Représentation de l'esclavage et esthétique de la résistance dans *Sankofa* (Haile Gerima, 1993) », dossier coordonné par Michael Roy, « L'esclavage à l'écran », *Transatlantica*, 1 | 2018. 
 
-- “Visualizing Consumer Culture, Commodifying Visual Culture: Spectacles of the Consumer Society,” avec Clémentine Tholas-Disset, *InMedia*, 7.1, 2018. ISSN électronique 2259-4728.
+- « Visualizing Consumer Culture, Commodifying Visual Culture: Spectacles of the Consumer Society » avec Clémentine Tholas-Disset, *InMedia*, 7.1, 2018. ISSN électronique 2259-4728.
 
-- “Racial Violence at the Crossroads of West and South in Rosewood (John Singleton, 1997),” Claire Dutriaux, Anne-Marie Paquet-Deyris, Taïna Tuhkunen (eds.), dossier “When the Western meets the Southern”, *LISA*, vol. XVI-n°1, 2018.
+- « Racial Violence at the Crossroads of West and South in Rosewood (John Singleton, 1997),» Claire Dutriaux, Anne-Marie Paquet-Deyris, Taïna Tuhkunen (eds.), dossier “When the Western meets the Southern”, *LISA*, vol. XVI-n°1, 2018.
 
-- “Outcasts, Hoboes, and Freight-Hoppers: Riding the Freight Trains in *Boxcar Bertha* (Martin Scorsese, 1972), *Emperor of the North* (Robert Aldrich, 1973) and *Bound for Glory* (Hal Ashby, 1976),” *Film Journal*, n°3, 2016. ISSN : 2556-4161. 	
+- « Outcasts, Hoboes, and Freight-Hoppers: Riding the Freight Trains in *Boxcar Bertha* (Martin Scorsese, 1972), *Emperor of the North* (Robert Aldrich, 1973) and *Bound for Glory* (Hal Ashby, 1976),» *Film Journal*, n°3, 2016. ISSN : 2556-4161. 	
 
 - « The Measure of a [black] man : Sidney Poitier, la contestation afro-américaine et ses limites dans le cinéma américain des années cinquante aux années soixante », Donna Andréolle (dir.), *EOLLE* n°4, Novembre 2012, pp. 15-25.
 
@@ -54,13 +54,13 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 ## Chapitres dans un ouvrage collectif
 
-- “Screening Women Through the Prism of History in Deadwood,” in Sue Matheson (ed.), *Return of the Western: Refracting Genre, Representing Gender*, Edinburgh University Press, 2025, pp. 197-209.
+- « Screening Women Through the Prism of History in Deadwood,» in Sue Matheson (ed.), *Return of the Western: Refracting Genre, Representing Gender*, Edinburgh University Press, 2025, pp. 197-209.
 
-- “Screening Women Through the Prism of History in Deadwood,” in Sue Matheson (ed.), *Return of the Western: Refracting Genre, Representing Gender*, Edinburgh University Press, 2024, pp. 197-209.
+- « Screening Women Through the Prism of History in Deadwood,» in Sue Matheson (ed.), *Return of the Western: Refracting Genre, Representing Gender*, Edinburgh University Press, 2024, pp. 197-209.
 
-- “South Africa's Frontier in *Five Fingers for Marseilles* (Michael Matthews, 2017),” avec Annael Le Poullennec, in Hervé Mayer and David Roche (eds.), *Transnationalism and Imperialism: Endurance of the Global Western Film*, Bloomington: Indiana University Press, 2022, pp. 249-263. 
+- « South Africa's Frontier in *Five Fingers for Marseilles* (Michael Matthews, 2017),» avec Annael Le Poullennec, in Hervé Mayer and David Roche (eds.), *Transnationalism and Imperialism: Endurance of the Global Western Film*, Bloomington: Indiana University Press, 2022, pp. 249-263. 
 
-- “Masculinities in *No Country for Old Men*,” Julie Assouly et Yvonne-Marie Rogez, *No Country for Old Men, Roman de Cormac McCarthy (2005), Film de Ethan et Joel Coen (2007)*, Ellipses, 2021, pp. 209-222.
+- « Masculinities in *No Country for Old Men*,» Julie Assouly et Yvonne-Marie Rogez, *No Country for Old Men, Roman de Cormac McCarthy (2005), Film de Ethan et Joel Coen (2007)*, Ellipses, 2021, pp. 209-222.
 
 - « Les ambivalences du désir colonial dans le cinéma hollywoodien, du muet aux années 1950 », in Pascal Blanchard, Nicolas Bancel, Gilles Boetsch, Fanny Roblès (dir.), *Sexualités, identités et corps colonisés (XVème siècle - XXIème siècle)*, CNRS Éditions, 2019, pp. 461-469.
 
@@ -70,17 +70,17 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 ## Interventions orales récentes
 
-- “‘So-Called Southern Speech:’ The Racial Politics of Southern Accents in Hollywood Cinema, 1927-1964,” séminaire « Pop Culture, Politics and Identity » organisé par Guillaume Clément et David Haigron, 13 février 2025, Université de Rennes 2.
+- « ‘So-Called Southern Speech:’ The Racial Politics of Southern Accents in Hollywood Cinema, 1927-1964,” séminaire « Pop Culture, Politics and Identity » organisé par Guillaume Clément et David Haigron, 13 février 2025, Université de Rennes 2.
 
-- « Better Film Committees and Local Censor Boards: Women Regulating Cinema Locally Before and After the Implementation of the Code (1922-1945)”, colloque Hollywood Before the Code, 27-28-29 juin 2024, Sorbonne Université et Université Paris Nanterre.
+- « Better Film Committees and Local Censor Boards: Women Regulating Cinema Locally Before and After the Implementation of the Code (1922-1945)», colloque Hollywood Before the Code, 27-28-29 juin 2024, Sorbonne Université et Université Paris Nanterre.
 
-- « “Another protest sent to Hollywood about so-called 'Southern speech':” Southerners with no accent versus Hollywood », Colloque “Minority Voices and Languages in English-Speaking Cinema and Television”, Université de Lille, 12 et 13 octobre 2023.
+- « “Another protest sent to Hollywood about so-called 'Southern speech':” Southerners with no accent versus Hollywood », Colloque “Minority Voices and Languages in English-Speaking Cinema and Television », Université de Lille, 12 et 13 octobre 2023.
 
 - « What is the Norm, what is the Margin? When Women Censors Negotiated with Will H. Hays, 1922-1945 », SERCIA International Conference « Questioning the Margins of English-Speaking Films and TV Series », Université Paris 13-Campus Condorcet, Paris, 6-8 septembre 2023.
 
-- “Configurations and reconfigurations of Southern censorship against Hollywood in Better Films Committees: the control of cinema as a female political weapon (1920-1945),” History of Moviegoing, Exhibition and Reception Network Annual Conference, Pompeu Fabra University, Barcelona, Spain, 4-7 juillet 2023.
+- « Configurations and reconfigurations of Southern censorship against Hollywood in Better Films Committees: the control of cinema as a female political weapon (1920-1945),» History of Moviegoing, Exhibition and Reception Network Annual Conference, Pompeu Fabra University, Barcelona, Spain, 4-7 juillet 2023.
 
-- “Rape and Miscegenation in the Pre-Code Era: *The Sheik* (1921) and *The Son of The Sheik* (1926),” ESSE International Conference, Mainz, Germany, 31 août-3 septembre 2022.
+- « Rape and Miscegenation in the Pre-Code Era: *The Sheik* (1921) and *The Son of The Sheik* (1926),» ESSE International Conference, Mainz, Germany, 31 août-3 septembre 2022.
 
 ## Vulgarisation et interventions dans les médias
 
