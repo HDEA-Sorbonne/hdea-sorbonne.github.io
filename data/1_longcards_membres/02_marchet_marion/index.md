@@ -6,7 +6,7 @@ title: Marion Marchet
 abstract: Membre associée
 ---
 
-![small](photo_id_2_1.jpg)
+![small](MarionMarchet.jpg)
 
 ## Contact
 
