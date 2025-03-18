@@ -6,7 +6,7 @@ title: Naïma Benallal
 abstract: Doctorante
 ---
 
-![small](MarionMarchet.jpg)
+![small](Benallal_Naïma)
 
 ## Contact
 
