@@ -6,7 +6,8 @@ title: Naïma Benallal
 abstract: Doctorante
 ---
 
-![small](Benallal_Naïma)
+![small](Benallal_Naima)
+
 
 ## Contact
 
