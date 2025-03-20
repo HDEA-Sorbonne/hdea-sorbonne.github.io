@@ -21,12 +21,10 @@ Louise Dalingwater
 
 - Civilisation britannique contemporaine
 - Question migratoire
-- Mouvements de résistance
-- Mouvements protestataires
-- Rapports sociaux de classe, race et genre
+- Mouvements sociaux
+- Rapports sociaux de classe, race, genre
 - Violence de genre
-- Violence d'Etat
-- Racisme / anti-racisme 
+
 
 ## Titre de la thèse
 - La résistance des femmes en demande d'asile victimes de violences dans le contexte de dissuasion migratoire britannique (hostile environment policy)
