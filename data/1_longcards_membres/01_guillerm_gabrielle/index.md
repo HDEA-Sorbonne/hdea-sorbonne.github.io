@@ -19,11 +19,11 @@ Gabrielle Guillerm is Associate Professor of American and US history. She specia
 
 ## Research Topics:
 
-    • Native American and Indigenous Studies (especially the history of colonialism and settler colonialism in Early America and the United States & the history and legacy of Native American boarding schools). 
-    • U.S. Westward Expansion
-    • White supremacy
-    • Religious history
-    • Early America (especially 1763-1860) and the Age of Revolutions
+- Native American and Indigenous Studies (especially the history of colonialism and settler colonialism in Early America and the United States & the history and legacy of Native American boarding schools). 
+- U.S. Westward Expansion
+- White supremacy
+- Religious history
+- Early America (especially 1763-1860) and the Age of Revolutions
 
 ## Articles dans une revue
 
