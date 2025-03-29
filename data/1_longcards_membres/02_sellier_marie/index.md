@@ -12,6 +12,10 @@ abstract: Doctorante
 
  marie.etu.sellier@gmail.com
 
+## Directeur de thèse
+
+Andrew Diamond
+
 ## Thèmes de recherche
 
  L'illustration des lynchages aux Etats-Unis (XXe-XIXe siècles)
