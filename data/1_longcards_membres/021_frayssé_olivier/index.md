@@ -1,10 +1,10 @@
 ---
 uuid: 8542c00d-b705-42a0-9262-108b6d0e3a59
-prettyName: OlivierFrayssé
-
+prettyName: olivierfrayssé
 title: Olivier Frayssé
 abstract: Professeur émérite
 ---
+
 
 <img src="./avatar.webp" width="200px" />
 

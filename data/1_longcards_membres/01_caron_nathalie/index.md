@@ -1,10 +1,10 @@
 ---
 uuid: 1991955b-183d-4340-acaf-d8319d92a94c
 prettyName: nathaliecaron
-
 title: Nathalie Caron
 abstract: Professeure des universités
 ---
+
 
 <img src="./avatar.webp" width="200px" />
 

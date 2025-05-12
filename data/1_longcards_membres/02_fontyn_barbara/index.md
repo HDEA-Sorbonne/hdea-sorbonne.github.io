@@ -1,10 +1,10 @@
 ---
 uuid: 1c45e71f-f52d-49e1-b9a6-68fd43e52b03
-prettyName: BarbaraFontyn
-
+prettyName: barbarafontyn
 title: Barbara Fontyn
 abstract: Doctorante
 ---
+
 
 <img src="./avatar.webp" width="200px" />
 

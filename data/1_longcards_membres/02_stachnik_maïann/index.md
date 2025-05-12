@@ -1,10 +1,10 @@
 ---
 uuid: 5f7452b5-f4d2-44fc-8097-233f3f7a6596
-prettyName: MaïannStachnik
-
+prettyName: maïannstachnik
 title: Maïann Stachnik
 abstract: Doctorante
 ---
+
 
 ![small](MaïannStachnik.jpg)
 

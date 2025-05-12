@@ -1,10 +1,10 @@
 ---
 uuid: 05fd1a6c-686d-4f35-b583-69173679f956
-prettyName: ClaireDutriaux
-
+prettyName: clairedutriaux
 title: Claire Dutriaux
 abstract: Maîtresse de conférences en histoire et culture des États-Unis
 ---
+
 
 ![small](Dutriaux_Claire.jpg)
 

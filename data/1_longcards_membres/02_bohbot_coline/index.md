@@ -1,10 +1,10 @@
 ---
 uuid: 13f8775c-e067-48f5-9d52-481e7f2877dc
-prettyName: ColineBOHBOT
-
+prettyName: colinebohbot
 title: Coline BOHBOT
 abstract: Doctorante
 ---
+
 
 ![small](Bohbot_Coline.jpg)
 

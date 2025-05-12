@@ -1,10 +1,10 @@
 ---
 uuid: 5f7452b5-f4d2-44fc-8097-233f3f7a6596
-prettyName: MarionMarchet
-
+prettyName: marionmarchet
 title: Marion Marchet
 abstract: Membre associée
 ---
+
 
 ![small](MarionMarchet.jpg)
 

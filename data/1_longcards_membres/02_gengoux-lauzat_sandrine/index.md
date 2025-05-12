@@ -1,10 +1,10 @@
 ---
 uuid: a6b28cef-bee8-4f8a-8a94-55ef8cc01649
-prettyName: SandrineGengouxLauzat
-
+prettyName: sandrinegengouxlauzat
 title: Sandrine Gengoux-Lauzat
 abstract: Doctorante
 ---
+
 
 <img src="./avatar.webp" width="200px" />
 

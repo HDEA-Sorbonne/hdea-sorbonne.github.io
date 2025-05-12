@@ -1,10 +1,10 @@
 ---
 uuid: b305758b-727b-4349-b95a-5e20daeeed3c
-prettyName: AnaïsLefèvre
-
+prettyName: anaïslefèvre
 title: Anaïs Lefèvre
 abstract: Doctorante
 ---
+
 
 <img src="./avatar.webp" width="200px" />
 

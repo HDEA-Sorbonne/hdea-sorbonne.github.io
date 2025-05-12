@@ -1,10 +1,10 @@
 ---
 uuid: ad3e13df-0802-44bd-9a79-8a166cfc71d5
-prettyName: LouiseDalingwater
-
+prettyName: louisedalingwater
 title: Louise Dalingwater
 abstract: Professeure des universités
 ---
+
 
 <img src="./avatar.webp" width="200px" />
 

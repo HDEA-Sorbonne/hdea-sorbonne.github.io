@@ -1,10 +1,10 @@
 ---
 uuid: 75e0d7cd-87b9-4f1f-bffe-2fcebf93b3d7
-prettyName: SandrineParageau
-
+prettyName: sandrineparageau
 title: Sandrine Parageau
 abstract: Professeure des Universités
 ---
+
 
 ![small](Parageau_Sandrine.jpg)
 

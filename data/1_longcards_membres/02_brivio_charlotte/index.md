@@ -1,10 +1,10 @@
 ---
 uuid: 7897eb2f-7c03-446d-a3aa-01cab25d2ecf
-prettyName: CharlotteBrivio
-
+prettyName: charlottebrivio
 title: Charlotte Brivio
 abstract: Doctorante, chargée d'enseignement
 ---
+
 
 ![small](Brivio_Charlotte.jpeg)
 

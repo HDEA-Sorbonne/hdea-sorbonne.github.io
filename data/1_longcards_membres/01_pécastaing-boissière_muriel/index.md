@@ -1,10 +1,10 @@
 ---
 uuid: 64c9ddb5-ddb5-40a3-a253-f7c35e3aadc0
-prettyName: MurielPécastaingBoissière
-
+prettyName: murielpécastaingboissière
 title: Muriel Pécastaing-Boissière
 abstract: MCF hors-classe en Civilisation britannique
 ---
+
 ![small](Pecastaing_Boissiere_Muriel.jpg)
 
 ## Contact

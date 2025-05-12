@@ -1,10 +1,10 @@
 ---
 uuid: 49817a8a-dd7e-4fce-9628-c65e24ed3a87
-prettyName: ThibautClément
-
+prettyName: thibautclément
 title: Thibaut Clément
 abstract: Maître de conférences
 ---
+
 
 ![small](Clement_Thibaut.jpg)
 

@@ -1,10 +1,10 @@
 ---
 uuid: e427d58e-a7d5-4855-9253-46154231ee30
-prettyName: ElijahBaichoo
-
+prettyName: elijahbaichoo
 title: Elijah Baichoo
 abstract: Docteur
 ---
+
 
 ![small](Baichoo_Elijah.jpg)
 

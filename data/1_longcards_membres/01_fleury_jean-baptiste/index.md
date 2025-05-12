@@ -1,10 +1,10 @@
 ---
 uuid: 0a083cc3-6fad-440e-bca9-7fa1f6a7049b
-prettyName: JeanBaptisteFleury
-
+prettyName: jeanbaptistefleury
 title: Jean-Baptiste Fleury
 abstract: Professeur des universités
 ---
+
 
 <img src="./avatar.webp" width="200px" />
 

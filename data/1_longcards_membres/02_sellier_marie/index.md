@@ -1,10 +1,10 @@
 ---
 uuid: 3667c6fd-f0af-49a0-9647-aca2df4f82a6
-prettyName: MarieSellier
-
+prettyName: mariesellier
 title: Marie Sellier
 abstract: Doctorante
 ---
+
 
 <img src="./avatar.webp" width="200px" />
 

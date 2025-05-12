@@ -1,10 +1,10 @@
 ---
 uuid: ab948b10-a151-48a7-ad3f-0fd3c06b9e73
-prettyName: EléonoreObis
-
+prettyName: eléonoreobis
 title: Eléonore Obis
 abstract: MCF UFR LEA
 ---
+
 
 ![small](Obis_Eleonore.jpg)
 

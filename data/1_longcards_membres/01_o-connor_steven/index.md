@@ -1,10 +1,10 @@
 ---
 uuid: 28b62775-705c-4acd-9dbb-16d93dcaba57
-prettyName: StevenOConnor
-
+prettyName: stevenoconnor
 title: Steven O'Connor
 abstract: Maître de conférences en Civilisation britannique
 ---
+
 
 ![small](Oconnor.jpg)
 

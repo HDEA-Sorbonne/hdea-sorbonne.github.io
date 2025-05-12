@@ -1,10 +1,10 @@
 ---
 uuid: 808f20ec-8b55-4ae0-b67e-ca58c1e2e4c5
-prettyName: CoriNg
-
+prettyName: coring
 title: Cori Ng
 abstract: Doctorant
 ---
+
 
 ![small](Ng_Cori.jpg)
 

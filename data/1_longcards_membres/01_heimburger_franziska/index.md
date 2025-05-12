@@ -1,10 +1,10 @@
 ---
 uuid: 6ce7db94-5209-4bbd-ab95-7cb2b5f3f26a
-prettyName: FranziskaHeimburger
-
+prettyName: franziskaheimburger
 title: Franziska Heimburger
 abstract: MCF
 ---
+
 
 <img src="./avatar.webp" width="200px" />
 
