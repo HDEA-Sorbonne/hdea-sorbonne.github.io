@@ -1,5 +1,5 @@
 ---
-title: « Los Angeles : Marges et Centres » / “Los Angeles : Margins and Centers”
+title: « Los Angeles : Marges et Centres »
 event: true
 ---
 
