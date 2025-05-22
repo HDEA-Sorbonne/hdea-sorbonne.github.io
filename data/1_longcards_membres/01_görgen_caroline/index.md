@@ -14,12 +14,18 @@ abstract: Maîtresse de conférence en civilisation américaine
 
 ## Thèmes de recherche
 
- Carolin Görgen is Associate Professor of American Studies in the Department of English and American Studies (UFR Études Anglophones). She specializes in the history of photography and the environmental history of the American West. After having studied in the Netherlands, France, and the United States, she completed a joint PhD in American Studies and Art History at Université Paris-Diderot and the École du Louvre in 2018. Her thesis on the California Camera Club was awarded the research prize of the German Photographic Society & the Deutsche Börse Photography Foundation. It is forthcoming as a monograph with the University of Oklahoma Press in 2025. Görgen's current research focuses on the environmental practices of western American photography. 
+ Carolin Görgen is Associate Professor of American Studies in the Department of English and American Studies (UFR Études Anglophones). She specializes in the history of U.S. photography and the environmental history of the American West. After having studied in the Netherlands, France, and the United States, she completed a joint PhD in American Studies and Art History at Université Paris-Diderot and the École du Louvre in 2018. Her thesis on the California Camera Club was awarded the research prize of the German Photographic Society & the Deutsche Börse Photography Foundation. It is forthcoming as a monograph with the University of Oklahoma Press in October 2025. Görgen's current research focuses on the environmental practices of western American photography. 
+
+Education:
+Ph.D. American Studies & Art History, University Paris-Diderot & École du Louvre, 2014
+M.A. American Studies, Université Paris-Diderot & exchange student at New York University, 2014
+B.A. English & American Studies, Radboud Universiteit Nijmegen, 2012
 
 Research topics:
 - History of American photography
 - Environmental history of California and the American West
 - American art (19th and 20th centuries)
+
 
 ## Ouvrages et direction de numéro de revue
 
