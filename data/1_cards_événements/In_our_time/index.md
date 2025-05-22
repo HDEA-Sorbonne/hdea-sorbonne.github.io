@@ -14,7 +14,5 @@ Le 15 mai 2025, Will Slauter était l'invité de "In our time" (Melvyn Bragg, BB
 
 Pour réécouter l'émission : https://www.bbc.co.uk/programmes/m002c3bm
 
-## Date
-15/05/2025
 
 ![small](In_our_time.png)
