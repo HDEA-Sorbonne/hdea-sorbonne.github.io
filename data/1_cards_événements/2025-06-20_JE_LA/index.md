@@ -53,3 +53,6 @@ Pause-café
 
 17h00-17h30 : Thibaut Clément (HDEA, Sorbonne Université), “Building and Consuming Transnational Ethnicity: Ethnic Malls as Landscapes of Belonging in Los Angeles”
 
+
+
+![small](JE_LA.png)
