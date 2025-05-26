@@ -2,7 +2,7 @@
 uuid: 3c3d68c4-3007-43d8-8fcd-7ac4b2eb2a53
 prettyName: carolingörgen
 title: Carolin Görgen
-abstract: Maîtresse de conférence en civilisation américaine
+abstract: Maîtresse de conférences en histoire et culture des États-Unis
 ---
 
 
@@ -17,14 +17,15 @@ abstract: Maîtresse de conférence en civilisation américaine
  Carolin Görgen is Associate Professor of American Studies in the Department of English and American Studies (UFR Études Anglophones). She specializes in the history of U.S. photography and the environmental history of the American West. After having studied in the Netherlands, France, and the United States, she completed a joint PhD in American Studies and Art History at Université Paris-Diderot and the École du Louvre in 2018. Her thesis on the California Camera Club was awarded the research prize of the German Photographic Society & the Deutsche Börse Photography Foundation. It is forthcoming as a monograph with the University of Oklahoma Press in October 2025. Görgen's current research focuses on the environmental practices of western American photography. 
 
 Education:
-Ph.D. American Studies & Art History, University Paris-Diderot & École du Louvre, 2014
-M.A. American Studies, Université Paris-Diderot & exchange student at New York University, 2014
-B.A. English & American Studies, Radboud Universiteit Nijmegen, 2012
+- Ph.D. American Studies & Art History, University Paris-Diderot & École du Louvre, 2018
+- M.A. American Studies, Université Paris-Diderot & exchange student at New York University, 2014
+- B.A. English & American Studies, Radboud Universiteit Nijmegen, 2012
 
 Research topics:
 - History of American photography
 - Environmental history of California and the American West
-- American art (19th and 20th centuries)
+- American art and eco-criticism (19th and 20th centuries)
+- Photography in material culture studies
 
 
 ## Ouvrages et direction de numéro de revue
@@ -83,7 +84,7 @@ Görgen, Carolin. “Arnold Genthe and the California Camera Club,” in *Among 
 https://huntington.org/verso/another-west-ecologies-photography.
 
 “Politicizing vernacular photographs of the San Francisco Earthquake and Fire,” Apr. 20, 2021, California Historical Society, San Francisco & online; aired on U.S. television C-SPAN in 2021. 
-Watch: https://www.youtube.com/watch?v=AMQXdYOqonw
+Watch: https://www.c-span.org/person/carolin-gorgen/130595/ 
 
 “Women in the out of doors: The Los Angeles Camera Club, c. 1900,” Blog post for *Photo-Friends*, Blog of the Los Angeles Public Library, http://photofriends.org/author/carolingoergen/. 
 
@@ -106,7 +107,7 @@ Since 2019 Member of the editorial board of the journal *Photographica* https://
 
 2025 Fulbright Visiting Scholar, University of California Los Angeles
 
-2024 Archibald Hanna Fellowship in American History, Beinecke Library, Yale University (conferred from 2020)
+2024 Archibald Hanna Fellowship in American History, Beinecke Library, Yale University (initially awarded 2019/20)
 
 2023 Thomas Mann Senior Fellowship, Los Angeles, California
 
