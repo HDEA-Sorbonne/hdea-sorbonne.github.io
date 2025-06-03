@@ -19,7 +19,7 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 Education:
 - Ph.D. American Studies & Art History, University Paris-Diderot & École du Louvre, 2018
 - M.A. American Studies, Université Paris-Diderot & exchange student at New York University, 2014
-- B.A. English & American Studies, Radboud Universiteit Nijmegen, 2012
+- B.A. English & American Studies, Radboud Universiteit Nijmegen, 2012 
 
 Research topics:
 - History of American photography
@@ -30,7 +30,7 @@ Research topics:
 
 ## Ouvrages et direction de numéro de revue
 
- Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, forthcoming 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art. 
+ Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, forthcoming October 28, 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art. 
 
  Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	“Bound Histories: Memories, Materialities, and Meanings of Photo Albums,” *Photographica*, No. 12 (forthcoming 2026).
 
