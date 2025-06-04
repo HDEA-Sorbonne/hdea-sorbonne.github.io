@@ -51,8 +51,12 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 - Introduction scientifique de *L'histoire de Mary Prince, esclave antillaise*, Éditions Karthala (à paraître en 2025).
 - Traductions avec appareil critique de textes de Robert Wedderburn, in Marie-Jeanne Rossignol & Michaël Roy (dirs.), *Une anthologie de la pensée noire : États-Unis et Haïti (XVIIIe-XIXe siècles)*, Paris : Hors d'atteinte, 2023, pp. 78-84 ; 311-315.
 
-## Interventions orales récentes
+## Interventions orales
 
+#### À venir en 2026
+- Conférence plénière, Conférence de la Glasgow Naturalist Society pour son 175ème anniversaire « Rediscovering natural history: from observation to citizen science », , dans le cadre du Glasgow Science Festival, Glasgow, Écosse, 6 juin 2026.
+
+#### Interventions orales récentes (sélection)
 - Conférence plénière, « Scotland Within and Outwith: Internal and External Perspectives of a Nation », Postgraduate Research Symposium, Centre for Scottish and Celtic Studies, Glasgow, Écosse, 30 avril 2025.
 - « Prendre la mesure des échanges botaniques à l'ère impériale : Une approche quantitative et qualitative de la correspondance professionnelle de William Jackson Hooker », séminaire d'équipe HDEA, 25 septembre 2024.
 - « Collecting botanical specimens for the Glasgow Botanic Gardens: Scottish plant hunters in North America (1820s-1830s) », Congrès annuel de l'Omohundro Institute of Early American History & Culture, Poitiers, 19-21 juin 2024.
