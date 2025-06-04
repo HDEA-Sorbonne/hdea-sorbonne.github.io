@@ -54,7 +54,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 ## Interventions orales
 
 #### À venir en 2026
-- Conférence plénière, Conférence de la Glasgow Naturalist Society pour son 175ème anniversaire « Rediscovering natural history: from observation to citizen science », , dans le cadre du Glasgow Science Festival, Glasgow, Écosse, 6 juin 2026.
+- Conférence plénière, Conférence de la Glasgow Naturalist Society pour son 175ème anniversaire « Rediscovering natural history: from observation to citizen science », dans le cadre du Glasgow Science Festival, Glasgow, Écosse, 6 juin 2026.
 
 #### Interventions orales récentes (sélection)
 - Conférence plénière, « Scotland Within and Outwith: Internal and External Perspectives of a Nation », Postgraduate Research Symposium, Centre for Scottish and Celtic Studies, Glasgow, Écosse, 30 avril 2025.
