@@ -40,29 +40,29 @@ Research topics:
 
 ## Articles dans une revue
 
-Görgen, Carolin. “Californie à Paris: Photographic Circulation and the Making of Imperial Identities, c. 1900,” *Transatlantica*, no. 2, 2024.
+“Californie à Paris: Photographic Circulation and the Making of Imperial Identities, c. 1900,” *Transatlantica*, no. 2, 2024.
 
-Görgen, Carolin. “Vienna to San Francisco via Chicago: Camera Club Exchanges in the 1890s,” *Transatlantic Cultures*, 2023.
+“Vienna to San Francisco via Chicago: Camera Club Exchanges in the 1890s,” *Transatlantic Cultures*, 2023.
 
-Görgen, Carolin. “Everyday Photography? Politicizing a 'vernacular' photo album of the San Francisco Earthquake and Fire of 1906,” *Interfaces: Image Text Language*, No. 44, 2021, pp. 29-51.
+“Everyday Photography? Politicizing a 'vernacular' photo album of the San Francisco Earthquake and Fire of 1906,” *Interfaces: Image Text Language*, No. 44, 2021, pp. 29-51.
 
-Görgen, Carolin. “Camera Obscura: Revue internationale pour la photographie paraissant tous les mois en 4 langues, 1899-1901.” *Photographica*, no. 3 (2021).
+“Camera Obscura: Revue internationale pour la photographie paraissant tous les mois en 4 langues, 1899-1901.” *Photographica*, no. 3 (2021).
 
-Görgen, Carolin. “'San Francisco on a thousand plates' - New perspectives on photo-historical research around 1900 through the lens of the California Camera Club,” *Interfaces: Image Text Language*, No. 41, 2019, pp. 7-24.
+“'San Francisco on a thousand plates' - New perspectives on photo-historical research around 1900 through the lens of the California Camera Club,” *Interfaces: Image Text Language*, No. 41, 2019, pp. 7-24.
 
-Görgen, Carolin. “‘Bring your Camera’ – The Western American landscape through California Camera Club practice in the early 1900s,” *Journal of the LUCAS Graduate Conference*, Vol. 7, 2019, pp. 19-37. 
+“‘Bring your Camera’ – The Western American landscape through California Camera Club practice in the early 1900s,” *Journal of the LUCAS Graduate Conference*, Vol. 7, 2019, pp. 19-37. 
 
-Görgen, Carolin. “Des cendres à la nouvelle métropole. Le California Camera Club et la reconstruction photographique de San Francisco au lendemain du tremblement de terre et de l'incendie de 1906,” *Transbordeur: Photographie Histoire Société*, No. 2, 2018, pp. 186-199.
+“Des cendres à la nouvelle métropole. Le California Camera Club et la reconstruction photographique de San Francisco au lendemain du tremblement de terre et de l'incendie de 1906,” *Transbordeur: Photographie Histoire Société*, No. 2, 2018, pp. 186-199.
 
-Görgen, Carolin. “Historiens du territoire et de la pratique : Les photographes du California Camera Club,” *Histoire de l'Art*, No. 80, 2017.
+“Historiens du territoire et de la pratique : Les photographes du California Camera Club,” *Histoire de l'Art*, No. 80, 2017.
 
 ## Chapitres dans un ouvrage collectif
 
-Görgen, Carolin. “Ruines Écologiques du Tremblement de Terre de San Francisco,” in *Les formes de la Ruine*, eds. Alain Schnapp and Sylvie Ramond (Lyon and Paris: Musée des Beaux-Arts de Lyon and Lienart, 2024).
+“Ruines Écologiques du Tremblement de Terre de San Francisco,” in *Les formes de la Ruine*, eds. Alain Schnapp and Sylvie Ramond (Lyon and Paris: Musée des Beaux-Arts de Lyon and Lienart, 2024).
 
-Görgen, Carolin. “Toward a 'History of Uses': Photographic Dissemination in the Early Twentieth-century American West,” in *Factuality and Utilization of Early Photography*, eds. Tatjana Bartsch et al. (Berlin and Leipzig: German Archeological Institute & Harrassowitz Verlag, 2022).
+“Toward a 'History of Uses': Photographic Dissemination in the Early Twentieth-century American West,” in *Factuality and Utilization of Early Photography*, eds. Tatjana Bartsch et al. (Berlin and Leipzig: German Archeological Institute & Harrassowitz Verlag, 2022).
 
-Görgen, Carolin. “Arnold Genthe and the California Camera Club,” in *Among the Ruins: Arnold Genthe's Photographs of the 1906 San Francisco Earthquake and Firestorm*, eds. Karin Breuer and James A. Ganz (San Francisco and Petaluma: Fine Arts Museums of San Francisco and Cameron & Co., 2021).
+“Arnold Genthe and the California Camera Club,” in *Among the Ruins: Arnold Genthe's Photographs of the 1906 San Francisco Earthquake and Firestorm*, eds. Karin Breuer and James A. Ganz (San Francisco and Petaluma: Fine Arts Museums of San Francisco and Cameron & Co., 2021).
 
 ## Interventions orales récentes
 
@@ -101,15 +101,15 @@ Since 2019 Member of the editorial board of the journal *Photographica* https://
 
 2016 - 2019 Co-organization of the monthly seminar “Camera Memoria: Seminar on the histories of photography in the English-speaking world” with Camille Rouquet at Université Paris-Diderot (https://camemoria.hypotheses.org)
 
-## Autres / Divers
+## Fellowships and awards 
 
- Fellowships and distinctions 
+2025-2030 Membre Junior, Institut Universitaire de France
 
-2025 Fulbright Visiting Scholar, University of California Los Angeles
+2025 Fulbright Visiting Scholar, University of California Los Angeles (UCLA)
 
 2024 Archibald Hanna Fellowship in American History, Beinecke Library, Yale University (initially awarded 2019/20)
 
-2023 Thomas Mann Senior Fellowship, Los Angeles, California
+2023 Thomas Mann Senior Fellow, Los Angeles, California
 
 2021 Davidson Family Fellowship, Amon Carter Museum of American Art, Fort Worth, Texas
 
