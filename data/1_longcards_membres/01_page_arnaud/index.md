@@ -27,6 +27,8 @@ Histoire de l'alimentation
 
 ## Article dans une revue
 
+“‘A Bold Experiment in the Technique of Administration’: Nutrition Science and Development in The Gambia, 1946-1950”, *Journal of British Studies*, 2025 (à paraître).
+
 « La mesure de la faim : Les enquêtes nutritionnelles d’Edward Smith (Grande-Bretagne, années 1860) », *Revue d’histoire du XIXe siècle*, juin 2025 (à paraître).
 
  “Pure White Bread? Bleached Flour, Contestations, and Regulations, 1900-1950”, *Technology and Culture*, vol. 64, n° 1, 2023, pp. 149-171.
@@ -61,8 +63,22 @@ Histoire de l'alimentation
 
 “The 'crisis of modernity' and Graham Wallas: a modernist turn in the British study of politics?”, in Trevor Harris (ed.), *Art, Politics and Society in Britain (1880-1914): Aspects of Modernity and Modernism*, Newcastle upon Tyne: Cambridge Scholars Publishing, 2009, pp. 107-120.
 
-## Interventions orales récentes
+## Comptes rendus de lecture
+Michaël Llopart, *Aux origines d’AZF. Le problème de l’azote en France (1919-1940)*, Tours, 2023, in *ARTEFACT. Techniques, Histoire et Sciences humaines*, n° 21, 2024, pp. 437-441.
 
+Paul Brassley, Michael Winter, Matt Lobley & David Harvey, *The Real Agricultural Revolution. The Transformation of English Farming, 1939-1985*, Martlesham, 2021, in *Etudes Rurales*, n° 213, 2024, pp. 172-174.
+
+Chris Otter, *Diet for a Large Planet: Industrial Britain, Food Systems and World Ecology*, Chicago, 2020 in *Journal of British Studies*, vol. 61, n° 1, 2022, pp. 249-250.
+
+## Vulgarisation et interventions dans les média
+
+ Invité de l'émission “Le Cours de l'Histoire”, *France Culture*, 2 juin 2022: “Chimie à la ferme, pollution intensive”.
+
+## Interventions orales récentes
+« Le développement comme transition manquée: le projet de ferme aviaire en Gambie (1949-50) », Atelier CRECIB, Congrès SAES, Toulouse, 5-7 juin 2025.
+
+“An Egg-Laying White Elephant? Expertise, warnings and incompetence in the Gambian poultry farm project (1949-50)”, Séminaire ‘Policy Science in Historical Perspective’ (CYU, Sorbonne Université), Paris, 8 avril 2025.
+ 
  “'Developing the African”: Competing visions in The Gambia, 1945-50”, journée d'études “Low Modernism: Developing Step by Step”, CRH, EHESS, 5 juin 2024.
  
 « 'L'élément vital': Azote, quantification et nutrition ». Séminaire “Histoire environnementale: débats et recherches en cours” (GRHEN, CRH, EHESS), 20 octobre 2023.
@@ -89,9 +105,6 @@ Histoire de l'alimentation
 
 “The quantification of life: nitrogen and human nutrition in the 19th century”, “Socialising Nitrogen” Conference, Lancaster Environment Centre (UK), 27 novembre 2018.
 
-## Vulgarisation et interventions dans les média
-
- Invité de l'émission “Le Cours de l'Histoire”, *France Culture*, 2 juin 2022: “Chimie à la ferme, pollution intensive”.
 
 ## Organisation d'événements et partenariats
 
@@ -114,6 +127,8 @@ Histoire de l'alimentation
 Directeur-Adjoint de l'Unité de Recherches HDEA
  
 Coordinateur L3 et Directeur de la Licence LLCE études anglophones, Sorbonne Université
+
+Membre du jury de l’agrégation spéciale docteurs d’anglais (2025-...)
 
 ## Lien(s) vers autres pages
 
