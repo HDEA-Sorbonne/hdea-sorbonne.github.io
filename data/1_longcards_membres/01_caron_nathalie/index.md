@@ -30,7 +30,7 @@ abstract: Professeure des universités
 
 ## Articles dans une revue
 
- -  « L’élection présidentielle aux États-Unis de 2024. Le facteur religieux en mutation », Bulletin de l'Observatoire international du religieux N°52 [en ligne], décembre 2024. [https://obsreligion.cnrs.fr/bulletin/lelection-presidentielle-aux-etats-unis-de-2024-le-facteur-religieux-en-mutation/].
+ -  « L’élection présidentielle aux États-Unis de 2024. Le facteur religieux en mutation », *Bulletin de l'Observatoire international du religieux* N°52 [en ligne], décembre 2024. [https://obsreligion.cnrs.fr/bulletin/lelection-presidentielle-aux-etats-unis-de-2024-le-facteur-religieux-en-mutation/].
  - Avec Sophie Vallas. « Historienne des États-Unis : Élise Marienstras, du syndrome de l'imposture au désir de changer le monde ». *e-Rea* [En ligne], 21.1 | 2023. [https://journals.openedition.org/erea/17288].
 - « La religion, angle mort de la « civilisation américaine » ? », *Transatlantica* [En ligne], 1, 2023, mis en ligne le 01 juin 2023. [http://journals.openedition.org/transatlantica/21184]
 - “Friendship, Secrecy, Transatlantic Networks and the Enlightenment: The Jefferson-Barlow's Translation of Volney's *Ruines* (Paris, 1802)”, *Mémoires du livre/Studies in Book Culture*, Volume 11, Numéro 1, Automne 2019. [https://www.erudit.org/fr/revues/memoires/2019-v11-n1-memoires05099/1066940ar/resume/]
