@@ -23,16 +23,17 @@ abstract: Professeure des universités
 
 ## Ouvrage et direction de numéro de revue
 
- - Naomi Wulf, *Une autre démocratie en Amérique. Un regard politique, Orestes Brownson,(1824-1845)*. Édité avec Élise Marienstras et Sophie Wahnich. Paris, Presses Universitaires de Paris Sorbonne, 2017.
+ - Naomi Wulf, *Une autre démocratie en Amérique. Un regard politique, Orestes Brownson (1824-1845)*. Édité avec Élise Marienstras et Sophie Wahnich. Paris, Presses Universitaires de Paris Sorbonne, 2017.
 - Avec Guillaume Marche, dir. *La Politisation du religieux en modernité*. Rennes, Presses Universitaires de Rennes, coll. « Sciences du religieux », 2015.
 - Avec Richard Anker, dir. « Transferts du religieux/Religious Transfers ». *Revue française d'études américaines* 141 (4e trimestre 2014).
 - *Thomas Paine contre l'imposture des prêtres*. Paris, L'Harmattan, 1999.
 
 ## Articles dans une revue
 
- - Avec Sophie Vallas. « Historienne des États-Unis : Élise Marienstras, du syndrome de l'imposture au désir de changer le monde ». *e-Rea* [En ligne], 21.1 | 2023.
-- « La religion, angle mort de la « civilisation américaine » ? », *Transatlantica* [En ligne], 1, 2023, mis en ligne le 01 juin 2023. URL : http://journals.openedition.org/transatlantica/21184
-- “Friendship, Secrecy, Transatlantic Networks and the Enlightenment: The Jefferson-Barlow's Translation of Volney's *Ruines* (Paris, 1802)”, *Mémoires du livre/Studies in Book Culture*, Volume 11, Numéro 1, Automne 2019. En ligne: https://www.erudit.org/fr/revues/memoires/2019-v11-n1-memoires05099/1066940ar/resume/
+ -  « L’élection présidentielle aux États-Unis de 2024. Le facteur religieux en mutation », Bulletin de l'Observatoire international du religieux N°52 [en ligne], décembre 2024. [https://obsreligion.cnrs.fr/bulletin/lelection-presidentielle-aux-etats-unis-de-2024-le-facteur-religieux-en-mutation/].
+ - Avec Sophie Vallas. « Historienne des États-Unis : Élise Marienstras, du syndrome de l'imposture au désir de changer le monde ». *e-Rea* [En ligne], 21.1 | 2023. [https://journals.openedition.org/erea/17288].
+- « La religion, angle mort de la « civilisation américaine » ? », *Transatlantica* [En ligne], 1, 2023, mis en ligne le 01 juin 2023. [http://journals.openedition.org/transatlantica/21184]
+- “Friendship, Secrecy, Transatlantic Networks and the Enlightenment: The Jefferson-Barlow's Translation of Volney's *Ruines* (Paris, 1802)”, *Mémoires du livre/Studies in Book Culture*, Volume 11, Numéro 1, Automne 2019. [https://www.erudit.org/fr/revues/memoires/2019-v11-n1-memoires05099/1066940ar/resume/]
 
 ## Chapitres dans un ouvrage collectif
 
@@ -60,10 +61,10 @@ abstract: Professeure des universités
 
 ## Autres / Divers
 
- - Membre du conseil d'UFR, UFR d'études anglophones.
+- Responsable de la mention Master LLCER depuis septembre 2024.
+- Membre du conseil d'UFR, UFR d'études anglophones.
 - Responsable de la coordination du programme d'échange FEI d'assistants et d'assistantes de l'UFR d'études anglophones de Sorbonne Université.
 - Membre du conseil d'HDEA (Histoire et Dynamique des Pays Anglophones). Co-responsable de l'axe Questions religieuses.
-- Responsable de la série Americana/AFEA de la collection « Mondes anglophones », Sorbonne Université Presses
 - Membre du conseil de l'École doctorale Cultures et Sociétés (CS), Paris-Est Sup depuis février 2021.
 - Membre de l'editorial board de *Secularism and Nonreligion* depuis 2011.
 
