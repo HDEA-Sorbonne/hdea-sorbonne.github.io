@@ -1,7 +1,7 @@
 ---
 uuid: 74056400-1857-4a56-b4e7-290977da311a
 prettyName: louisechabanel
-title: Louise CHABANEL
+title: Louise Chabanel
 abstract: Doctorante
 ---
 
