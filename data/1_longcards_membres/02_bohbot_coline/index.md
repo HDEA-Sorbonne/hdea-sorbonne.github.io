@@ -1,7 +1,7 @@
 ---
 uuid: 13f8775c-e067-48f5-9d52-481e7f2877dc
 prettyName: colinebohbot
-title: Coline BOHBOT
+title: Coline Bohbot
 abstract: Doctorante
 ---
 
