@@ -1,7 +1,7 @@
 ---
 uuid: 07baeb2e-fb20-435f-8039-df5aa7591e78
 prettyName: mariemadeleinemartinet
-title: Marie-Madeleine MARTINET
+title: Marie-Madeleine Martinet
 abstract: Professeure émérite
 ---
 
