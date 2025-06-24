@@ -1,7 +1,7 @@
 ---
 uuid: 4201f5a3-e670-44da-b9ba-3bf2094c741d
 prettyName: willslauter
-title: Will SLAUTER
+title: Will Slauter
 abstract: Professeur des universités
 ---
 
