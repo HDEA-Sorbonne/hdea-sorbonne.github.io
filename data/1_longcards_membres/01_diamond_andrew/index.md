@@ -1,5 +1,4 @@
 ---
-uuid: 
 prettyName: andrewdiamond
 title: Andrew Diamond
 abstract: Professeur des universités
