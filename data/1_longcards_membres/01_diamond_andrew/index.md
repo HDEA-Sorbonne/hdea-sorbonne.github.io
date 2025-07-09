@@ -2,6 +2,7 @@
 prettyName: andrewdiamond
 title: Andrew Diamond
 abstract: Professeur des universités
+uuid: afa48882-693d-4e96-9541-f33029c4c943
 ---
 
 
