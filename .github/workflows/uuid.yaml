@@ -32,11 +32,34 @@ jobs:
             # Vérifie si le fichier a un frontmatter (typique des fichiers Markdown)
             if [[ "$file" == *.md || "$file" == *.markdown ]]; then
               echo "Fichier Markdown détecté: $file"
-              # Ajoute un UUID si le frontmatter n'en contient pas
-              if ! grep -q 'uuid:' "$file"; then
-                uuid=$(uuidgen)
-                sed -i '0,/---/{s/---/---\nuuid: '"$uuid"'\n/}' "$file" 
-                echo "UUID ajouté au fichier: $file"
+            
+              # Génère un UUID
+              uuid=$(uuidgen)
+            
+              # Vérifie la présence d'un frontmatter YAML
+              if grep -q "^---" "$file"; then
+                echo "Frontmatter détecté."
+            
+                # Vérifie si un uuid est déjà présent
+                if ! grep -q "^uuid:" "$file"; then
+                  # Ajoute l'UUID après le premier ---
+                  sed -i "0,/---/s/---/---\nuuid: $uuid/" "$file"
+                  echo "UUID ajouté au frontmatter du fichier: $file"
+                else
+                  echo "UUID déjà présent dans le fichier: $file"
+                fi
+              else
+                echo "Pas de frontmatter trouvé. Ajout d'un frontmatter."
+                # Ajoute un frontmatter complet avec UUID au début du fichier
+                tmpfile=$(mktemp)
+                {
+                  echo "---"
+                  echo "uuid: $uuid"
+                  echo "---"
+                  cat "$file"
+                } > "$tmpfile"
+                mv "$tmpfile" "$file"
+                echo "Frontmatter avec UUID ajouté en tête du fichier: $file"
               fi
             fi
           done
