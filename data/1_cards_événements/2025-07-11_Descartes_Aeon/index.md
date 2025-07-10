@@ -10,7 +10,7 @@ abstract: ""
 
 
 
-### Sandrine Parageau, « The French Liar », *Aeon, juillet 2025
+### Sandrine Parageau, « The French Liar », *Aeon*, juillet 2025
 
 René Descartes, the founder of modern philosophy, was furiously condemned by his contemporaries. Why did they fear him?
 
