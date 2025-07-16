@@ -27,7 +27,7 @@ Histoire de l'alimentation
 
 ## Article dans une revue
 
-“‘A Bold Experiment in the Technique of Administration’: Nutrition Science and Development in The Gambia, 1946-1950”, *Journal of British Studies*, 2025 (à paraître).
+“‘A Bold Experiment in the Technique of Administration’: Nutrition Science and Development in The Gambia, 1946-1950”, *Journal of British Studies*, vol. 64, 2025, https://doi.org/10.1017/jbr.2025.32. 
 
 « La mesure de la faim : Les enquêtes nutritionnelles d’Edward Smith (Grande-Bretagne, années 1860) », *Revue d’histoire du XIXe siècle*, n° 70, 2025/1, pp. 79-95.
 
