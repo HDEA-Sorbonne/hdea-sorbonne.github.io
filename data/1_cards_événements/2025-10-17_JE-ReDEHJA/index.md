@@ -1,4 +1,4 @@
----
+
 ---
 title: Journée Publications récentes RéDEHJA
 event: true
