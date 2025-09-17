@@ -12,7 +12,6 @@ abstract: Maîtresse de conférences en histoire britannique
 
  melanie.cournil@sorbonne-universite.fr
 
-###### Actuellement en délégation CNRS de 12 mois, Centre Alexandre Koyré (UMR 8560, EHESS, MNHN), 2024-2025.
 
 ## Thèmes de recherche
 
@@ -35,7 +34,8 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Articles dans une revue
 
-- « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », *British Journal of the History of Science*, février 2025.
+- « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », *British Journal of the History of Science*, Vol. 58, n°1, mars 2025, pp. 39-59.
+Disponible en ligne en open access: DOI: [https://doi.org/10.1017/S0007087424001456]
 - « 'What Dangerous Men' : La pratique de la médecine sur l'île de la Dominique à la fin du XVIIIe siècle », *Revue de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles*, N°75, « La couleur », décembre 2018, publication en ligne, [https://journals.openedition.org/1718/1333].
 - « La construction d'un discours antiabolitionniste britannique dans les années 1830 : James MacQueen et la 'controverse Mary Prince'», *Études écossaises*, N°20, avril 2018, publication en ligne, [https://journals.openedition.org/etudesecossaises/1422].
 - « La colonie de Darien : l'échec de l'empire écossais à la fin du XVIIe siècle », *La Vie des idées*, publication en ligne, 13 octobre 2015, [https://laviedesidees.fr/La-colonie-de-Darien.html].
@@ -43,12 +43,12 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Chapitres dans un ouvrage collectif
 
-- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s). 1600-1840* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit (accepté, à paraître en 2025).
+- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s). 1600-1840* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit (accepté, à paraître fin 2025).
 - « De Leith à la Barbade, via la côte de l'Or : le voyage triangulaire de la brigantine Neptune en 1729 », in Tri Tran (dir.), *L'eau en Écosse/Water in Scotland*, Calédonia, Annales Littéraires, Franche-Comté: PUFC, 2022, pp. 187-202.
 
 ## Autres publications
 
-- Introduction scientifique de *L'histoire de Mary Prince, esclave antillaise*, Éditions Karthala (à paraître en 2025).
+- Introduction scientifique de *L'histoire de Mary Prince, esclave antillaise*, Éditions Karthala (à paraître fin 2025).
 - Traductions avec appareil critique de textes de Robert Wedderburn, in Marie-Jeanne Rossignol & Michaël Roy (dirs.), *Une anthologie de la pensée noire : États-Unis et Haïti (XVIIIe-XIXe siècles)*, Paris : Hors d'atteinte, 2023, pp. 78-84 ; 311-315.
 
 ## Interventions orales
@@ -114,30 +114,38 @@ Organisation de 11 séances avec Irène Delcourt, Alice Bonzom, Joe Karackattu, 
 
 ## Autres / Divers
 
+#### Affiliation à un autre laboratoire de recherche
+- Membre associée, Centre Alexandre-Koyré (UMR 8560, EHESS, MNHN) (2025- )
+
+#### Délégation CNRS
+- Délégation CNRS de 12 mois, Centre Alexandre Koyré (UMR 8560, EHESS, MNHN), 2024-2025
+  
 #### Responsabilités scientifiques au sein de l'unité de recherche HDEA:
 - Membre élue du conseil de HDEA (2019- présent, rééelue en décembre 2023)
 
 #### Activités éditoriales:
 - Membre du comité de lecture de la revue *Études Écossaises* (2024-)
 - Évaluation d'articles et de chapitres pour le *Journal of Early American History*, la Revue *LISA*, la *Revue d'histoire du XIXe siècle*, et les éditions Le Manuscrit (2022- )
-- Membre du conseil de rédaction des revues en ligne *La Vie des idées* et *Books & Ideas* (2021- )
-- Co-rédactrice en chef des revues en ligne *La Vie des idées* et *Books & Ideas* (2016-2021), responsable générale du site *Books & Ideas* (2016-2018) et co-responsable du développement international des deux revues (2018-2021).
+- Membre du conseil de rédaction des revues en ligne *La Vie des idées* et *Books & Ideas* (2021-2025)
+- Co-rédactrice en chef des revues en ligne *La Vie des idées* et *Books & Ideas* (2016-2021), responsable générale du site *Books & Ideas* (2016-2018) et co-responsable du développement international des deux revues (2018-2021)
 
 #### Distinctions et bourses de recherche:
-- Bourse de recherche Society of Antiquaries of Scotland (*travel grant*), 2025.
-- Visiting Research Fellow, University of Glasgow Library, Glasgow, 2024.
-- Dibner Research Fellow in the History of Science and Technology, The Huntington Library, San Marino, États-Unis (short-term fellowship de deux mois, mai-juin), 2023.
-- Lauréate du prix de thèse de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles, 2017.
-- Boursière du mois, Maison Française d'Oxford, 2013.
+- Bourse de recherche Society of Antiquaries of Scotland (*travel grant*), 2025
+- Visiting Research Fellow, University of Glasgow Library, Glasgow, 2024
+- Dibner Research Fellow in the History of Science and Technology, The Huntington Library, San Marino, États-Unis (short-term fellowship de deux mois, mai-juin), 2023
+- Lauréate du prix de thèse de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles, 2017
+- Boursière du mois, Maison Française d'Oxford, 2013
 
 #### Affiliations à des sociétés savantes:
-- Membre de la Société des Anglicistes de l'Enseignement Supérieur (SAES).
-- Membre de l'Association Française d'Études Américaines (AFEA). 
-- Membre de la Société Française d'Études Écossaises (SFEE).
+- Membre de la Société des Anglicistes de l'Enseignement Supérieur (SAES)
+- Membre de l'Association Française d'Études Américaines (AFEA)
+- Membre de la Société Française d'Études Écossaises (SFEE)
 
 ## Lien(s) vers autres pages
 
 https://sorbonne-fr.academia.edu/MélanieCournil
+
+https://cv.hal.science/melanie-cournil
  
-https://melaniecournil.wixsite.com/mcournil/
+
 
