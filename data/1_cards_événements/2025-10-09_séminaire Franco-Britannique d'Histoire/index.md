@@ -13,9 +13,9 @@ Le séminaire a lieu le jeudi de 17h à 18h30, à la Maison de la Recherche, 28 
  
 
 9 octobre 2025 à 17h : Séance spéciale doctorants. 
-Chloé Luneau : « La question nationale dans les mobilisations gaies et lesbiennes dans les deux Irlande (années 1970-1980) »;
-Lucas Privet (doctorant ENS Ulm – Sorbonne Université) : « “Home Colonization” et “Land Plan” : quelle place pour l’Irlande dans le projet chartiste de mise en culture des terres en friche ? »;
-Caroline Seyer (doctorante à l’université Paris-Cité) : « Maternité lesbienne et santé des femmes : Penser l’intime ou le politique au sein des lieux militants britanniques, 1970-1990 »;
+- Chloé Luneau : « La question nationale dans les mobilisations gaies et lesbiennes dans les deux Irlande (années 1970-1980) »;
+- Lucas Privet (doctorant ENS Ulm – Sorbonne Université) : « “Home Colonization” et “Land Plan” : quelle place pour l’Irlande dans le projet chartiste de mise en culture des terres en friche ? »;
+- Caroline Seyer (doctorante à l’université Paris-Cité) : « Maternité lesbienne et santé des femmes : Penser l’intime ou le politique au sein des lieux militants britanniques, 1970-1990 »;
 
  23 octobre :  Ali Hatapci  (Université de Bourgogne) : “Geographies of Science in Victorian England: Natural History in the Midlands”
 
