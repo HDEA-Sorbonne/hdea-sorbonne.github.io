@@ -48,4 +48,10 @@ Le séminaire est ouvert à toutes les personnes intéressées, sans inscription
 
 https://sfbh.hypotheses.org/category/seances
 
+
+Le séminaire franco-britannique d’histoire est organisé depuis 2000 par Sorbonne Université (Centre d’histoire du XIXe siècle ; Centre Roland Mousnier – UMR 8596 ; HDEA), en partenariat avec le LARCA-UMR 8225 (Université Paris Cité), Agora (Cergy-Paris Université) et l’Institut universitaire de France.
+
+Les organisateurs sont  Fabrice Bensimon, Emmanuelle de Champs, Jean-François Dunyach, John-Erik Hansson, Frédérique Lachaud, Arnaud Page.
+
+
 ![small](Gulliver.jpg)
