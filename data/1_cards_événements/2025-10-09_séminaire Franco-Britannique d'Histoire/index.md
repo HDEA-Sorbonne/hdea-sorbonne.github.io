@@ -10,6 +10,7 @@ uuid: 114fd1dd-1c39-4835-a8da-5002589176e5
 
 Le séminaire a lieu le jeudi de 17h à 18h30, à la Maison de la Recherche, 28 rue Serpente, Paris 6e, salle D421.
 
+
  
 
 9 octobre 2025 à 17h : Séance spéciale doctorants. 
