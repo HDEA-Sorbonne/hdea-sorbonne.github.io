@@ -71,7 +71,7 @@ Finalistes : Virginie Adane, *Aux origines de New York. Femmes et hommes dans la
 ### 18h00 Cocktail – cafeteria
 
 
-![small](JE-RED.jpeg)
+![small](JE-RED.jpg)
 
 
 Illustration: Bodmer, Karl, Artist. Encampment of Piekann Indians, near Fort McKenzie on the Muscleshell sic River / HD. Montana, 1842. (Philadelphia: Published by Daniel Rice & James G. Clark, Phila) https://www.loc.gov/item/96522963/.
