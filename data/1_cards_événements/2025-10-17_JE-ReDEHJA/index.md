@@ -25,12 +25,12 @@ Contact : nathalie.caron [at] sorbonne-universite.fr ; gabrielle.guillerm [at] s
 9h30 : accueil et ouverture de la journée par Sandrine Parageau, directrice de l’unité de recherche HDEA
 
 
-10h-10h45 : Virginie Adane, 1619. L’autre naissance des États-Unis, PUF, collection « Une année dans l’Histoire », 2024
+10h-10h45 : Virginie Adane, *1619. L’autre naissance des États-Unis*, PUF, collection « Une année dans l’Histoire », 2024
 
 Commentaire : Anne-Claire Faucquez, Université Paris 8
 
 
-10h45-11h30 : Agnès Delahaye, Aventuriers, pèlerins, puritains. Les mythes fondateurs de l’Amérique, Passés/Composés, 2024
+10h45-11h30 : Agnès Delahaye, *Aventuriers, pèlerins, puritains. Les mythes fondateurs de l’Amérique*, Passés/Composés, 2024
 
 Commentaire : Gabrielle Guillerm, Sorbonne Université
 
