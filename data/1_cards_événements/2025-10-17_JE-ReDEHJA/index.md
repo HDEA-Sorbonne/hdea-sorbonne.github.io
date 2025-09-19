@@ -14,13 +14,14 @@ Sorbonne Université, site Malesherbes, 108 boulevard Malesherbes, Paris 17e
 
 Journée organisée avec le soutien d’HDEA (Sorbonne Université), Transcrit (Paris 8) et RéDEHJA
 
-Organisatrices : Nathalie Caron et Gabrielle Guillerm, HDEA, Sorbonne Université ; Claire Bourhis-Mariotti, Transcrit, Paris 8
+Organisatrices : Nathalie Caron et Gabrielle Guillerm, HDEA, Sorbonne Université; Claire Bourhis-Mariotti, Transcrit, Paris 8
 
 Contact : nathalie.caron [at] sorbonne-universite.fr ; gabrielle.guillerm [at] sorbonne-universite.fr
 
-### Programme
+# Programme
 
-## Programme matin – amphi 122
+
+## Programme matin I – amphi 122
 
 9h30 : accueil et ouverture de la journée par Sandrine Parageau, directrice de l’unité de recherche HDEA
 
@@ -34,7 +35,13 @@ Commentaire : Anne-Claire Faucquez, Université Paris 8
 
 Commentaire : Gabrielle Guillerm, Sorbonne Université
 
-## Pause
+
+
+*11h30-11h45 : Pause Café*
+
+
+
+## Programme matin II - amphi 122
 
 11h45-12h30 : Claire Parfait et Michaël Roy, et Simone Chambon, traduction, notes et introduction, *Moses Roper, Josiah Henson. Deux récits d’esclaves fugitifs*, Presses universitaires de Rouen et du Havre, 2025
 
@@ -46,10 +53,10 @@ Commentaire : Laurence Cossu-Beaumont, Sorbonne Nouvelle
 Commentaire : Cécile Coquet Mokoko, Université Versailles Saint-Quentin
 
 
-### Déjeuner (buffet) – cafeteria
+*Déjeuner (buffet) – cafeteria*
 
 
-### Programme Après-midi – amphi 111
+## Programme Après-midi I – amphi 111
 
 14h45-15h30 : Élodie Peyrol-Kleiber, L. H. Roper, Bertrand Van Ruymbeke and Agnès Delahaye, ed. *Agents of European Overseas Empires: Private Colonisers, 1450-1800*, Manchester University Press, 2024.
 
@@ -61,14 +68,16 @@ Commentaire : Soazig Villerbu, Université de Limoges
 Commentaire : Marine Le Puloch, Sorbonne Nouvelle
 
 
-### Pause
+*16h15-16h45 : Pause café*
+
+## Programme Après-midi II – amphi 111
 
 16h45 : Remise du prix Élise Marienstras
 
 Finalistes : Virginie Adane, *Aux origines de New York. Femmes et hommes dans la formation d'une société nouvelle* (Presses Universitaires de Rennes, 2024) ; Gilles Havard, *Les Natchez : vie et destin d'un peuple nord-américain* (Tallandier, 2024) ; Martin Robert, *Cette science nécessaire. Dissections humaines et formation médicale au Québec* (MacGill-Queen’s University Press, 2023) ; Michaël Roy, *Young Abolitionists: Children of the Antislavery Movement* (New York University Press, 2024)
 
 
-### 18h00 Cocktail – cafeteria
+## 18h00 Cocktail – cafeteria
 
 
 ![small](JE-RED.jpg)
