@@ -36,6 +36,6 @@ Louise Dalingwater
 
 ## Autres/publications
 
-"Royaume-Uni : quand l'extrême-droite pousse Keir Starmer à durcir son discours sur l'immigration", *The Conversation*, 2025. 
-https://theconversation.com/royaume-uni-quand-lextreme-droite-pousse-keir-starmer-a-durcir-son-discours-sur-limmigration-257975 
+["Royaume-Uni : quand l'extrême-droite pousse Keir Starmer à durcir son discours sur l'immigration"](https://theconversation.com/royaume-uni-quand-lextreme-droite-pousse-keir-starmer-a-durcir-son-discours-sur-limmigration-257975/), *The Conversation*, 2025. 
+
 
