@@ -5,8 +5,7 @@ title: Nathalie Caron
 abstract: Professeure des universités
 ---
 
-
-<img src="./avatar.webp" width="200px" />
+![small](Caron.jpg)
 
 ## Contact
 
