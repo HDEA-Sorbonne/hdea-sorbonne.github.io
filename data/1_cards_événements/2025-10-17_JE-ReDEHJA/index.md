@@ -79,7 +79,7 @@ Finalistes : Virginie Adane, *Aux origines de New York. Femmes et hommes dans la
 
 ## 17h Cocktail – cafeteria
 
-[Programme](docs/2025_prog_Redehja.pdf)
+[Programme](data/1_cards_événements/2025-10-17_JE-ReDEHJA/2025_prog_Redehja.pdf)
 
 ![small](JE-RED.jpg)
 
