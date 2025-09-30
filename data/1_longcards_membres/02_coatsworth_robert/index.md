@@ -5,7 +5,7 @@ title: Robert Coatsworth
 abstract: Doctorant
 ---
 
-![small](Coatsworth.png)
+![small](coatsworth.png)
 
 
 ## Contact
