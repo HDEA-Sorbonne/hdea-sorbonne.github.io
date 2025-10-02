@@ -1,6 +1,8 @@
 ---
 uuid: 7ebd710a-eeb8-4cf1-b229-47f19a58c405
+title: "Publication de Will Slauter - Notice encyclopédique"
 ---
+![small](Elgar.jpg)
 
 ## Type de publication:
 Notice encyclopédique
