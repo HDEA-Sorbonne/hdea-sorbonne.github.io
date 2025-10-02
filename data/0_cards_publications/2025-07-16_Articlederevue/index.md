@@ -2,7 +2,7 @@
 uuid: fea21eda-fc35-4b97-93e1-0f20ebc598db
 title: "Publication d'Arnaud Page - Article de revue"
 ---
-![verysmall](couverture_rh19_70_2025.png)
+![verysmall](journal_ofbritishstudies.jpg)
 
 ## Type de publication:
 Article dans une revue internationale
