@@ -2,6 +2,7 @@
 uuid: b36427a2-390a-460c-abb1-0992eaa41bd5
 title: "Publication de Mélanie Cournil - Article de revue"
 ---
+![small](urn_cambridge.org_id_binary_20250707091945885-0054_S0007087424001456_S0007087424001456_fig1.png)
 
 ## Type de publication:
 Article dans une revue internationale
