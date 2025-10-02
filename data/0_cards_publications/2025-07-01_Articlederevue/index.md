@@ -2,6 +2,8 @@
 uuid: 980564a7-0ee4-4a82-92a7-3362d7b7b182
 title: "Publication de Claire Dutriaux - Article de revue"
 ---
+![small](transatlantica.jpeg)
+
 ## Type de publication:
 Article dans une revue nationale
 
