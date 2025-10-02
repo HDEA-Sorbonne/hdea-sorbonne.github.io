@@ -3,7 +3,7 @@ uuid: ad90a342-9379-4480-8159-77ba4a7e88c7
 ---
 title: "Publication de Carolin Görgen - Article de revue"
 ---
-![small]
+![small](img-3.png)
 
 ## Type de publication:
 Article dans une revue nationale
