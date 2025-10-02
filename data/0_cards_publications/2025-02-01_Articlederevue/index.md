@@ -2,6 +2,7 @@
 uuid: 33900bf9-9e51-4736-9a88-123906648617
 title: "Publication d'Arnaud Page - Article de revue"
 ---
+![verysmall](couverture_rh19_70_2025.png)
 
 ## Type de publication:
 Article dans une revue nationale
