@@ -27,13 +27,13 @@ Gabrielle Guillerm is Associate Professor of American and US history. She specia
 
 ## Articles dans une revue
 
-Gabrielle Guillerm, “(Un)holy Trade: Ecclesiastical Slavery, French Missionaries, and Catholic Westward Expansion in the Early Republic,” *Journal of the Early Republic* (forthcoming 2025)
-
-Gabrielle Guillerm, “Reckoning with the Jesuits’ Role in the US Federal Policy of Assimilation: The Truth and Healing Project at Mahpíya Lúta/Red Cloud,” *Jesuit Educational Quarterly*, Special Issue on Jesuits, Race, and Slavery (under review)
+-  “(Un)holy Trade: Ecclesiastical Slavery, French Missionaries, and Catholic Westward Expansion in the Early Republic,” *Journal of the Early Republic*,  Volume 45, Number 3, Fall 2025, https://muse.jhu.edu/article/969330
+  
+-  “Reckoning with the Jesuits’ Role in the US Federal Policy of Assimilation: The Truth and Healing Project at Mahpíya Lúta/Red Cloud,” *Jesuit Educational Quarterly*, Special Issue on Jesuits, Race, and Slavery (under review)
 
 ## Chapitres dans un ouvrage collectif
 
-Gabrielle Guillerm, “Le Père David, émigré et artisan d’une Eglise catholique authentiquement américaine.” In *Les Français et les Etats-Unis, 1789-1815 : Marchands, exilés, missionnaires et diplomates*. Edited by Tangi Villerbu. Rennes: Presses universitaires de Rennes, 2017.
+- “Le Père David, émigré et artisan d’une Eglise catholique authentiquement américaine.” In *Les Français et les Etats-Unis, 1789-1815 : Marchands, exilés, missionnaires et diplomates*. Edited by Tangi Villerbu. Rennes: Presses universitaires de Rennes, 2017.
 
 ## Autres publications
 
