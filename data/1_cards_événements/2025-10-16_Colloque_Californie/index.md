@@ -6,7 +6,7 @@ abstract: ""
 uuid: ae510c76-e013-4965-85a7-0cddd8d1b207
 ---
 
-# Colloque international: La Californie: Epicentre des sciences sociales / California as the epicenter of social sciences
+## Colloque international: La Californie: Epicentre des sciences sociales / California as the epicenter of social sciences
 
 16–17/10/2025, 9:00 a.m.–6:30 p.m.
   
@@ -14,7 +14,7 @@ The University of Chicago Center in Paris, 41 rue des Grands Moulins, 75013 Pari
 
 Organizers: Thibaut Clément, Élodie Edwards-Grossi, Olivier Richomme, with the support of HDEA-Sorbonne Université, IRISSO-Paris-Dauphine, Institut des Amériques, Institut Universitaire de France, Triangle-Lyon II
 
-## About
+### About
 
 This international symposium seeks to bring together recent social science research on California.
   
@@ -22,9 +22,9 @@ Drawing on diverse fields (American studies, sociology, social anthropology, his
   
 The symposium will also provide a space for reflection on the practical and theoretical challenges of fieldwork, particularly for researchers based in France studying distant contexts.
 
-## PROGRAM
+### PROGRAM
 
-### DAY 1 – Thursday, October 16, 2025
+#### DAY 1 – Thursday, October 16, 2025
   
 8:45 a.m. – Coffee and Welcome
   
@@ -90,7 +90,7 @@ Gérôme Guibert (IRMECCEN, Sorbonne Nouvelle), “‘When people make the scene
 ***7:30 p.m.** – Conference Dinner, Bouillon Racine, 3 Rue Racine, 75006 Paris*
 
 
-### DAY 2 – Friday, October 17, 2025
+#### DAY 2 – Friday, October 17, 2025
 
 ***9:00 a.m.** – Coffee and Welcome*
 
@@ -141,7 +141,7 @@ Marine Dassé (CRESEM, Université de Perpignan), “Espaces postfordistes et vi
 
 ***4:45–6:15 p.m.** – Cocktail Reception*
 
-### [Télécharger le programme](Programme_Californie.pdf)
+#### [Télécharger le programme](Programme_Californie.pdf)
 
 ![small](Calif.png)
 
