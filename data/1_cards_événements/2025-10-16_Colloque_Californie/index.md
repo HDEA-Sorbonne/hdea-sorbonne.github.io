@@ -11,6 +11,13 @@ uuid: ae510c76-e013-4965-85a7-0cddd8d1b207
 16–17/10/2025, 9:00 a.m.–6:30 p.m.
   
 The University of Chicago Center in Paris, 41 rue des Grands Moulins, 75013 Paris
+
+
+
+
+
+
+
   
 Organizers: Thibaut Clément, Élodie Edwards-Grossi, Olivier Richomme, with the support of HDEA-Sorbonne Université, IRISSO-Paris-Dauphine, Institut des Amériques, Institut Universitaire de France, Triangle-Lyon II
 
