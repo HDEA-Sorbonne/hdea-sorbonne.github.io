@@ -131,6 +131,6 @@ Chair: Élodie Edwards-Grossi (IRISSO, Université Paris Dauphine–PSL/IUF)
 
 ### [Télécharger le programme](Programme_Californie.pdf)
 
-![small](JE-RED.jpg)
+![small](Calif.png)
 
 
