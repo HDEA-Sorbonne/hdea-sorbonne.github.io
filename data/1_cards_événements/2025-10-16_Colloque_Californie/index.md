@@ -6,7 +6,7 @@ abstract: ""
 uuid: ae510c76-e013-4965-85a7-0cddd8d1b207
 ---
 
-# COLLOQUE INTERNATIONAL : LA CALIFORNIE : ÉPICENTRE DES SCIENCES SOCIALES / CALIFORNIA AS THE EPICENTER OF SOCIAL SCIENCES
+# Colloque international: La Californie: Epicentre des sciences sociales / California as the epicenter of social sciences
 
 16–17/10/2025, 9:00 a.m.–6:30 p.m.
   
