@@ -88,6 +88,8 @@ Liora Israël (Centre Maurice Halbwachs, EHESS), “Tensions au cœur du renouve
 Gérôme Guibert (IRMECCEN, Sorbonne Nouvelle), “‘When people make the scene’: à propos du travail sociologique de John Irwin”
 
 7:30 p.m. – Conference Dinner, Bouillon Racine, 3 Rue Racine, 75006 Paris
+/
+/
 
 
 ### DAY 2 – Friday, October 17, 2025
