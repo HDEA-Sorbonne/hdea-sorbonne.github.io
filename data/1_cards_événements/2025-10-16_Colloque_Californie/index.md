@@ -9,27 +9,27 @@ uuid: ae510c76-e013-4965-85a7-0cddd8d1b207
 # COLLOQUE INTERNATIONAL : LA CALIFORNIE : ÉPICENTRE DES SCIENCES SOCIALES / CALIFORNIA AS THE EPICENTER OF SOCIAL SCIENCES
 
 16–17/10/2025, 9:00 a.m.–6:30 p.m.
-
+  
 The University of Chicago Center in Paris, 41 rue des Grands Moulins, 75013 Paris
-
+  
 Organizers: Thibaut Clément, Élodie Edwards-Grossi, Olivier Richomme, with the support of HDEA-Sorbonne Université, IRISSO-Paris-Dauphine, Institut des Amériques, Institut Universitaire de France, Triangle-Lyon II
 
 ## About
 
 This international symposium seeks to bring together recent social science research on California.
-
+  
 Drawing on diverse fields (American studies, sociology, social anthropology, history, political science, geography) and a range of methodologies (archival research, oral history, ethnography, participant observation, semi-structured interviews, etc.), these studies shed light on the state’s territorial, social, and racial policies and inequalities through an intersectional lens.
-
+  
 The symposium will also provide a space for reflection on the practical and theoretical challenges of fieldwork, particularly for researchers based in France studying distant contexts.
 
 ## PROGRAM
 
 ### DAY 1 – Thursday, October 16, 2025
-
+  
 8:45 a.m. – Coffee and Welcome
-
+  
 9:15 a.m. – Opening Speech
-
+  
 #### 9:30 a.m. – Keynote Address: Nadia Y. Kim, Professor of Sociology, Texas A&M University
 
 “Refusing Death: Environmental Justice, Immigrants, and the Politics of Emotions”
