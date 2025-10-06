@@ -129,4 +129,8 @@ Chair: Élodie Edwards-Grossi (IRISSO, Université Paris Dauphine–PSL/IUF)
 
 4:45–6:15 p.m. – Cocktail Reception
 
+### [Télécharger le programme](Programme_Californie.pdf)
+
+![small](JE-RED.jpg)
+
 
