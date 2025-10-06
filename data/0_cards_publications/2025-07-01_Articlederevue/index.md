@@ -1,13 +1,15 @@
 ---
 uuid: 980564a7-0ee4-4a82-92a7-3362d7b7b182
-title: "Publication de Claire Dutriaux - Article de revue"
+title: Claire Dutriaux, "Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era", *Transatlantica*, 2025.
 ---
-![small](transatlantica.jpeg)
+
+Claire Dutriaux, « Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era: The Many Lives of Kroger Babb’s Early Ventures », _Transatlantica_, 2025, 1.
+
+
+Disponible en ligne: https://journals.openedition.org/transatlantica/24837
+
 
 ## Type de publication:
 Article dans une revue nationale
 
-## Détails de la publication
-Claire Dutriaux, « Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era: The Many Lives of Kroger Babb’s Early Ventures », _Transatlantica_, 2025, 1.
-
-Disponible en ligne: https://journals.openedition.org/transatlantica/24837
+![small](transatlantica.jpeg)
