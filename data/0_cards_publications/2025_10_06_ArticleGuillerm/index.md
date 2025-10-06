@@ -12,3 +12,6 @@ Disponible en ligne: https://muse.jhu.edu/article/969330
 
 ## Type de publication:
 Article dans une revue internationale
+
+![small](Republic.png)
+
