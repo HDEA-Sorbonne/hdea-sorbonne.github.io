@@ -37,7 +37,7 @@ Gabrielle Guillerm is Associate Professor of American and US history. She specia
 
 ## Autres publications
 
-Gabrielle Guillerm, Caption of Petit Catéchisme (1815). In *Religion and the American West: Belief, Violence, and Resilience from 1800 to Today*. Edited by Jessica Lauren Nelson. University of New Mexico Press, September 2023. 
+Caption of Petit Catéchisme (1815). In *Religion and the American West: Belief, Violence, and Resilience from 1800 to Today*. Edited by Jessica Lauren Nelson. University of New Mexico Press, September 2023. 
 
 ## Interventions orales récentes
 
