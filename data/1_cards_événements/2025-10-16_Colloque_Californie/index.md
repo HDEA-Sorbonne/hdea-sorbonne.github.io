@@ -44,11 +44,11 @@ Chair: Élodie Edwards-Grossi (IRISSO, Université Paris Dauphine–PSL/IUF)
 
 Chair: Yves Figuereido (ECHELLES, Université Paris Cité)
 
-    Christophe Roncato Tounsi (ILCEA4, Université Grenoble Alpes), “Riding in the margins: tapping the untapped potential of bicycle mobility to accelerate California’s sustainable transition”
+Christophe Roncato Tounsi (ILCEA4, Université Grenoble Alpes), “Riding in the margins: tapping the untapped potential of bicycle mobility to accelerate California’s sustainable transition”
 
-    Grégory Salle (CNRS), “‘California spillin’: une marée noire entre intrigue judiciaire et affaire sociologique (Baie de San Francisco, 2007–2011)”
+Grégory Salle (CNRS), “‘California spillin’: une marée noire entre intrigue judiciaire et affaire sociologique (Baie de San Francisco, 2007–2011)”
 
-    Joan Cortinas Muñoz (Centre Émile Durkheim, Université Bordeaux) & Franck Poupeau (IHEAL, CNRS), “L’improbable écologisation des politiques hydriques en Californie”
+Joan Cortinas Muñoz (Centre Émile Durkheim, Université Bordeaux) & Franck Poupeau (IHEAL, CNRS), “L’improbable écologisation des politiques hydriques en Californie”
 
 
 12:15 p.m. – Lunch Break
@@ -58,20 +58,20 @@ Chair: Yves Figuereido (ECHELLES, Université Paris Cité)
 
 Chair: Thibaut Clément (HDEA, Sorbonne Université)
 
-    Alexandre Pires (Géographie-Cités, Université Paris Cité), “Los Angeles, a Model for Segregating Bodies?”
+Alexandre Pires (Géographie-Cités, Université Paris Cité), “Los Angeles, a Model for Segregating Bodies?”
 
-    Sonia Lehman-Frisch (LAVUE, Université Paris Nanterre), “Unequal childhoods in San Francisco”
+Sonia Lehman-Frisch (LAVUE, Université Paris Nanterre), “Unequal childhoods in San Francisco”
 
 
 #### 3:00 p.m. – Panel 3: Marginalités et inégalités (2): Histoires des groupes et populations minorisées / Marginalities and Inequalities (2): The History of Minority Groups and Marginalized Populations
 
 Chair: Thibaut Clément (HDEA, Sorbonne Université)
 
-    Emmanuelle Perez Tisserant (FRAMESPA, Université Toulouse Jean Jaurès), “‘Los Tulares’ before Reclamation: Writing the History of Inland California (1830s–1860s)”
+Emmanuelle Perez Tisserant (FRAMESPA, Université Toulouse Jean Jaurès), “‘Los Tulares’ before Reclamation: Writing the History of Inland California (1830s–1860s)”
 
-    Lisa Bratton (Tuskegee University), “Lofas–Lakeside Manor: Documenting Lives from the First Neighborhood in California Built by African Americans for African Americans”
+Lisa Bratton (Tuskegee University), “Lofas–Lakeside Manor: Documenting Lives from the First Neighborhood in California Built by African Americans for African Americans”
 
-    Émilie Cheyroux (CAS, INU Champollion), “‘What is the 2.0 conversation we want to be having?’: the Los Angeles Latino International Film Festival (LALIFF) and the Debate over Representation in the Film Industry”
+Émilie Cheyroux (CAS, INU Champollion), “‘What is the 2.0 conversation we want to be having?’: the Los Angeles Latino International Film Festival (LALIFF) and the Debate over Representation in the Film Industry”
 
 
 4:30 p.m. – Coffee Break
@@ -81,11 +81,11 @@ Chair: Thibaut Clément (HDEA, Sorbonne Université)
 
 Chair: Paul Schor (ECHELLES, Université Paris Cité)
 
-    Michael Stambolis-Ruhstorfer (CAS, Université Toulouse Jean Jaurès & IUF), “The California Method: State-Based Case Selection in Comparative Sociological Research”
+Michael Stambolis-Ruhstorfer (CAS, Université Toulouse Jean Jaurès & IUF), “The California Method: State-Based Case Selection in Comparative Sociological Research”
 
-    Liora Israël (Centre Maurice Halbwachs, EHESS), “Tensions au cœur du renouveau des études interdisciplinaires sur le droit (Berkeley, 1961–…)”
+Liora Israël (Centre Maurice Halbwachs, EHESS), “Tensions au cœur du renouveau des études interdisciplinaires sur le droit (Berkeley, 1961–…)”
 
-    Gérôme Guibert (IRMECCEN, Sorbonne Nouvelle), “‘When people make the scene’: à propos du travail sociologique de John Irwin”
+Gérôme Guibert (IRMECCEN, Sorbonne Nouvelle), “‘When people make the scene’: à propos du travail sociologique de John Irwin”
 
 7:30 p.m. – Conference Dinner, Bouillon Racine, 3 Rue Racine, 75006 Paris
 
@@ -98,9 +98,9 @@ Chair: Paul Schor (ECHELLES, Université Paris Cité)
 
 Chair: Olivier Richomme (TRIANGLE, Université Lyon II)
 
-    Yohann Le Moigne (3L.AM, Université d’Angers), “From South Central Los Angeles to Pelican Bay: California as a Laboratory for the Study of Racialized Gang Conflict Resolution”
+Yohann Le Moigne (3L.AM, Université d’Angers), “From South Central Los Angeles to Pelican Bay: California as a Laboratory for the Study of Racialized Gang Conflict Resolution”
 
-    Thomas Chevallier (CriDIS, Université de Louvain), “Los Angeles à l’avant-garde du mouvement ‘Defund the Police’”
+Thomas Chevallier (CriDIS, Université de Louvain), “Los Angeles à l’avant-garde du mouvement ‘Defund the Police’”
 
 
 10:30 a.m. – Coffee Break
@@ -110,9 +110,9 @@ Chair: Olivier Richomme (TRIANGLE, Université Lyon II)
 
 Chair: Olivier Richomme (TRIANGLE, Université Lyon II)
 
-    Cynthia Boyer (INU Champollion), “California Referendums: Citizenship and Polarization in a Direct Democracy”
+Cynthia Boyer (INU Champollion), “California Referendums: Citizenship and Polarization in a Direct Democracy”
 
-    Piero Tellerías Melgarejo (Université Paris 1 Panthéon-Sorbonne), “Urban Transformations, Emergencies, and Disasters in Los Angeles: Constructing Civilian Unpreparedness as a Public Policy Issue (1940–1980)”
+Piero Tellerías Melgarejo (Université Paris 1 Panthéon-Sorbonne), “Urban Transformations, Emergencies, and Disasters in Los Angeles: Constructing Civilian Unpreparedness as a Public Policy Issue (1940–1980)”
 
 
 11:45 a.m. – Lunch Break
@@ -122,9 +122,9 @@ Chair: Olivier Richomme (TRIANGLE, Université Lyon II)
 
 Chair: Marion Marchet (CERAPS, Université de Lille)
 
-    Soukayna Mniai (CREA, Université Paris Nanterre), “Addressing Campus Sexual Violence in California: The Role of Grassroots Student Mobilizations, Feminist Organizations, and Lawmakers (1987–2014)”
+Soukayna Mniai (CREA, Université Paris Nanterre), “Addressing Campus Sexual Violence in California: The Role of Grassroots Student Mobilizations, Feminist Organizations, and Lawmakers (1987–2014)”
 
-    Guillaume Marché (Université Paris-Est Créteil), “Infrapolitical Interventions in Public Spaces in San Francisco: Centrality and Periphery in Fieldwork-Based Social Science Research”
+Guillaume Marché (Université Paris-Est Créteil), “Infrapolitical Interventions in Public Spaces in San Francisco: Centrality and Periphery in Fieldwork-Based Social Science Research”
 
 
 3:00 p.m. – Coffee Break
@@ -133,11 +133,11 @@ Chair: Marion Marchet (CERAPS, Université de Lille)
 
 Chair: Élodie Edwards-Grossi (IRISSO, Université Paris Dauphine–PSL/IUF)
 
-    Mathieu Schorung (Médiations, Sorbonne Université), “Des politiques d’aménagement au service de la revitalisation urbaine ? Le cas du centre-ville de San Francisco”
+Mathieu Schorung (Médiations, Sorbonne Université), “Des politiques d’aménagement au service de la revitalisation urbaine ? Le cas du centre-ville de San Francisco”
 
-    Isabelle Bruno (CERAPS, Université de Lille), “From ‘Sand Rush’ to ‘(Un)Managed Retreat’: California as the Epicenter of a Sea-Change in ‘Coastal Capitalism’”
+Isabelle Bruno (CERAPS, Université de Lille), “From ‘Sand Rush’ to ‘(Un)Managed Retreat’: California as the Epicenter of a Sea-Change in ‘Coastal Capitalism’”
 
-    Marine Dassé (CRESEM, Université de Perpignan), “Espaces postfordistes et villes du spectacle : de la ‘Disneyfication’ à la marchandisation de l’espace urbain en Californie du Sud”
+Marine Dassé (CRESEM, Université de Perpignan), “Espaces postfordistes et villes du spectacle : de la ‘Disneyfication’ à la marchandisation de l’espace urbain en Californie du Sud”
 
 
 #### 4:45–6:15 p.m. – Cocktail Reception
