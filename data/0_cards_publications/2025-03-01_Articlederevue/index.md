@@ -1,6 +1,6 @@
 ---
 uuid: b36427a2-390a-460c-abb1-0992eaa41bd5
-title: "Publication de Mélanie Cournil - Article de revue"
+title: Mélanie Cournil, "Science ‘subservient to profit’? William Jackson Hooker and the first Glasgow Botanic Gardens (1817–1841)"
 ---
 
 Mélanie Cournil. "Science ‘subservient to profit’? William Jackson Hooker and the first Glasgow Botanic Gardens (1817–1841)". _British Journal for the History of Science_, 2025, 58 (1), pp. 39-59.
