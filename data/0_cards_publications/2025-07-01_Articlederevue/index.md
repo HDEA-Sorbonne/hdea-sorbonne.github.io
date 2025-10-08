@@ -1,6 +1,6 @@
 ---
 uuid: 980564a7-0ee4-4a82-92a7-3362d7b7b182
-title: Claire Dutriaux, "Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era", *Transatlantica*, 2025.
+title: Claire Dutriaux, "Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era"
 ---
 
 Claire Dutriaux, « Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era: The Many Lives of Kroger Babb’s Early Ventures », _Transatlantica_, 2025, 1.
