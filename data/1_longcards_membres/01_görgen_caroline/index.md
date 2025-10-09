@@ -14,7 +14,7 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 ## Thèmes de recherche
 
- Carolin Görgen is Associate Professor of American Studies in the Department of English and American Studies (UFR Études Anglophones) and a junior member of the Institut Universitaire de France (2025-2030). She specializes in the history of U.S. photography and the environmental history of the American West. After having studied in the Netherlands, France, and the United States, she completed a joint PhD in American Studies and Art History at Université Paris-Diderot and the École du Louvre in 2018. Her thesis on the California Camera Club was awarded the international research prize of the German Photographic Society & the Deutsche Börse Photography Foundation. It is forthcoming as a monograph with the University of Oklahoma Press in October 2025. Görgen's current research focuses on the environmental practices of western American photography. She is a 2025 Fulbright visiting scholar at the University of California Los Angeles. 
+Carolin Görgen is Associate Professor of American Studies in the Department of English and American Studies (UFR Études Anglophones) and a junior member of the Institut Universitaire de France. She specializes in the history of U.S. photography and the environmental history of the American West. After having studied in the Netherlands, France, and the United States, she completed a joint PhD in American Studies and Art History at Université Paris-Diderot and the École du Louvre in 2018. Her thesis on the California Camera Club was awarded the international research prize of the German Photographic Society & the Deutsche Börse Photography Foundation. It is forthcoming as a monograph with the University of Oklahoma Press in October 2025. Görgen's current research focuses on the environmental practices of western American photography. In the spring/summer of 2025, she was a Fulbright visiting scholar at the University of California, Los Angeles. 
 
 Education:
 - Ph.D. American Studies & Art History, University Paris-Diderot & École du Louvre, 2018
@@ -25,7 +25,7 @@ Research topics:
 - History of American photography
 - Environmental history of California and the American West
 - American art and eco-criticism (19th and 20th centuries)
-- Photography in material culture studies
+- Photography and material culture studies
 
 
 ## Ouvrages et direction de numéro de revue
@@ -66,7 +66,9 @@ Research topics:
 
 ## Interventions orales récentes
 
- “Landscape and Power: Constructing California Environmentalism through the Camera,” Annual Congress of the French Association for American Studies (AFEA), Aix-en-Provence, May 24, 2024
+“The Camera’s Fuel: Petroleum Extraction in 1920s Los Angeles Photography,” Conference “Extractive Natures / Natures of Extraction,” Centre for Environmental Humanities, University of Bristol, Nov. 6, 2025
+
+“Landscape and Power: Constructing California Environmentalism through the Camera,” Annual Congress of the French Association for American Studies (AFEA), Aix-en-Provence, May 24, 2024
 
 “'I know what I'm doing' - Female Empowerment and Gendered Ideas of Photography in the Transatlantic Camera Club Network,” Keynote for the conference “Love and Lenses: Photographic Couples, Gender Relationships, and Transatlantic Networks,” Maison Française d'Oxford & Rothermore American Institute, Oxford, UK, Oct. 12, 2023
 
@@ -105,7 +107,7 @@ Since 2019 Member of the editorial board of the journal *Photographica* https://
 
 2025-2030 Membre Junior, Institut Universitaire de France
 
-2025 Fulbright Visiting Scholar, University of California Los Angeles (UCLA)
+2025 Fulbright Visiting Scholar, University of California, Los Angeles (UCLA)
 
 2024 Archibald Hanna Fellowship in American History, Beinecke Library, Yale University (initially awarded 2019/20)
 
