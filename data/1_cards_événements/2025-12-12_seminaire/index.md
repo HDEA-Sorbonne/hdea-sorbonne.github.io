@@ -27,7 +27,7 @@ Leo Carruthers (Sorbonne Université) : “The Lord for Always: God and the gods
 
 
 
-
+![small](Religion.jpg)
 
 Illustration: Hermann Corrodi, *The monks of Mount Athos walking to dawn prayers*, 1905
 https://commons.wikimedia.org/wiki/File:Hermann_Corrodi_Gang_der_M%C3%B6nche_zum_Bergkloster_Athos.jpg
