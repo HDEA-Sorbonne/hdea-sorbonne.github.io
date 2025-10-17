@@ -56,8 +56,6 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 - « Screening Women Through the Prism of History in Deadwood,» in Sue Matheson (ed.), *Return of the Western: Refracting Genre, Representing Gender*, Edinburgh University Press, 2025, pp. 197-209.
 
-- « Screening Women Through the Prism of History in Deadwood,» in Sue Matheson (ed.), *Return of the Western: Refracting Genre, Representing Gender*, Edinburgh University Press, 2024, pp. 197-209.
-
 - « South Africa's Frontier in *Five Fingers for Marseilles* (Michael Matthews, 2017),» avec Annael Le Poullennec, in Hervé Mayer and David Roche (eds.), *Transnationalism and Imperialism: Endurance of the Global Western Film*, Bloomington: Indiana University Press, 2022, pp. 249-263. 
 
 - « Masculinities in *No Country for Old Men*,» Julie Assouly et Yvonne-Marie Rogez, *No Country for Old Men, Roman de Cormac McCarthy (2005), Film de Ethan et Joel Coen (2007)*, Ellipses, 2021, pp. 209-222.
