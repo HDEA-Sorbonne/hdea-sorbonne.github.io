@@ -1,5 +1,5 @@
 ---
-title: Book launch *The California Camera Club: Collective Visions in the Making of the American West*
+title: Book launch The California Camera Club: Collective Visions in the Making of the American West
 event: true
 author: Carolin Görgen (HDEA/IUF)
 abstract: ""
