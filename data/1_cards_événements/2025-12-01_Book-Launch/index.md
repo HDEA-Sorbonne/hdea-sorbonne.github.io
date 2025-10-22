@@ -1,4 +1,3 @@
-
 ---
 title: Book launch *The California Camera Club: Collective Visions in the Making of the American West*
 event: true
@@ -6,6 +5,7 @@ author: Carolin Görgen (HDEA/IUF)
 abstract: ""
 uuid: 49ddaef0-b49a-4540-b56d-5706b1b2fe9f
 ---
+
 
 ## Book launch de Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West* (University of Oklahoma Press, 2025)
 
