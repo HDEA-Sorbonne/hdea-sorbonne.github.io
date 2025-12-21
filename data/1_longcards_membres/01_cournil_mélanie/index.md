@@ -12,7 +12,7 @@ abstract: Maîtresse de conférences en histoire britannique
 
  melanie.cournil@sorbonne-universite.fr
 
-### Co-responsable (avec Carolin Görgen) de l’axe « Nature et Environnement(s)» de l’UR HDEA
+#### Co-responsable (avec Carolin Görgen) de l’axe « Nature et Environnement(s)» de l’UR HDEA
 
 
 ## Thèmes de recherche
