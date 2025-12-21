@@ -12,6 +12,8 @@ abstract: Maîtresse de conférences en histoire britannique
 
  melanie.cournil@sorbonne-universite.fr
 
+### Co-responsable (avec Carolin Görgen) de l’axe « Nature et Environnement(s)» de l’UR HDEA
+
 
 ## Thèmes de recherche
 
@@ -34,8 +36,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Articles dans une revue
 
-- « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », *British Journal of the History of Science*, Vol. 58, n°1, mars 2025, pp. 39-59.
-Disponible en ligne en open access: DOI: [https://doi.org/10.1017/S0007087424001456]
+- « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », *British Journal of the History of Science*, Vol. 58, n°1, mars 2025, pp. 39-59. Open access: DOI: [https://doi.org/10.1017/S0007087424001456]
 - « 'What Dangerous Men' : La pratique de la médecine sur l'île de la Dominique à la fin du XVIIIe siècle », *Revue de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles*, N°75, « La couleur », décembre 2018, publication en ligne, [https://journals.openedition.org/1718/1333].
 - « La construction d'un discours antiabolitionniste britannique dans les années 1830 : James MacQueen et la 'controverse Mary Prince'», *Études écossaises*, N°20, avril 2018, publication en ligne, [https://journals.openedition.org/etudesecossaises/1422].
 - « La colonie de Darien : l'échec de l'empire écossais à la fin du XVIIe siècle », *La Vie des idées*, publication en ligne, 13 octobre 2015, [https://laviedesidees.fr/La-colonie-de-Darien.html].
@@ -43,18 +44,19 @@ Disponible en ligne en open access: DOI: [https://doi.org/10.1017/S0007087424001
 
 ## Chapitres dans un ouvrage collectif
 
-- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s). 1600-1840* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit (accepté, à paraître fin 2025).
+- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s). 1600-1840* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit (à paraître début 2026).
 - « De Leith à la Barbade, via la côte de l'Or : le voyage triangulaire de la brigantine Neptune en 1729 », in Tri Tran (dir.), *L'eau en Écosse/Water in Scotland*, Calédonia, Annales Littéraires, Franche-Comté: PUFC, 2022, pp. 187-202.
 
 ## Autres publications
 
-- Introduction scientifique de *L'histoire de Mary Prince, esclave antillaise*, Éditions Karthala (à paraître fin 2025).
+- Introduction scientifique de Souria Adèle & Emma Sudour (dirs.), *Mary Prince: Récit autobiographique d'une esclave antillaise*, Éditions Karthala, 2025, pp. 13-30.
 - Traductions avec appareil critique de textes de Robert Wedderburn, in Marie-Jeanne Rossignol & Michaël Roy (dirs.), *Une anthologie de la pensée noire : États-Unis et Haïti (XVIIIe-XIXe siècles)*, Paris : Hors d'atteinte, 2023, pp. 78-84 ; 311-315.
 
 ## Interventions orales
 
 #### À venir en 2026
-- Conférence plénière, Conférence de la Glasgow Naturalist Society pour son 175ème anniversaire « Rediscovering natural history: from observation to citizen science », dans le cadre du Glasgow Science Festival, Glasgow, Écosse, 6 juin 2026.
+- « British Scientific Travel and Sociability in Post-Napoleonic France: The 1814 Journey of Dawson Turner », communication au séminaire de recherche « Of the travellers' sociability in The National Archives' collections », The National Archives, Kew, 20 mars 2026.
+-  Conférence plénière, Conférence de la Glasgow Naturalist Society pour son 175ème anniversaire « Rediscovering natural history: from observation to citizen science », dans le cadre du Glasgow Science Festival, Glasgow, Écosse, 6 juin 2026.
 
 #### Interventions orales récentes (sélection)
 - Conférence plénière, « Scotland Within and Outwith: Internal and External Perspectives of a Nation », Postgraduate Research Symposium, Centre for Scottish and Celtic Studies, Glasgow, Écosse, 30 avril 2025.
@@ -121,7 +123,8 @@ Organisation de 11 séances avec Irène Delcourt, Alice Bonzom, Joe Karackattu, 
 - Délégation CNRS de 12 mois, Centre Alexandre Koyré (UMR 8560, EHESS, MNHN), 2024-2025
   
 #### Responsabilités scientifiques au sein de l'unité de recherche HDEA:
-- Membre élue du conseil de HDEA (2019- présent, rééelue en décembre 2023)
+- Co-responsable (avec Carolin Görgen) de l’axe « Nature et Environnement(s)» de l’UR HDEA
+- Membre élue du conseil de l'UR HDEA (2019- présent, réélue en décembre 2023)
 
 #### Activités éditoriales:
 - Membre du comité de lecture de la revue *Études Écossaises* (2024-)
