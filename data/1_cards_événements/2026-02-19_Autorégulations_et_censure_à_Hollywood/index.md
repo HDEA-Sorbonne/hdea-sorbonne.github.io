@@ -32,4 +32,6 @@ Lieu de la JE: Université Paris 8 Vincennes-Saint Denis, Salle a2 204
 
 17h15 : "La MPPDA aux prises avec les relations internationales", échanges animés par Katalin Pór
 
+![small](Censures.jpg)
+
 
