@@ -5,12 +5,6 @@ author: Claire Dutriaux, HDEA
 uuid: 8b832cb0-c5d1-4666-a342-ba3a9daf2560
 ---
 
----
-
-abstract: ""
-uuid: 12ef4bfc-e02e-4ece-bcfb-bee76f7f4d68
----
-
 
 ## Demi-journée d'études: "Autorégulations et censures à Hollywood : nouvelles perspectives", 19 février 2026, Paris 8
 
