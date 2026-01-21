@@ -10,7 +10,7 @@ uuid: 8b832cb0-c5d1-4666-a342-ba3a9daf2560
 
 19/02/2026
 
-Organisateur·ices : Frédéric Cavé, chercheur indépendant et Claire Dutriaux, HDEA (Sorbonne Université)
+Organisateur·ices : Marguerite Chabrol, ESTCA (Paris 8); Frédéric Cavé, chercheur indépendant; Emmanuel Dreux, ESTCA (Paris 8); Claire Dutriaux, HDEA (Sorbonne Université), Katalin Pór, ESTCA (Paris 8)
 
 Demi-journée d'études organisée dans le cadre du lancement du groupe de travail ESTCA-Paris 8/HDEA-Sorbonne Université
 
@@ -31,3 +31,5 @@ Lieu de la JE: Université Paris 8 Vincennes-Saint Denis, Salle a2 204
 16h30 : "Le Code de production face aux stéréotypes de genre", échanges animés par Emmanuel Dreux
 
 17h15 : "La MPPDA aux prises avec les relations internationales", échanges animés par Katalin Pór
+
+
