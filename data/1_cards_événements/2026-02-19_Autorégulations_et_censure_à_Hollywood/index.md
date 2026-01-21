@@ -11,6 +11,7 @@ uuid: 8b832cb0-c5d1-4666-a342-ba3a9daf2560
 19/02/2026
 
 Organisateur·ices : Frédéric Cavé, chercheur indépendant et Claire Dutriaux, HDEA (Sorbonne Université)
+
 Demi-journée d'études organisée dans le cadre du lancement du groupe de travail ESTCA-Paris 8/HDEA-Sorbonne Université
 
 14h-18h
