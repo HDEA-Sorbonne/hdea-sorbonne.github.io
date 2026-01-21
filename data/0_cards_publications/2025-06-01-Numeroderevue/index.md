@@ -9,3 +9,5 @@ Disponible en ligne: https://doi.org/10.4000/15gw9
 
 ## Type de publication:
 Numéro de revue nationale
+
+![small](Filmjournal.jpg)
