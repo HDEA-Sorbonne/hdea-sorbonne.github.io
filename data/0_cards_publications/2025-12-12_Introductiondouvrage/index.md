@@ -14,3 +14,4 @@ Plus d'informations ici: https://www.karthala.com/accueil/3662-mary-prince-recit
 Introduction d'ouvrage
 ---
 
+![small](MaryPrince.png)
