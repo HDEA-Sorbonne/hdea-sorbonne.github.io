@@ -14,7 +14,7 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 ## Thèmes de recherche
 
-Carolin Görgen is Associate Professor of American Studies in the Department of English and American Studies (UFR Études Anglophones) and a junior member of the Institut Universitaire de France. She specializes in the history of U.S. photography and the environmental history of the American West. After having studied in the Netherlands, France, and the United States, she completed a joint PhD in American Studies and Art History at Université Paris-Diderot and the École du Louvre in 2018. Her thesis on the California Camera Club was awarded the international research prize of the German Photographic Society & the Deutsche Börse Photography Foundation. It is forthcoming as a monograph with the University of Oklahoma Press in October 2025. Görgen's current research focuses on the environmental practices of western American photography. In the spring/summer of 2025, she was a Fulbright visiting scholar at the University of California, Los Angeles. 
+Carolin Görgen is Associate Professor of American Studies in the Department of English and American Studies (UFR Études Anglophones) and a junior member of the Institut Universitaire de France. She specializes in the history of U.S. photography and the history of the American West. After having studied in the Netherlands, France, and the United States, she completed a joint PhD in American Studies and Art History at Université Paris-Diderot and the École du Louvre in 2018. Her thesis on the California Camera Club was awarded the international research prize of the German Photographic Society & the Deutsche Börse Photography Foundation in 2020. It was published as a monograph with the University of Oklahoma Press in 2025. Görgen's current research focuses on the ecological dimension of western American photography, including histories of oil extractivism and wildfires. In the spring/summer of 2025, she was a Fulbright visiting scholar at the University of California, Los Angeles. 
 
 Education:
 - Ph.D. American Studies & Art History, University Paris-Diderot & École du Louvre, 2018
@@ -23,18 +23,18 @@ Education:
 
 Research topics:
 - History of American photography
-- Environmental history of California and the American West
-- American art and eco-criticism (19th and 20th centuries)
+- Environmental histories of California and the American West
+- Eco-critical art history
 - Photography and material culture studies
 
 
 ## Ouvrages et direction de numéro de revue
 
- Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, forthcoming October 28, 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art. 
+ Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art. 
 
- Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	“Bound Histories: Memories, Materialities, and Meanings of Photo Albums,” *Photographica*, No. 12 (forthcoming spring 2026).
+ Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	“Bound Histories: Memories, Materialities, and Meanings of Photo Albums,” *Photographica*, No. 12, forthcoming April 2026.
 
- Carolin Görgen and Monica Bravo, editors, *Ecologies of Photography in the American West*, under advance contract with Leuven University Press, expected 2026/27. 
+ Carolin Görgen and Monica Bravo, editors, *Ecologies of Photography in the American West*. Leuven University Press, forthcoming September 2026, https://lup.be/book/ecologies-of-photography-in-the-american-west/. 
 
  Carolin Görgen and Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” *Miranda: Journal of the English-speaking World* (2022), https://journals.openedition.org/miranda/44163.
 
@@ -66,11 +66,13 @@ Research topics:
 
 ## Interventions orales récentes
 
+Keynote address at the 21st research colloquium for the theory and history of photography, Folkwang University of the Arts, Essen, Germany, Jan. 27, 2026
+
 “The Camera’s Fuel: Petroleum Extraction in 1920s Los Angeles Photography,” Conference “Extractive Natures / Natures of Extraction,” Centre for Environmental Humanities, University of Bristol, Nov. 6, 2025
 
 “Landscape and Power: Constructing California Environmentalism through the Camera,” Annual Congress of the French Association for American Studies (AFEA), Aix-en-Provence, May 24, 2024
 
-“'I know what I'm doing' - Female Empowerment and Gendered Ideas of Photography in the Transatlantic Camera Club Network,” Keynote for the conference “Love and Lenses: Photographic Couples, Gender Relationships, and Transatlantic Networks,” Maison Française d'Oxford & Rothermore American Institute, Oxford, UK, Oct. 12, 2023
+Keynote address for the conference “Love and Lenses: Photographic Couples, Gender Relationships, and Transatlantic Networks,” Maison Française d'Oxford & Rothermore American Institute, Oxford, UK, Oct. 12, 2023
 
 “Women Photographers in the West Coast Camera Club Environment,” Cascadia Art Museum, Seattle, Aug. 30, 2023
 
@@ -82,7 +84,7 @@ Research topics:
 
 ## Vulgarisation et interventions dans les média
 
- “Another West: Ecologies of Photography,” Blog post with Monica Bravo for *Verso*, Blog of the Huntington Library, 2024
+“Another West: Ecologies of Photography,” Blog post with Monica Bravo for *Verso*, Blog of the Huntington Library, 2024
 https://huntington.org/verso/another-west-ecologies-photography.
 
 “Politicizing vernacular photographs of the San Francisco Earthquake and Fire,” Apr. 20, 2021, California Historical Society, San Francisco & online; aired on U.S. television C-SPAN in 2021. 
@@ -101,7 +103,7 @@ Since 2022 Co-organization of the monthly research seminar HDEA/Sorbonne with Sa
 
 Since 2019 Member of the editorial board of the journal *Photographica* https://journals.openedition.org/photographica/
 
-2016 - 2019 Co-organization of the monthly seminar “Camera Memoria: Seminar on the histories of photography in the English-speaking world” with Camille Rouquet at Université Paris-Diderot (https://camemoria.hypotheses.org)
+2016 - 2019 Co-organization of the monthly seminar “Camera Memoria: Seminar on the histories of photography in the English-speaking world” with Camille Rouquet at Université Paris-Diderot/LARCA (https://camemoria.hypotheses.org)
 
 ## Fellowships and awards 
 
@@ -109,7 +111,7 @@ Since 2019 Member of the editorial board of the journal *Photographica* https://
 
 2025 Fulbright Visiting Scholar, University of California, Los Angeles (UCLA)
 
-2024 Archibald Hanna Fellowship in American History, Beinecke Library, Yale University (initially awarded 2019/20)
+2024 Archibald Hanna Fellowship in American History, Beinecke Library, Yale University (initially awarded in 2020)
 
 2023 Thomas Mann Senior Fellow, Los Angeles, California
 
