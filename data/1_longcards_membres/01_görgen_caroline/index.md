@@ -30,7 +30,7 @@ Research topics:
 
 ## Ouvrages et direction de numéro de revue
 
- Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art. https://www.oupress.com/9780806196039/the-california-camera-club/
+ Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art, https://www.oupress.com/9780806196039/the-california-camera-club/.
 
  Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	“Bound Histories: Memories, Materialities, and Meanings of Photo Albums,” *Photographica*, No. 12, forthcoming April 2026.
 
