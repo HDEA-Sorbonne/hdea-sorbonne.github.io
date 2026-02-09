@@ -24,4 +24,4 @@ Sandrine Parageau
 - Études de genre
   
 ## Contact
-coline.delolme(at)free.fr
+coline.delolme@etu.sorbonne-universite.fr
