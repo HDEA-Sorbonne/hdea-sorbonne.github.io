@@ -9,13 +9,13 @@ abstract: Doctorante
  
 ## Directrice de thèse
 
-Sandrine Parageau
+Sandrine Parageau, co-direction avec Frédéric Herrmann, Université Lumière Lyon 2.
  
-## Titre de la thèse: 
+## Titre de la thèse
 "La place de l'agentivité féminine dans la théorie domestique de Thomas Becon (1512-1567) : entre renforcement des normes de genre et innovations patriarcales"
 
  
-## Thèmes de recherche: 
+## Thèmes de recherche 
  
 - Réforme protestante
 - Église d'Angleterre
