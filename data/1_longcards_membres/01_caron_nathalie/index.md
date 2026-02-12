@@ -60,11 +60,11 @@ abstract: Professeure des universités
 
 ## Autres / Divers
 
+- Directrice de la série Americana, collection Mondes anglophones, de Sorbonne Université Presses.
 - Responsable de la mention Master LLCER depuis septembre 2024.
 - Membre du conseil d'UFR, UFR d'études anglophones.
 - Responsable de la coordination du programme d'échange FEI d'assistants et d'assistantes de l'UFR d'études anglophones de Sorbonne Université.
 - Membre du conseil d'HDEA (Histoire et Dynamique des Pays Anglophones). Co-responsable de l'axe Questions religieuses.
-- Membre du conseil de l'École doctorale Cultures et Sociétés (CS), Paris-Est Sup depuis février 2021.
 - Membre de l'editorial board de *Secularism and Nonreligion* depuis 2011.
 
 ## Lien(s) vers autres pages
