@@ -19,10 +19,7 @@ Keith Magee (Newcastle University) : “James Baldwin in Paris: A Prophet in Exi
 ## Lieu
 salle D224, Maison de la recherche, 28 rue Serpente, Paris 6e, Sorbonne Université, 14h-17h30. 
 
-Séance en hybride – Lien de connexion pour participer en distanciel:
-https://univ-paris8.zoom.us/j/95225007061?pwd=eWa9RbiTePEqBavTYP1MpL9r6QqZNB.1
-
-Meeting ID: 952 2500 7061 – Passcode: 823992
+Il est possible d'assister aux séances en distanciel ; merci de contacter les organisateur·ices pour le lien Zoom. 
 
 ## Organisateur(s)
 Rémy Bethmont, Transcrit (Paris 8) et Nathalie Caron, HDEA (Sorbonne Université)
