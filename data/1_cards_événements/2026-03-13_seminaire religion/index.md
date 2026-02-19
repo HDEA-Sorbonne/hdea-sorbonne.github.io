@@ -28,4 +28,6 @@ Meeting ID: 952 2500 7061 – Passcode: 823992
 Rémy Bethmont, Transcrit (Paris 8) et Nathalie Caron, HDEA (Sorbonne Université)
 
 ## Contact
-nathalie.caron@sorbonne-universite.fr 
+nathalie.caron@sorbonne-universite.fr
+
+![small](Baldwin.jpg)
