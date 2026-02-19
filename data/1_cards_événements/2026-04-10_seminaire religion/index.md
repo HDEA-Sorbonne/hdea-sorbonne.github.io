@@ -26,4 +26,3 @@ R√©my Bethmont, Transcrit (Paris 8) et Nathalie Caron, HDEA (Sorbonne Universit√
 ## Contact
 nathalie.caron@sorbonne-universite.fr
 
-![small](Clarisse.jpg)
