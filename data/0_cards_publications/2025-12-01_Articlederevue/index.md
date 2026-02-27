@@ -11,4 +11,5 @@ Disponible en ligne: http://journals.openedition.org/filmj/2285
 ## Type de publication:
 Article dans une revue internationale
 
+![small](FilmJournal.png)
 
