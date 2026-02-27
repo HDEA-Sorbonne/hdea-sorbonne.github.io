@@ -32,6 +32,8 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 ## Articles dans une revue
 
+- ““Another protest sent to Hollywood about so-called ‘Southern speech’”: The Racial Politics of Southern Dialect in Hollywood (1927–1957)”, *Film journal*, 12 | 2025. http://journals.openedition.org/filmj/2285
+  
 -  « Censoring Exploitation Cinema and Roadshow Attractions in the Production Code Era: The Many Lives of Kroger Babb’s Early Ventures » in Adrienne Boutang (ed.), *Transatlantica*. Accepté, parution juin 2025.
 
  - « ‘Professional Southerners’ in Hollywood and their Influence on the Representations of the Troubled South Before and During the Code Era », Elizabeth Mullen et Nicole Cloarec (dir.), *Motifs*, n°9, 2025.
