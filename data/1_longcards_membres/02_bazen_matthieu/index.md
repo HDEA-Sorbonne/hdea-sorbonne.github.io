@@ -4,6 +4,7 @@ prettyName: Matthieu Bazen
 title: Matthieu Bazen
 abstract: Doctorant
 ---
+![small](BazenM.jpg)
 
 ## Contact
 
@@ -18,7 +19,10 @@ Sandrine Parageau, co-direction avec Philippe Hamou (Sorbonne-Université)
 
 ## Thèmes de recherche
 
-Lumières britanniques; philosophie morale; histoire de la pensée moderne; religion
+- Lumières britanniques
+- Philosophie morale
+- Histoire de la pensée moderne
+- Religion
 
 ## Interventions orales récentes
 
