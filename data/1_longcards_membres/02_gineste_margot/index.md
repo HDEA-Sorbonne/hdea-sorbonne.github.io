@@ -5,8 +5,15 @@ title: Margot Gineste
 abstract: Doctorante
 ---
 
+
+![small](gineste.jpg)
+
+
 ## Directrice de thèse
 Sandrine Parageau et Claire Gheeraert-Graffeuille (Université de Rouen Normandie)
+
+## Titre de la thèse
+« Colonisation, émergence de la science moderne et représentations de la nature en Angleterre (1500-188) : une relecture de la thèse écoféministe. »
 
 ## Thèmes de recherche 
 - écoféminisme
