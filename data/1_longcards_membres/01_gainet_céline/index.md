@@ -5,8 +5,5 @@ title: Céline Gainet
 abstract: Maîtresse de conférences
 ---
 
-
-<img src="./avatar.webp" width="200px" />
-
-## Maîtresse de conférences
+## Maîtresse de conférences LEA
 
