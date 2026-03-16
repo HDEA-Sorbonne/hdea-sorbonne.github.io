@@ -10,44 +10,17 @@ export const Introduction = () => {
             </p>
             <p>Pour 2025-2030, ses travaux sont structurés en trois axes principaux:
                 <ol>
-                    <li><strong>Savoirs et cultures</strong></li>
+                    <li><strong>Transmissions, transferts, transformations</strong></li>
                     <ul>
-                        <li>
-                            Circulations, échanges et transferts culturels.
-                        </li>
-                        <li>
-                            Religion(s) et spiritualités.
-                        </li>
-                        <li>
-                            Médias, images et cultures populaires.
-                        </li>
+                        
                     </ul>
-                    <li><strong>Sociétés et gouvernements</strong></li>
+                    <li><strong>Société et gouvernance</strong></li>
                     <ul>
-                        <li>
-                            Dynamiques économiques et sociales.
-                        </li>
-                        <li>
-                            Politiques publiques – santé , famille, éducation.
-                        </li>
-                        <li>
-                            Droit et relations internationales.
-                        </li>
-
+                        
                     </ul>
-                    <li><strong>Nature, Espaces et Sociétés</strong></li>
+                    <li><strong>Nature et Environnements</strong></li>
                     <ul>
-                        <li>
-                            Études environnementales.
-                        </li>
-                        <li>
-                            Études californiennes.
-                        </li>
-                        <li>
-                            Territoires urbains.
-                        </li>
-
-                    </ul>
+                      
 
                 </ol>
             </p>
