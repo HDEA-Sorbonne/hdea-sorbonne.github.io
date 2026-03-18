@@ -75,4 +75,4 @@ Présidente de séance : Marie DUIC (Sorbonne Université)
 #### [Télécharger le programme](Femmes_et_droit.pdf)
 
 
-![small](Droits.png)
+![small](Colloque.png)
