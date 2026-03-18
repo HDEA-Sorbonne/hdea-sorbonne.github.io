@@ -18,16 +18,12 @@ export const Introduction = () => {
                     <ul>
                         
                     </ul>  
-                      <a href="/data/1_cards_axes/Nature et Environnement">
-                                Nature et Environnements
-                            </a>
-
+                     <li><strong>[Nature et Environnements]</strong></li> (https://hdea.sorbonne-universite.fr/8087a37c-4c72-483c-bf5a-a1750f69426b/) 
+                                
                 </ol>
             </p>
         </div>
     )
-}
-
 export const Footer = () => (
     <footer id="footer">
         <div className="footer-block">
