@@ -18,7 +18,7 @@ export const Introduction = () => {
                     <ul>
                         
                     </ul>  
-                     <li><strong>[Nature et Environnements]</strong></li>
+                     <li><strong>Nature et Environnements</strong></li>
                                 
                 </ol>
             </p>
