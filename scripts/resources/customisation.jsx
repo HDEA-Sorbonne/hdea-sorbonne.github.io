@@ -18,7 +18,7 @@ export const Introduction = () => {
                     <ul>
                         
                     </ul>  
-                     <li><strong>[Nature et Environnements]</strong></li> (https://hdea.sorbonne-universite.fr/8087a37c-4c72-483c-bf5a-a1750f69426b/) 
+                     <li><strong>[Nature et Environnements]</strong></li>
                                 
                 </ol>
             </p>
