@@ -13,8 +13,28 @@ export const Introduction = () => {
             <p>Pour 2025-2030, ses travaux sont structurés en trois axes principaux:</p>
 
             <ol>
-                <li><strong>Transmissions, transferts, transformations</strong></li>
-                <li><strong>Société et gouvernance</strong></li>
+                <li>
+                    <strong>
+                        <a 
+                            href="https://hdea.sorbonne-universite.fr/19bd8b03-1939-49e4-a722-0d3c17a673fe/" 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                        >
+                            Transmissions, transferts, transformations
+                        </a>
+                    </strong>
+                </li>
+                <li>
+                    <strong>
+                        <a 
+                            href="https://hdea.sorbonne-universite.fr/b76e77d0-81f0-45a1-8d25-121317e57f34/" 
+                            target="_blank" 
+                            rel="noopener noreferrer"
+                        >
+                            Société et gouvernance
+                        </a>
+                    </strong>
+                </li>
                 <li>
                     <strong>
                         <a 
