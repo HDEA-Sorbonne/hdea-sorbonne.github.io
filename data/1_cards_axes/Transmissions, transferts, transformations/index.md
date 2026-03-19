@@ -11,10 +11,10 @@ L’axe de recherche « Transmissions, transferts, transformations » est dest
 
 L’axe est décliné autour de la notion de transformation et inclut des études sur :
 
-    • la transmission des savoirs et des savoir-faire, et leur diffusion et circulation (notamment botaniques et linguistiques, ou dans le cadre de collaborations, y compris dans des contextes de guerre), et plus globalement des productions humaines (par exemple éditoriale, journalistique, cinématographique ou photographique), ou les freins à la transmission (tels que la censure ou la guerre) ; 
-    • la construction des discours, les transferts culturels, les effets de translation (dans le cadre colonial, ou celui des missions, ou encore des processus d’évangélisation) ;
-    • la médiatisation et les effets du processus sur ce qui est médié, en particulier sur la perception de l’environnement et des rapports de genre (par exemple par l’imprimé ou par la photographie) ;
-    • les processus de transformation des relations sociales, en particulier 1) la consolidation des systèmes d’oppression (suprématie blanche, patriarcat, esclavage, colonisation) ; 2) les formes d’émancipation, de résistance, d’empouvoirement (des femmes, des enfants, des autochtones, ou dans le cadre de mouvement sociaux tels que l’abolitionnisme) ;
-    • les glissements religieux et spirituels opérés dans le cadre de ces circulations, ou de transplantation, et les combinaisons en résultant ; ou encore les mouvements entre politique et religion.
+- la transmission des savoirs et des savoir-faire, et leur diffusion et circulation (notamment botaniques et linguistiques, ou dans le cadre de collaborations, y compris dans des contextes de guerre), et plus globalement des productions humaines (par exemple éditoriale, journalistique, cinématographique ou photographique), ou les freins à la transmission (tels que la censure ou la guerre) ; 
+- la construction des discours, les transferts culturels, les effets de translation (dans le cadre colonial, ou celui des missions, ou encore des processus d’évangélisation) ;
+- la médiatisation et les effets du processus sur ce qui est médié, en particulier sur la perception de l’environnement et des rapports de genre (par exemple par l’imprimé ou par la photographie) ;
+- les processus de transformation des relations sociales, en particulier 1) la consolidation des systèmes d’oppression (suprématie blanche, patriarcat, esclavage, colonisation) ; 2) les formes d’émancipation, de résistance, d’empouvoirement (des femmes, des enfants, des autochtones, ou dans le cadre de mouvement sociaux tels que l’abolitionnisme) ;
+- les glissements religieux et spirituels opérés dans le cadre de ces circulations, ou de transplantation, et les combinaisons en résultant ; ou encore les mouvements entre politique et religion.
 
 Est envisagée une manifestation scientifique sur l’éducation populaire à l’automne ; et une autre sur la notion de mission.
