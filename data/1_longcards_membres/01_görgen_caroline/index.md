@@ -30,41 +30,47 @@ Research topics:
 
 ## Ouvrages et direction de numéro de revue
 
+ ### Monographie 
+ 
  Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art, https://www.oupress.com/9780806196039/the-california-camera-club/.
 
- Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	“Bound Histories: Memories, Materialities, and Meanings of Photo Albums,” *Photographica*, No. 12, forthcoming April 2026.
+ ### Direction de numéro / volume
 
  Carolin Görgen and Monica Bravo, editors, *Ecologies of Photography in the American West*. Leuven University Press, forthcoming September 2026, https://lup.be/book/ecologies-of-photography-in-the-american-west/. 
+ 
+ Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	« Histoires d'albums photographiques : Mémoire, matérialité, lectures », *Photographica*, No. 12, forthcoming May 2026.
 
- Carolin Görgen and Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” *Miranda: Journal of the English-speaking World* (2022), https://journals.openedition.org/miranda/44163.
+ Carolin Görgen and Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” *Miranda: Journal of the English-speaking World* (2022), https://doi.org/10.4000/miranda.44163.
 
 ## Articles dans une revue
 
-“Californie à Paris: Photographic Circulation and the Making of Imperial Identities, c. 1900,” *Transatlantica*, no. 2, 2024.
+“The Camera and the Canal: Imagining Ecologies of Empire from the Isthmus to California,” *IdeAs: Idées d’Amériques*, No. 27 (2026), https://doi.org/10.4000/15uhc. 
 
-“Vienna to San Francisco via Chicago: Camera Club Exchanges in the 1890s,” *Transatlantic Cultures*, 2023.
+“Californie à Paris: Photographic Circulation and the Making of Imperial Identities, c. 1900,” *Transatlantica*, No. 2 (2024), https://doi.org/10.4000/134gw.
 
-“Everyday Photography? Politicizing a 'vernacular' photo album of the San Francisco Earthquake and Fire of 1906,” *Interfaces: Image Text Language*, No. 44, 2021, pp. 29-51.
+“Vienna to San Francisco via Chicago: Camera Club Exchanges in the 1890s,” *Transatlantic Cultures* (2023), https://doi.org/10.35008/tracs-0236.
 
-“Camera Obscura: Revue internationale pour la photographie paraissant tous les mois en 4 langues, 1899-1901.” *Photographica*, no. 3 (2021).
+“Everyday Photography? Politicizing a 'vernacular' photo album of the San Francisco Earthquake and Fire of 1906,” *Interfaces: Image Text Language*, No. 44 (2021): p. 29-51, https://doi.org/10.4000/interfaces.1458.
 
-“'San Francisco on a thousand plates' - New perspectives on photo-historical research around 1900 through the lens of the California Camera Club,” *Interfaces: Image Text Language*, No. 41, 2019, pp. 7-24.
+“Camera Obscura: Revue internationale pour la photographie paraissant tous les mois en 4 langues, 1899-1901,” *Photographica*, No. 3 (2021): p. 141-152, https://doi.org/10.54390/photographica.646. 
 
-“‘Bring your Camera’ – The Western American landscape through California Camera Club practice in the early 1900s,” *Journal of the LUCAS Graduate Conference*, Vol. 7, 2019, pp. 19-37. 
+“'San Francisco on a thousand plates' - New perspectives on photo-historical research around 1900 through the lens of the California Camera Club,” *Interfaces: Image Text Language*, No. 41 (2019): p. 7-24, https://doi.org/10.4000/interfaces.644. 
 
-“Des cendres à la nouvelle métropole. Le California Camera Club et la reconstruction photographique de San Francisco au lendemain du tremblement de terre et de l'incendie de 1906,” *Transbordeur: Photographie Histoire Société*, No. 2, 2018, pp. 186-199.
+“‘Bring your Camera’ – The Western American landscape through California Camera Club practice in the early 1900s,” *Journal of the LUCAS Graduate Conference*, Vol. 7 (2019): p. 19-37. 
 
-“Historiens du territoire et de la pratique : Les photographes du California Camera Club,” *Histoire de l'Art*, No. 80, 2017.
+« Des cendres à la nouvelle métropole. Le California Camera Club et la reconstruction photographique de San Francisco au lendemain du tremblement de terre et de l'incendie de 1906 », *Transbordeur: Photographie Histoire Société*, No. 2 (2018): p. 186-199, https://doi.org/10.4000/12gwz. 
+
+“Historiens du territoire et de la pratique : Les photographes du California Camera Club,” *Histoire de l'Art*, No. 80 (2017).
 
 ## Chapitres dans un ouvrage collectif
-
-“Ruines Écologiques du Tremblement de Terre de San Francisco,” in *Les formes de la Ruine*, eds. Alain Schnapp and Sylvie Ramond (Lyon and Paris: Musée des Beaux-Arts de Lyon and Lienart, 2024).
 
 “Toward a 'History of Uses': Photographic Dissemination in the Early Twentieth-century American West,” in *Factuality and Utilization of Early Photography*, eds. Tatjana Bartsch et al. (Berlin and Leipzig: German Archeological Institute & Harrassowitz Verlag, 2022).
 
 “Arnold Genthe and the California Camera Club,” in *Among the Ruins: Arnold Genthe's Photographs of the 1906 San Francisco Earthquake and Firestorm*, eds. Karin Breuer and James A. Ganz (San Francisco and Petaluma: Fine Arts Museums of San Francisco and Cameron & Co., 2021).
 
 ## Interventions orales récentes
+
+“Containers of Black Gold: Oil Photography in the Southern Californian Archival Landscape,” Conference “Digging up Ecology in the Archive,” Archives de la Critique d’art, Rennes, Mar. 31, 2026
 
 Keynote address at the 21st research colloquium for the theory and history of photography, Folkwang University of the Arts, Essen, Germany, Jan. 27, 2026
 
@@ -76,11 +82,9 @@ Keynote address for the conference “Love and Lenses: Photographic Couples, Gen
 
 “Women Photographers in the West Coast Camera Club Environment,” Cascadia Art Museum, Seattle, Aug. 30, 2023
 
-“Californie 1900: Circulating California's Environmental Imagination at the Paris World's Fair,” Seminar of the Department of European Languages and Transcultural Studies, University of California Los Angeles, Sept. 27, 2023
+“Californie 1900: Circulating California's Environmental Imagination at the Paris World's Fair,” Seminar of the Department of European Languages and Transcultural Studies, University of California, Los Angeles, Sept. 27, 2023
 
 “Camera Clubs against the Canon: Writing a Californian Club back into U.S. Photo-history,” Conference “Photographic Societies and Camera Clubs,” History and Theory of Photography Research Centre, Birkbeck, University of London, May 25, 2023
-
-“‘It must be in the climate’: The Los Angeles Camera Club and extractive regional boosterism, c. 1900,” Conference: “Planning and Imagining Los Angeles,” Sorbonne Université/HDEA, Paris, Oct. 15, 2021
 
 ## Vulgarisation et interventions dans les média
 
