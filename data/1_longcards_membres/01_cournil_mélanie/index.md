@@ -32,7 +32,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 #### Direction de numéro de revue:
 
-- Mélanie Cournil & Jeanne Schaaf (Université Lumière Lyon 2), « Scottish Territories and Memories », *Études Écossaises*, N°25 (à paraître en ligne début 2026).
+- Mélanie Cournil & Jeanne Schaaf (Université Lumière Lyon 2), « Scottish Territories and Memories », *Études Écossaises*, N°25 (à paraître en ligne avril 2026).
 
 ## Articles dans une revue
 
@@ -44,7 +44,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Chapitres dans un ouvrage collectif
 
-- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s). 1600-1840* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit (à paraître début 2026).
+- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s). 1600-1840* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit (à paraître été 2026).
 - « De Leith à la Barbade, via la côte de l'Or : le voyage triangulaire de la brigantine Neptune en 1729 », in Tri Tran (dir.), *L'eau en Écosse/Water in Scotland*, Calédonia, Annales Littéraires, Franche-Comté: PUFC, 2022, pp. 187-202.
 
 ## Autres publications
@@ -55,10 +55,11 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 ## Interventions orales
 
 #### À venir en 2026
-- « British Scientific Travel and Sociability in Post-Napoleonic France: The 1814 Journey of Dawson Turner », communication au séminaire de recherche « Of the travellers' sociability in The National Archives' collections », The National Archives, Kew, 20 mars 2026.
 -  Conférence plénière, Conférence de la Glasgow Naturalist Society pour son 175ème anniversaire « Rediscovering natural history: from observation to citizen science », dans le cadre du Glasgow Science Festival, Glasgow, Écosse, 6 juin 2026.
+-  « Une science à sens unique ? Participation et autorité scientifique dans la botanique de William Jackson Hooker », communication lors du colloque « Science et participation dans le monde anglophone », Université de Lille, 18-19 juin 2026.
 
 #### Interventions orales récentes (sélection)
+- « British Scientific Travel and Sociability in Post-Napoleonic France: The 1814 Journey of Dawson Turner », communication au séminaire de recherche « Of the travellers' sociability in The National Archives' collections », The National Archives, Londres, 20 mars 2026.
 - Conférence plénière, « Scotland Within and Outwith: Internal and External Perspectives of a Nation », Postgraduate Research Symposium, Centre for Scottish and Celtic Studies, Glasgow, Écosse, 30 avril 2025.
 - « Prendre la mesure des échanges botaniques à l'ère impériale : Une approche quantitative et qualitative de la correspondance professionnelle de William Jackson Hooker », séminaire d'équipe HDEA, 25 septembre 2024.
 - « Collecting botanical specimens for the Glasgow Botanic Gardens: Scottish plant hunters in North America (1820s-1830s) », Congrès annuel de l'Omohundro Institute of Early American History & Culture, Poitiers, 19-21 juin 2024.
