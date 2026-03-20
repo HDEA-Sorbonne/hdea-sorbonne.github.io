@@ -18,3 +18,11 @@ L’axe est décliné autour de la notion de transformation et inclut des étude
 - les glissements religieux et spirituels opérés dans le cadre de ces circulations, ou de transplantation, et les combinaisons en résultant ; ou encore les mouvements entre politique et religion.
 
 Est envisagée une manifestation scientifique sur l’éducation populaire à l’automne ; et une autre sur la notion de mission.
+
+
+
+
+![small](Dag.jpg)
+
+Unknown maker, [portrait of a Chinese woman with a daguerreotype], c. 1850, daguerreotype, Nelson-Atkins Museum of Art, Kansas City, Missouri. 
+
