@@ -32,7 +32,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 #### Direction de numéro de revue:
 
-- Mélanie Cournil & Jeanne Schaaf (Université Lumière Lyon 2), « Scottish Territories and Memories », *Études Écossaises*, N°25 (à paraître en ligne avril 2026).
+- Mélanie Cournil & Jeanne Schaaf (Université Lumière Lyon 2), « Scottish Territories and Memories », *Études Écossaises*, N°25, avril 2026, [https://journals.openedition.org/etudesecossaises/5479]
 
 ## Articles dans une revue
 
