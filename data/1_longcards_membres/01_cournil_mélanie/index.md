@@ -49,7 +49,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Autres publications
 
-- Avant-propos (avec Jeanne Schaaf) du numéro 25 d' *Études Écossaises « Scottish Territories and Memories », DOI: [https://doi.org/10.4000/161mi]
+- Avant-propos (avec Jeanne Schaaf) du numéro 25 d' *Études Écossaises* « Scottish Territories and Memories », DOI: [https://doi.org/10.4000/161mi]
 - Introduction scientifique de Souria Adèle & Emma Sudour (dirs.), *Mary Prince: Récit autobiographique d'une esclave antillaise*, Éditions Karthala, 2025, pp. 13-30.
 - Traductions avec appareil critique de textes de Robert Wedderburn, in Marie-Jeanne Rossignol & Michaël Roy (dirs.), *Une anthologie de la pensée noire : États-Unis et Haïti (XVIIIe-XIXe siècles)*, Paris : Hors d'atteinte, 2023, pp. 78-84 ; 311-315.
 
