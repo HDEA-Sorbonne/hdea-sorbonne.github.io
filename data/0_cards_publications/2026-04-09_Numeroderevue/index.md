@@ -13,3 +13,4 @@ Disponible en ligne: https://doi.org/10.4000/161ms
 ## Type de publication:
 Numéro de revue nationale
 
+![small](couv_ee25.png)
