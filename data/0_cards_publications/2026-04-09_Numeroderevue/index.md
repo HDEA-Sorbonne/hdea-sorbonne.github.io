@@ -1,6 +1,6 @@
 ---
 uuid: 3bd6e536-963c-4278-9037-8ff903140f43
-title: "Scottish Territories and Memories", numéro de la revue Études écossaises
+title: Scottish Territories and Memories, numéro de la revue Études écossaises
 event: true
 author: Mélanie Cournil, Jeanne Schaaf
 ---
