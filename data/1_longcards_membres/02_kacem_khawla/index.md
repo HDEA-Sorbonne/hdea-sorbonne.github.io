@@ -26,13 +26,13 @@ Louise Dalingwater
 
 ## Sujet de thèse
 
-en: Reproductive Health of Pregnant Homeless Women in England During COVID-19: a Service-Centered, Intersectional Analysis
+Reproductive Health of Pregnant Homeless Women in England During COVID-19: a Service-Centered, Intersectional Analysis (en)
 
-fr: La santé reproductive des femmes enceintes sans-abri en Angleterre pendant la COVID-19 : une analyse intersectionnelle centrée sur les services
-
+La santé reproductive des femmes enceintes sans-abri en Angleterre pendant la COVID-19 : une analyse intersectionnelle centrée sur les services (fr)
 
 ## Contact
 Email institutionnel : khawla.kacem@etu.sorbonne-universite.fr
+
 Email personnel : khawlakacem98@outlook.fr
     
 ## Lien externe
