@@ -1,44 +1,42 @@
 ---
 uuid: 61ec0063-1295-4cd0-933d-c497aca91925
+prettyName: khawlakacem
+title: Khawla Kacem
+abstract: Doctorante
 ---
 
-Khawla Kacem
-Doctorante
+![small](Kacem.jpg)
 
-Contact
 
-    Email institutionnel : khawla.kacem@etu.sorbonne-universite.fr
+## Directrice de thèse
+Louise Dalingwater
 
-    Téléphone : +33 7 58 53 18 49
+## Thèmes de recherche
 
-    Email personnel : khawlakacem98@outlook.fr
+- Civilisation britannique et société
 
-Direction de recherche
+- Économie britannique et commerce international
 
-    Directrice : Louise Dalingwater
+- Services britanniques et politiques publiques
 
-Thèmes de recherche
+- Santé publique, inégalités et migration
 
-    Civilisation britannique et société
+- Bien-être, vulnérabilité sociale et justice sociale
+- 
 
-    Économie britannique et commerce international
+## Sujet de thèse
 
-    Services britanniques et politiques publiques
+en: Reproductive Health of Pregnant Homeless Women in England During COVID-19: a Service-Centered, Intersectional Analysis
 
-    Santé publique, inégalités et migration
+fr: La santé reproductive des femmes enceintes sans-abri en Angleterre pendant la COVID-19 : une analyse intersectionnelle centrée sur les services
 
-    Bien-être, vulnérabilité sociale et justice sociale
 
-Sujet de thèse
+## Contact
+Email institutionnel : khawla.kacem@etu.sorbonne-universite.fr
+Email personnel : khawlakacem98@outlook.fr
+    
+## Lien externe
 
-En anglais :
-Reproductive Health of Pregnant Homeless Women in England During COVID-19: a Service-Centered, Intersectional Analysis
-
-En français :
-La santé reproductive des femmes enceintes sans-abri en Angleterre pendant la COVID-19 : une analyse intersectionnelle centrée sur les services
-
-Lien externe
-
-    LinkedIn : https://www.linkedin.com/in/khawla-kacem-019093260
+LinkedIn : https://www.linkedin.com/in/khawla-kacem-019093260
 
 
