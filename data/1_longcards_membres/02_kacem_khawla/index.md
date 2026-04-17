@@ -22,7 +22,8 @@ Louise Dalingwater
 - Santé publique, inégalités et migration
 
 - Bien-être, vulnérabilité sociale et justice sociale
-- 
+
+
 
 ## Sujet de thèse
 
