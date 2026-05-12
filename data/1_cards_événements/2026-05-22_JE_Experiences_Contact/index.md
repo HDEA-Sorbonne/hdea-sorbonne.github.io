@@ -14,9 +14,9 @@ Sorbonne Université, Maison de la recherche, 28 rue Serpente, 75006 Paris, sall
 Comité d’organisation : Robert Coatsworth (Sorbonne Université), Gabrielle Guillerm (Sorbonne Université), Donia Menghini (Université Paris 8), Maïann Stachnik (Sorbonne
 Université)
 
-##### 8h30-9h: Café accueil / Welcome coffee
+#### 8h30-9h: Café accueil / Welcome coffee
 
-##### 9h-9h15: Introduction Robert Coatsworth (Sorbonne Université), Donia Menghini (Université Paris 8), Maïann Stachnik (Sorbonne Université)
+#### 9h-9h15: Introduction Robert Coatsworth (Sorbonne Université), Donia Menghini (Université Paris 8), Maïann Stachnik (Sorbonne Université)
 
 ### 9h15-11h05: Panel 1 : Circulations, adaptations et continuités des pratiques culturelles autochtones / The Circulation, Adaptation and Continuity of Indigenous Cultural Practices
 
@@ -27,7 +27,7 @@ Panel chair: Nathalie Caron (Sorbonne Université)
 - Augustin Habran (Université d’Orléans): “Contact zones” in the Great Plains: The emergence of Indian Territory and reconsideration of Indigenous agency in the West
 - Benjamin Balloy (CNRS - Université Toulouse Jean Jaurès): "Frapper au poteau" (Striking the Post): Considerations on a Form of Ritual Interaction
 
-##### 11h05-11h20: pause café / coffee break
+#### 11h05-11h20: pause café / coffee break
 
 ### 11h20-12h30: Panel 2 : Race et esclavage : expériences et constructions transculturelles / Experiencing and Producing Race and Enslavement across Cultures
 
@@ -36,7 +36,7 @@ Panel chair: Gabrielle Guillerm (Sorbonne Université)
 - Linford Fisher (Brown University): Experiencing Enslavement in Colonial America: Indigenous Perspectives on the Threat of Slavery in Warfare and During Slave Trades
 - Taryn M. Dixon (Northwestern University): Controlling Space and Race in Indian Territory: the Construction of White and Black Illegality through Racial Exclusion Laws in Post-Removal Choctaw Nation
 
-##### 12h30-14h00: déjeuner / lunch break
+#### 12h30-14h00: déjeuner / lunch break
 
 ### 14h00-15h50: Panel 3: Diplomatie et pratiques militaires en territoires autochtones / Diplomacy and Military Practices in Indigenous Territories
 
@@ -57,10 +57,10 @@ Panel chair: Will Slauter (Sorbonne Université)
 - Eduardo Angel Cruz (KU Leuven): Sanctity as Ethnography: Indigenous Witnesses and Negotiated Experiences of the Holy in 17th Century New Spain
 - Laurie Arnold (Gonzaga University): Dialogues of Contact: Native American Plays as Archival Sources
 
-##### 17h50-18h: Conclusion: Robert Coatsworth (Sorbonne Université), Donia Menghini (Université Paris 8), Maïann Stachnik (Sorbonne Université)
+#### 17h50-18h: Conclusion: Robert Coatsworth (Sorbonne Université), Donia Menghini (Université Paris 8), Maïann Stachnik (Sorbonne Université)
 
-##### 18h: Pot de clôture / Goodbye drinks
+#### 18h: Pot de clôture / Goodbye drinks
 
-#### [Télécharger le programme](JE_Contact .pdf)
+#### [Télécharger le programme](JE_Contact.pdf)
 ![small](Contact.png)
 
