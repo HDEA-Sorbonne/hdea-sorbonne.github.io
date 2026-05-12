@@ -49,7 +49,7 @@ Panel chair: Donia Menghini (Université Paris 8)
 
 ##### 15h50-16h20: pause café / coffee break
 
-### Panel 3 16h20-17h50: Raconter le contact : témoignages, récits et savoirs autochtones / (Re)telling the History of Contact : Indigenous Testimonies, Narratives and Knowledge
+### 16h20-17h50: Panel 4: Raconter le contact : témoignages, récits et savoirs autochtones / (Re)telling the History of Contact : Indigenous Testimonies, Narratives and Knowledge
 
 Panel chair: Will Slauter (Sorbonne Université)
 
