@@ -16,12 +16,9 @@ Université)
 
 ##### 8h30-9h: Café accueil / Welcome coffee
 
-9h-9h15: Introduction
-Robert Coatsworth (Sorbonne Université), Donia Menghini (Université Paris 8), Maïann
-Stachnik (Sorbonne Université)
+##### 9h-9h15: Introduction Robert Coatsworth (Sorbonne Université), Donia Menghini (Université Paris 8), Maïann Stachnik (Sorbonne Université)
 
-### 9h15-11h05: Panel 1 : Circulations, adaptations et continuités des pratiques culturelles autochtones
-The Circulation, Adaptation and Continuity of Indigenous Cultural Practices
+### 9h15-11h05: Panel 1 : Circulations, adaptations et continuités des pratiques culturelles autochtones / The Circulation, Adaptation and Continuity of Indigenous Cultural Practices
 
 Panel chair: Nathalie Caron (Sorbonne Université)
 
@@ -32,8 +29,7 @@ Panel chair: Nathalie Caron (Sorbonne Université)
 
 ##### 11h05-11h20: pause café / coffee break
 
-### 11h20-12h30: Panel 2 : Race et esclavage : expériences et constructions transculturelles
-Experiencing and Producing Race and Enslavement across Cultures
+### 11h20-12h30: Panel 2 : Race et esclavage : expériences et constructions transculturelles / Experiencing and Producing Race and Enslavement across Cultures
 
 Panel chair: Gabrielle Guillerm (Sorbonne Université)
 
