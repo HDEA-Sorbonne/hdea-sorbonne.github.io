@@ -6,10 +6,10 @@ abstract: ""
 uuid: a8debee4-dd4f-4a93-ad1d-736d3b5be2ca
 ---
 ## Journée d'Etudes : Expériences du contact dans les territoires autochtones d’Amérique du Nord (XVIIe-XIXe siècles)
+
 22/04/2026
 
-Sorbonne Université, Maison de la recherche, 28 rue Serpente, 75006 Paris, salle d323
-
+#### Sorbonne Université, Maison de la recherche, 28 rue Serpente, 75006 Paris, salle d323
 
 Comité d’organisation : Robert Coatsworth (Sorbonne Université), Gabrielle Guillerm (Sorbonne Université), Donia Menghini (Université Paris 8), Maïann Stachnik (Sorbonne
 Université)
