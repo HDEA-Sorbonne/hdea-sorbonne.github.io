@@ -61,6 +61,6 @@ Panel chair: Will Slauter (Sorbonne Université)
 
 ##### 18h: Pot de clôture / Goodbye drinks
 
-#### [Télécharger le programme](Femmes_et_droit.pdf)
-![small](Colloque.png)
+#### [Télécharger le programme](JE_Contact .pdf)
+![small](Contact.png)
 
