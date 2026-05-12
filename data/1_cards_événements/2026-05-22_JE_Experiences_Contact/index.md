@@ -1,7 +1,7 @@
 ---
 title: JE Expériences du contact
 event: true
-author: Charlotte Brivio
+author: CRobert Coatsworth
 abstract: ""
 uuid: a8debee4-dd4f-4a93-ad1d-736d3b5be2ca
 ---
@@ -60,3 +60,7 @@ Panel chair: Will Slauter (Sorbonne Université)
 ##### 17h50-18h: Conclusion: Robert Coatsworth (Sorbonne Université), Donia Menghini (Université Paris 8), Maïann Stachnik (Sorbonne Université)
 
 ##### 18h: Pot de clôture / Goodbye drinks
+
+#### [Télécharger le programme](Femmes_et_droit.pdf)
+![small](Colloque.png)
+
