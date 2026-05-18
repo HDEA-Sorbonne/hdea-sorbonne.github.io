@@ -65,7 +65,5 @@ Cette journée d’étude a bénéficié d'une aide de l’État gérée par l'A
 
 Illustration : Musée des Arts et Métiers-Cnam, photo Guillaume Murat.
 
-![small](1Banner.png)
-
-![small](2HDEA.png) ![small](3Cnam.png) ![small](4Muam.png) ![small](5Vale.png)
+![small](Logos.png)
 
