@@ -16,6 +16,11 @@ Pascal, Newton, Halley, Faraday, Lavoisier, Ampère, Pasteur : on connaît bien 
 
 Journée organisée par Line Cottegnies et Sandrine Parageau (Sorbonne Université), ainsi que Anne-Laure Carré et Anne Chanteux (Cnam), dans le cadre du projet SPHINX, avec le soutien des laboratoires HDEA (UR 4086) et VALE (UR 4085).
 
+![small](1Banner.png)
+
+![small](2HDEA.png) ![small](3Cnam.png) ![small](4Muam.png) ![small](5Vale.png)
+
+
 
 ## Programme de la journée
 
