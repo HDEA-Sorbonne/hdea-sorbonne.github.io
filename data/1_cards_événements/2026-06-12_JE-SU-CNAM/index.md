@@ -16,15 +16,10 @@ Pascal, Newton, Halley, Faraday, Lavoisier, Ampère, Pasteur : on connaît bien 
 
 Journée organisée par Line Cottegnies et Sandrine Parageau (Sorbonne Université), ainsi que Anne-Laure Carré et Anne Chanteux (Cnam), dans le cadre du projet SPHINX, avec le soutien des laboratoires HDEA (UR 4086) et VALE (UR 4085).
 
-![small](1Banner.png)
-
-![small](2HDEA.png) ![small](3Cnam.png) ![small](4Muam.png) ![small](5Vale.png)
-
-
 
 ## Programme de la journée
 
-### 9h15 : accueil et mot d’ouverture par Michèle Antoine, directrice du Musée des Arts et Métiers
+*9h15 : accueil et mot d’ouverture* par Michèle Antoine, directrice du Musée des Arts et Métiers
 
 9h30-10h00 : Isabelle Lémonon-Waxin (Nantes Université, Centre François Viète) 
 « Les savantes des Lumières françaises ont-elles une histoire ? »
@@ -66,8 +61,13 @@ Animée par Liliane Hilaire-Pérez (Paris Cité/EHESS), avec Sandrine Aragon (So
 
 *17h30 : visite libre du Musée* - inscription obligatoire *avant le 3 juin* [via ce lien](https://docs.google.com/forms/d/e/1FAIpQLSd9NrS7kSWIZZnQ5aWDSMVdSV7oR6prpofs-KbXGw0TO7km0Q/viewform)
 
-#### Cette journée d’étude a bénéficié d'une aide de l’État gérée par l'Agence Nationale de la Recherche au titre de France 2030, dans le cadre du projet SPHINX (ANR 24 RSHS 0006), porté par Sorbonne Université 
+##### Cette journée d’étude a bénéficié d'une aide de l’État gérée par l'Agence Nationale de la Recherche au titre de France 2030, dans le cadre du projet SPHINX (ANR 24 RSHS 0006), porté par Sorbonne Université 
 
 ![small](Visuel-JE.jpg)
 
 Illustration : Musée des Arts et Métiers-Cnam, photo Guillaume Murat.
+
+![small](1Banner.png)
+
+![small](2HDEA.png) ![small](3Cnam.png) ![small](4Muam.png) ![small](5Vale.png)
+
