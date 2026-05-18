@@ -62,3 +62,7 @@ Animée par Liliane Hilaire-Pérez (Paris Cité/EHESS), avec Sandrine Aragon (So
 *17h30 : visite libre du Musée* - inscription obligatoire *avant le 3 juin* [via ce lien](https://docs.google.com/forms/d/e/1FAIpQLSd9NrS7kSWIZZnQ5aWDSMVdSV7oR6prpofs-KbXGw0TO7km0Q/viewform)
 
 #### Cette journée d’étude a bénéficié d'une aide de l’État gérée par l'Agence Nationale de la Recherche au titre de France 2030, dans le cadre du projet SPHINX (ANR 24 RSHS 0006), porté par Sorbonne Université 
+
+![small](Visuel-JE.jpg)
+
+Illustration : Musée des Arts et Métiers-Cnam, photo Guillaume Murat.
