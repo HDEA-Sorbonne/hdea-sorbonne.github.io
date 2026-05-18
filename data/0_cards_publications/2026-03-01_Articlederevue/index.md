@@ -12,5 +12,5 @@ Disponible en ligne: http://journals.openedition.org/ideas/23784
 ## Type de publication:
 Article dans une revue nationale
 
-![small](Ideas.png)
+![small](IMG-SF.jpg)
 
