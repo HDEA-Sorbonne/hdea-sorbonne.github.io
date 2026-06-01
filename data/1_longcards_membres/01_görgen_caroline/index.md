@@ -38,7 +38,7 @@ Research topics:
 
  Carolin Görgen and Monica Bravo, editors, *Ecologies of Photography in the American West*. Leuven University Press, forthcoming September 2026, https://lup.be/book/ecologies-of-photography-in-the-american-west/. 
  
- Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	« Histoires d'albums photographiques : Mémoire, matérialité, lectures », *Photographica*, No. 12, forthcoming May 2026.
+ Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	« Histoires d'albums photographiques : Mémoire, matérialité, lectures », *Photographica*, No. 12 (2026), https://doi.org/10.4000/16b0n.
 
  Carolin Görgen and Camille Rouquet, editors, “Camera Memoria: Photographic Histories from the Margins,” *Miranda: Journal of the English-speaking World* (2022), https://doi.org/10.4000/miranda.44163.
 
@@ -70,6 +70,8 @@ Research topics:
 
 ## Interventions orales récentes
 
+“Photographs in Ashes: Fire, Image-making, and the Environment as Archive after the Big Burn of 1910,” Conference “Poetics of Embedded Narratives and Images,” Université de Pau, July 3, 2026
+
 “Containers of Black Gold: Oil Photography in the Southern Californian Archival Landscape,” Conference “Digging up Ecology in the Archive,” Archives de la Critique d’art, Rennes, Mar. 31, 2026
 
 Keynote address at the 21st research colloquium for the theory and history of photography, Folkwang University of the Arts, Essen, Germany, Jan. 27, 2026
@@ -83,8 +85,6 @@ Keynote address for the conference “Love and Lenses: Photographic Couples, Gen
 “Women Photographers in the West Coast Camera Club Environment,” Cascadia Art Museum, Seattle, Aug. 30, 2023
 
 “Californie 1900: Circulating California's Environmental Imagination at the Paris World's Fair,” Seminar of the Department of European Languages and Transcultural Studies, University of California, Los Angeles, Sept. 27, 2023
-
-“Camera Clubs against the Canon: Writing a Californian Club back into U.S. Photo-history,” Conference “Photographic Societies and Camera Clubs,” History and Theory of Photography Research Centre, Birkbeck, University of London, May 25, 2023
 
 ## Vulgarisation et interventions dans les média
 
@@ -103,7 +103,7 @@ Watch: https://www.c-span.org/person/carolin-gorgen/130595/
 2024 Co-organization of the international symposium “Ecologies of Photography: Materials, Industries, and Environment in the American West” with Monica Bravo (Princeton) at The Huntington Library, Art Museum, and Botanical Gardens
 https://huntington.org/ecologies-photography
 
-Since 2022 Co-organization of the monthly research seminar HDEA/Sorbonne with Sandrine Parageau 
+Since 2022 Co-organization of the monthly research seminar HDEA/Sorbonne
 
 Since 2019 Member of the editorial board of the journal *Photographica* https://journals.openedition.org/photographica/
 
@@ -115,9 +115,9 @@ Since 2019 Member of the editorial board of the journal *Photographica* https://
 
 2025 Fulbright Visiting Scholar, University of California, Los Angeles (UCLA)
 
-2024 Archibald Hanna Fellowship in American History, Beinecke Library, Yale University (initially awarded in 2020)
+2024 Archibald Hanna, Jr. Fellowship in American History, Beinecke Library, Yale University (initially awarded in 2020)
 
-2023 Thomas Mann Senior Fellow, Los Angeles, California
+2023 Senior Fellow, Thomas Mann House, Los Angeles, California
 
 2021 Davidson Family Fellowship, Amon Carter Museum of American Art, Fort Worth, Texas
 
@@ -125,8 +125,7 @@ Since 2019 Member of the editorial board of the journal *Photographica* https://
 
 2019 Short-term fellowship, The Huntington Library, Art Museum & Botanical Gardens, San Marino, California
 
-2019 Peter E. Palmquist Memorial Fund for Historical Photographic Research by the
-Humboldt Area Foundation, Bayside, California
+2019 Peter E. Palmquist Memorial Fund for Historical Photographic Research by the Humboldt Area Foundation, Bayside, California
 
 2017 Terra Summer Residency, Terra Foundation for American Art, Giverny, France
 
