@@ -65,4 +65,4 @@ Rémy Bethmont & Nathalie Caron
 
 
 #### [Télécharger le programme](JE_Religion.pdf)
-![small](Religion_in_transition.png)
+![small](Frank Edwin Scott.jpg)
