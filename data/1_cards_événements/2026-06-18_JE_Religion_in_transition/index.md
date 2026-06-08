@@ -17,8 +17,6 @@ La Religion en transition : du geste au discours
 
 #### INSTITUT D’ÉTUDES AVANCÉES | 17, QUAI D’ANJOU 75004 PARIS
 
-Organisation : Nathalie Caron & Rémy Bethmont /// Contact : crpaconference@gmail.com
-Avec le soutien de : HDEA/Sorbonne Université, TransCrit/Paris 8, CREA/Paris Nanterre, LERMA/Aix-Marseille Université, Institut Universitaire de France
 
 
 
@@ -60,6 +58,25 @@ Présidence de séance : Aude de Mézerac-Zanetti
 
 17h20 Conclusions
 Rémy Bethmont & Nathalie Caron
+
+
+**Organisation**: Nathalie Caron & Rémy Bethmont /// Contact : crpaconference@gmail.com
+
+**Partenaires**
+
+- Université Paris 8 Vincennes-Saint Denis / Transcrit
+- Sorbonne Université/ HDEA
+- Université Paris Nanterre / CREA
+- Aix Marseille Université / LERMA
+- Institut Universitaire de France
+Modalités pratiques 
+
+**Evénement hybride**
+
+- en présentiel à l'IEA de Paris, Salles des Gardes-1er étage, 17 quai d'Anjou, Paris 4.
+Inscription obligatoire par mail : nathalie.caron@sorbonne-université.fr
+
+- en ligne via le lien lien suivant : https://univ-paris8.zoom.us/j/94435435629?pwd=fXRzX6EX4bNPIU9BPalmDxTl1C5mCT.
 
 
 
