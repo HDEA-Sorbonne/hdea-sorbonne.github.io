@@ -18,7 +18,7 @@ La Religion en transition : du geste au discours
 #### INSTITUT D’ÉTUDES AVANCÉES | 17, QUAI D’ANJOU 75004 PARIS
 
 
-
+**Programme**
 
 *9h00 Accueil avec pause-café / Welcome and coffee*
 
@@ -27,16 +27,17 @@ Présidence de séance : Clotilde Prunier
 
 - Dampi Somoko (Université de Nantes, France): John Henry Newman : du geste à la parole, itinéraire spirituel d’un théologien en transition
 
-- Anne Dalles-Maréchal (Université de Jean Monnet-Saint Etienne, France): Adapting to Manchuria: Religious Challenges and Adjustments faced by the United Presbyterian Church of Scotland in North-
-Eastern China in the 1870s
+- Anne Dalles-Maréchal (Université de Jean Monnet-Saint Etienne, France): Adapting to Manchuria: Religious Challenges and Adjustments faced by the United Presbyterian Church of Scotland in North-Eastern China in the 1870s
 
 - Hanzhi Zhang, Yuanzhe Guo & Dan Lin (Leipzig, Allemagne / Beijing, Chine): Neo-Localization of Global Catholicism: An Ethnographic Study of an International Student Choir in Modern China
 
 *11h30 Pause / Coffee Break*
 
-### 11h50 Keynote Eyal Poleg (Queen Mary University of London, Royaume-Uni) : The Unintentional Rise of the Parish Bible
+### 11h50 Keynote 
 
 Présidence de séance: Anne Page
+
+**Eyal Poleg (Queen Mary University of London, Royaume-Uni) : The Unintentional Rise of the Parish Bible**
 
 *13h00 Buffet*
 
