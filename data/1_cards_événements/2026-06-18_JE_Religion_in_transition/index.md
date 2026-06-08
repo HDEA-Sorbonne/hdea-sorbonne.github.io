@@ -36,10 +36,9 @@ Eastern China in the 1870s
 
 *11h30 Pause / Coffee Break*
 
-### 11h50 Keynote
-Présidence de séance: Anne Page
+### 11h50 Keynote Eyal Poleg (Queen Mary University of London, Royaume-Uni) : The Unintentional Rise of the Parish Bible
 
-Eyal Poleg (Queen Mary University of London, Royaume-Uni) : The Unintentional Rise of the Parish Bible
+Présidence de séance: Anne Page
 
 *13h00 Buffet*
 
@@ -66,4 +65,6 @@ Rémy Bethmont & Nathalie Caron
 
 
 #### [Télécharger le programme](JE_Religion.pdf)
-![small](Frank Edwin Scott.jpg)
+
+![small](Frank Edwin Scott.png)
+
