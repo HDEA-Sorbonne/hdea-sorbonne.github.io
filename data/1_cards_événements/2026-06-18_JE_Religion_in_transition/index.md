@@ -84,5 +84,5 @@ Inscription obligatoire par mail : nathalie.caron@sorbonne-université.fr
 
 #### [Télécharger le programme](JE_Religion.pdf)
 
-![small](Frank Edwin Scott.png)
+
 
