@@ -32,7 +32,7 @@ Research topics:
 
  ### Monographie 
  
- Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art, https://www.oupress.com/9780806196039/the-california-camera-club/.
+ Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art, shortlisted for the 2026 AFEA/SAES book prize. https://www.oupress.com/9780806196039/the-california-camera-club/.
 
  ### Direction de numéro / volume
 
@@ -64,6 +64,10 @@ Research topics:
 
 ## Chapitres dans un ouvrage collectif
 
+“‘Burning Aesthetics’ and Ecological Feeling: Photography after the 1910 Big Burn,” in *Sensory Aesthetics of the More-Than-Human in Crisis*, ed. Tatiana Konrad (University of Exeter Press, forthcoming November 2026).
+
+“Black Gold: Petroleumscapes in Southern California Pictorialism and Beyond,” in *Ecologies of Photography in the American West*, eds. Monica Bravo and Carolin Görgen (Leuven University Press, forthcoming September 2026).
+
 “Toward a 'History of Uses': Photographic Dissemination in the Early Twentieth-century American West,” in *Factuality and Utilization of Early Photography*, eds. Tatjana Bartsch et al. (Berlin and Leipzig: German Archeological Institute & Harrassowitz Verlag, 2022).
 
 “Arnold Genthe and the California Camera Club,” in *Among the Ruins: Arnold Genthe's Photographs of the 1906 San Francisco Earthquake and Firestorm*, eds. Karin Breuer and James A. Ganz (San Francisco and Petaluma: Fine Arts Museums of San Francisco and Cameron & Co., 2021).
@@ -72,7 +76,7 @@ Research topics:
 
 “Photographs in Ashes: Fire, Image-making, and the Environment as Archive after the Big Burn of 1910,” Conference “Poetics of Embedded Narratives and Images,” Université de Pau, July 3, 2026
 
-“Containers of Black Gold: Oil Photography in the Southern Californian Archival Landscape,” Conference “Digging up Ecology in the Archive,” Archives de la Critique d’art, Rennes, Mar. 31, 2026
+“Containers of Black Gold: Oil Photography in the Southern Californian Archival Landscape,” Conference “Digging up Ecology in the Archive,” Archives de la critique d’art, Rennes, Mar. 31, 2026
 
 Keynote address at the 21st research colloquium for the theory and history of photography, Folkwang University of the Arts, Essen, Germany, Jan. 27, 2026
 
@@ -115,13 +119,13 @@ Since 2019 Member of the editorial board of the journal *Photographica* https://
 
 2025 Fulbright Visiting Scholar, University of California, Los Angeles (UCLA)
 
-2024 Archibald Hanna, Jr. Fellowship in American History, Beinecke Library, Yale University (initially awarded in 2020)
-
 2023 Senior Fellow, Thomas Mann House, Los Angeles, California
 
 2021 Davidson Family Fellowship, Amon Carter Museum of American Art, Fort Worth, Texas
 
 2020 International Research Award “Thinking Photography” by the German Photographic Society and Deutsche Börse Photography Foundation
+
+2019/20 Archibald Hanna, Jr. Fellowship in American History, Beinecke Library, Yale University
 
 2019 Short-term fellowship, The Huntington Library, Art Museum & Botanical Gardens, San Marino, California
 
