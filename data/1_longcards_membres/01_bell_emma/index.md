@@ -4,7 +4,7 @@ prettyName: emmabell
 title: Emma Bell
 abstract: Professeure des universités
 ---
-
+![small](EmmaBell.jpg)
 
 ## Contact
 - emma.bell@sorbonne-universite.fr (à partir du 1er septembre 2026)
@@ -22,12 +22,12 @@ Politique britannique XXe-XXIe siècles ; politique pénale ; néolibéralisme ;
 ### Directions d'ouvrages collectifs
 - Avec Filippo Barbera, *Commons, Citizenship and Power: Reclaiming the margins*, Bristol, Bristol University Press, 2025, https://policy.bristoluniversitypress.co.uk/commons-citizenship-and-power
 - Avec David Scott, *Envisioning Abolition*, Bristol, Bristol University Press, 2025, https://bristoluniversitypress.co.uk/envisioning-abolition
-- Emma Bell (dir.), *No Borders : Immigration and the Politics of Fear*, Chambéry, Éditions de l’Université de Savoie, 2012.
+- *No Borders : Immigration and the Politics of Fear*, Chambéry, Éditions de l’Université de Savoie, 2012.
 
 ### Directions de numéros de revues
-- avec Clémence Fourton et Nicholas Sowels, "Public Services in the UK: The On-Going Challenges of Delivery and Public Accountability", numéro spécial de la *Revue française de civilisation britannique*, n°26(2), janvier 2021.
-- avec Bertrand Simonet : "Le Royaume-Uni : décompositions et recompositions", *Recherches internationales*, numéro spécial sur le Royaume-Uni, n°109, avril-juin 2017.
-- avec David Scott : "Non-Penal Real Utopias", numéro spécial de la revue *Justice, Power and Resistance : The Journal of the European Group for the Study of Deviance and Social Control*, Foundation Issue, 2016.
+- Avec Clémence Fourton et Nicholas Sowels, "Public Services in the UK: The On-Going Challenges of Delivery and Public Accountability", numéro spécial de la *Revue française de civilisation britannique*, n°26(2), janvier 2021.
+- Avec Bertrand Simonet : "Le Royaume-Uni : décompositions et recompositions", *Recherches internationales*, numéro spécial sur le Royaume-Uni, n°109, avril-juin 2017.
+- Avec David Scott : "Non-Penal Real Utopias", numéro spécial de la revue *Justice, Power and Resistance : The Journal of the European Group for the Study of Deviance and Social Control*, Foundation Issue, 2016.
 - avec Gilles Christoph : "Labelling the Deviant : Othering and Exclusion in Britain from Past to Present", numéro spécial de la *Revue française de civilisation britannique*, vol. 19, n° 1, 2014 [en ligne].
 
 ### Manuel
@@ -36,11 +36,11 @@ Politique britannique XXe-XXIe siècles ; politique pénale ; néolibéralisme ;
 ## Articles de revue
 
 - « Countering Remotisation Through Community-Led Place-Making : A Scottish Case Study », *MIRANDA* (Revue pluridisciplinaire du monde anglophone), n°32, 2025, https://doi.org/10.4000/14yo6  
-- « The British Conservative Party’s Drift to the Right : Taking on the ‘deep state’ », *ELAD-SILDA, Studies in Linguistics and Discourse Analysis*, n°9, 2024, DOI : 10.35562/elad-silda.1484 
+- « The British Conservative Party’s Drift to the Right : Taking on the ‘deep state’ », *ELAD-SILDA, Studies in Linguistics and Discourse Analysis*, n°9, 2024, https://doi.org/10.35562/elad-silda.1484 
 - « Responding to Identity Politics: Thinking beyond the Cultural Divide », *Observatoire de la société britannique*, n°30, 2023 : 31-53, https://doi.org/10.4000/osb.6024
 - « L’extrémisme à la britannique : le cas du parti conservateur de Boris Johnson », *Recherches Internationales*, n° 124, avril-juin 2022, pp. 59-78,  https://doi.org/10.3406/rint.2022.3355 
 - « Seizing the Populist Moment : Towards a New Penal Politics? », *The British Journal of Criminology*, Volume 62, Issue 5, September 2022, Pages 1077–1092, https://doi.org/10.1093/bjc/azac030
-- « Rethinking Power : Responding to the Crisis of Neoliberal Hegemony ? », *Socialism and Democracy*, 2022, [en ligne], DOI: 10.1080/08854300.2021.2044239 
+- « Rethinking Power : Responding to the Crisis of Neoliberal Hegemony ? », *Socialism and Democracy*, 2022, [en ligne], https://doi.org/10.1080/08854300.2021.2044239 
 - « Post-Brexit Nationalism : challenging the British political tradition », *Journal of Contemporary European Studies*, 2021, vol. 29, n°3 : 351-367, https://doi.org/10.1080/14782804.2020.1750351
 - « Brexit : Towards a neoliberal real utopia », *Observatoire de la Société Britannique*, n°24, 2019: 45-66, https://doi.org/10.4000/osb.3196
 - « La politique travailliste du Brexit : une stratégie pour faire avancer le Corbynisme ? », *Recherches Internationales*, 2019, n° 114 : 59-74, https://doi.org/10.3406/rint.2019.1856
