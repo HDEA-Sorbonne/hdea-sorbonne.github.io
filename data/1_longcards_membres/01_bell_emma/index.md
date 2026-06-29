@@ -4,7 +4,7 @@ prettyName: emmabell
 title: Emma Bell
 abstract: Professeure des universités
 ---
-![small](EmmaBell.jpg)
+![small](PHotoBell2024.jpg)
 
 ## Contact
 - emma.bell@sorbonne-universite.fr (à partir du 1er septembre 2026)
