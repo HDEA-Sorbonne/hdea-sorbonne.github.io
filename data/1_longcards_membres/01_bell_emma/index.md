@@ -108,7 +108,7 @@ Politique britannique XXe-XXIe siècles ; politique pénale ; néolibéralisme ;
 - « Irlande du Nord : ‘Certains n’attendent qu’une étincelle pour rallumer le conflit’ », entretien pour _Ouest France_, mars 2021 : https://www.ouest-france.fr/europe/grande-bretagne/brexit/irlande-du-nord-certains-n-attendent-qu-une-etincelle-pour-rallumer-le-conflit-7175477 
 
 ## Organisation d’événements et partenariats
-- Principal Investigator du Projet COMCRIS ([Commoning in Crisis](https://www.llseti.univ-smb.fr/web/llseti/1170-comcris.php)) : Starting Grant Erasmus/Alliance européenne UNITA 01/11/2025-31/10/2026. Associé au projet VALCOM (Valoriser les Communs) : [Projet Valcom – Valoriser les communs fonciers](https://projetvalcom.fr). 
+- Principal Investigator du Projet COMCRIS ([Commoning in Crisis](https://www.llseti.univ-smb.fr/web/llseti/1170-comcris.php)) : Starting Grant Erasmus/Alliance européenne UNITA 01/11/2025-31/10/2026. Associé au projet VALCOM (Valoriser les Communs) : [Projet Valcom – Valoriser les communs fonciers](https://projetvalcom.fr](https://projetvalcom.fr/index.php/2026/01/12/comcris-commoning-in-crisis/)). 
 - Organisation du Blended Intensive Programme « The Decline of International Solidarity: Challenges for Inclusive Societies », 18-22 May 2026.
 - Organisation d’un séminaire avec Karine Tournier-Sol « Reform UK, disruption and the 'performance of crisis' », LLSETI, Université Savoie Mont Blanc, Chambéry, 27 mars 2025. 
 - Organisation d’un séminaire avec Nathalie Duclos « The erosion of Scottish Autonomy since the Brexit Process », LLSETI, Université Savoie Mont Blanc, Chambéry, 5 décembre 2024. 
