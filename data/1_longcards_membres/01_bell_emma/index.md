@@ -7,8 +7,8 @@ abstract: Professeure des universités
 
 
 ## Contact
-emma.bell@sorbonne-universite.fr (à partir du 1er septembre 2026)
-emmasbell69@gmail.com
+- emma.bell@sorbonne-universite.fr (à partir du 1er septembre 2026)
+- emmasbell69@gmail.com
 
 ## Thèmes de recherche
 Politique britannique XXe-XXIe siècles ; politique pénale ; néolibéralisme ; autoritarisme ; la démocratie locale ; le commun.
