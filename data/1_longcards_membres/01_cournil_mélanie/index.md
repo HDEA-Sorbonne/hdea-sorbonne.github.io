@@ -74,12 +74,15 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Diffusion de la recherche auprès du grand public
 
-#### Entretiens:
+#### Publications:
 
->Civilisation britannique
+##### Texte
+- « Cultivating Empire : William Jackson Hooker and the Glasgow Botanic Garden », *Newsletter of the Society of Antiquaries of Scotland*, Vol. 38 (1), printemps 2026, p. 10.
+
+##### Entretien de civilisation britannique
 - « Brexit and Scottish Nationalism. An Interview with Fiona Simpkins », entretien co-dirigé avec Alice Bonzom, *Books & Ideas*, [https://booksandideas.net/Brexit-and-Scottish-Nationalism.html], 27 janvier 2019.
 
->Sciences de la Terre
+##### Entretien de sciences de la Terre
 - « Below the Surface », entretien vidéo en anglais avec Sabrina Speich sur le rôle des océans dans le réchauffement climatique, mené avec Kristel Chanard, *Books & Ideas*, 16 juillet 2018, [https://booksandideas.net/Below-the-Surface.html].
 - « À quand la crue ? », entretien avec Magali Reghezza sur la crue de Paris, mené avec Kristel Chanard, *La Vie des Idées*, 12 mars 2018, [https://laviedesidees.fr/A-quand-la-crue.html].
 
@@ -122,19 +125,20 @@ Organisation de 11 séances avec Irène Delcourt, Alice Bonzom, Joe Karackattu, 
 - Membre associée, Centre Alexandre-Koyré (UMR 8560, EHESS, MNHN) (2025- )
 
 #### Délégation CNRS
-- Délégation CNRS de 12 mois, Centre Alexandre Koyré (UMR 8560, EHESS, MNHN), 2024-2025
+- Délégation CNRS de 12 mois, Centre Alexandre-Koyré (UMR 8560, EHESS, MNHN), 2024-2025
   
 #### Responsabilités scientifiques au sein de l'unité de recherche HDEA:
-- Co-responsable (avec Carolin Görgen) de l’axe « Nature et Environnement(s)» de l’UR HDEA
+- Co-responsable (avec Carolin Görgen) de l’axe « Nature et Environnement(s)» de l’UR HDEA (2025-)
 - Membre élue du conseil de l'UR HDEA (2019- présent, réélue en décembre 2023)
 
 #### Activités éditoriales:
 - Membre du comité de lecture de la revue *Études Écossaises* (2024-)
-- Évaluation d'articles et de chapitres pour le *Journal of Early American History*, la Revue *LISA*, la *Revue d'histoire du XIXe siècle*, et les éditions Le Manuscrit (2022- )
+- Évaluation d'articles et de chapitres pour la revue *History of Science*, *Journal of Early American History*, la Revue *LISA*, la *Revue d'histoire du XIXe siècle*, et les éditions Le Manuscrit (2022- )
 - Membre du conseil de rédaction des revues en ligne *La Vie des idées* et *Books & Ideas* (2021-2025)
 - Co-rédactrice en chef des revues en ligne *La Vie des idées* et *Books & Ideas* (2016-2021), responsable générale du site *Books & Ideas* (2016-2018) et co-responsable du développement international des deux revues (2018-2021)
 
 #### Distinctions et bourses de recherche:
+- Lisa Jardine Grant, Royal Society, Royaume-Uni, 2026
 - Bourse de recherche Society of Antiquaries of Scotland (*travel grant*), 2025
 - Visiting Research Fellow, University of Glasgow Library, Glasgow, 2024
 - Dibner Research Fellow in the History of Science and Technology, The Huntington Library, San Marino, États-Unis (short-term fellowship de deux mois, mai-juin), 2023
