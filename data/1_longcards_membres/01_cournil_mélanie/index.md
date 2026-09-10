@@ -45,7 +45,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Chapitres dans un ouvrage collectif
 
-- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in Sabrina Juillet-Garzon & Edouard Guionnet*Les Européens à la découverte du monde: entre voyages et migrations* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit, 2026, pp. 91-121.
+- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in Sabrina Juillet-Garzon & Edouard Guionnet, *Les Européens à la découverte du monde: entre voyages et migrations* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit, 2026, pp. 91-121.
 - « De Leith à la Barbade, via la côte de l'Or : le voyage triangulaire de la brigantine Neptune en 1729 », in Tri Tran (dir.), *L'eau en Écosse/Water in Scotland*, Calédonia, Annales Littéraires, Franche-Comté: PUFC, 2022, pp. 187-202.
 
 ## Autres publications
