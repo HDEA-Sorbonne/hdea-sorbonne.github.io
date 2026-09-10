@@ -36,6 +36,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Articles dans une revue
 
+- « Labouring in the Cause of Botany: William Jackson Hooker at the University of Glasgow (1820-1841)», *Scottish Historical Review*, accepté, à paraître en avril 2027.
 - « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », *British Journal of the History of Science*, Vol. 58, n°1, mars 2025, pp. 39-59. Open access: DOI: [https://doi.org/10.1017/S0007087424001456]
 - « 'What Dangerous Men' : La pratique de la médecine sur l'île de la Dominique à la fin du XVIIIe siècle », *Revue de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles*, N°75, « La couleur », décembre 2018, publication en ligne, [https://journals.openedition.org/1718/1333].
 - « La construction d'un discours antiabolitionniste britannique dans les années 1830 : James MacQueen et la 'controverse Mary Prince'», *Études écossaises*, N°20, avril 2018, publication en ligne, [https://journals.openedition.org/etudesecossaises/1422].
@@ -44,7 +45,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Chapitres dans un ouvrage collectif
 
-- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in *Voyageurs européens en Amérique du nord, perception(s), confrontation(s), représentation(s). 1600-1840* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit, 2026.
+- « 'The Man of Grass' - David Douglas au service de la botanique impériale britannique dans le Nord-Ouest Pacifique (1825-1833) », in Sabrina Juillet-Garzon & Edouard Guionnet*Les Européens à la découverte du monde: entre voyages et migrations* », coll. « Voyages et migrations », Paris: Éditions Le Manuscrit, 2026, pp. 91-121.
 - « De Leith à la Barbade, via la côte de l'Or : le voyage triangulaire de la brigantine Neptune en 1729 », in Tri Tran (dir.), *L'eau en Écosse/Water in Scotland*, Calédonia, Annales Littéraires, Franche-Comté: PUFC, 2022, pp. 187-202.
 
 ## Autres publications
