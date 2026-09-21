@@ -23,7 +23,7 @@ Education:
 
 Research topics:
 - History of American photography
-- Environmental histories of California and the American West
+- Environmental histories, specifically California and the American West
 - Eco-critical art history
 - Photography and material culture studies
 
@@ -36,7 +36,7 @@ Research topics:
 
  ### Direction de numéro / volume
 
- Carolin Görgen and Monica Bravo, editors, *Ecologies of Photography in the American West*. Leuven University Press, forthcoming September 2026, https://lup.be/book/ecologies-of-photography-in-the-american-west/. 
+ Carolin Görgen and Monica Bravo, editors, *Ecologies of Photography in the American West*. Leuven University Press, 2026, https://lup.be/book/ecologies-of-photography-in-the-american-west/. 
  
  Carolin Görgen, Alice Morin, and Marie-Eve Bouillon, editors,	« Histoires d'albums photographiques : Mémoire, matérialité, lectures », *Photographica*, No. 12 (2026), https://doi.org/10.4000/16b0n.
 
@@ -66,7 +66,7 @@ Research topics:
 
 “‘Burning Aesthetics’ and Ecological Feeling: Photography after the 1910 Big Burn,” in *Sensory Aesthetics of the More-Than-Human in Crisis*, ed. Tatiana Konrad (University of Exeter Press, forthcoming November 2026).
 
-“Black Gold: Petroleumscapes in Southern California Pictorialism and Beyond,” in *Ecologies of Photography in the American West*, eds. Monica Bravo and Carolin Görgen (Leuven University Press, forthcoming September 2026).
+“Black Gold: Petroleumscapes in Southern California Pictorialism and Beyond,” in *Ecologies of Photography in the American West*, eds. Monica Bravo and Carolin Görgen (Leuven University Press, 2026).
 
 “Toward a 'History of Uses': Photographic Dissemination in the Early Twentieth-century American West,” in *Factuality and Utilization of Early Photography*, eds. Tatjana Bartsch et al. (Berlin and Leipzig: German Archeological Institute & Harrassowitz Verlag, 2022).
 
@@ -91,6 +91,8 @@ Keynote address for the conference “Love and Lenses: Photographic Couples, Gen
 “Californie 1900: Circulating California's Environmental Imagination at the Paris World's Fair,” Seminar of the Department of European Languages and Transcultural Studies, University of California, Los Angeles, Sept. 27, 2023
 
 ## Vulgarisation et interventions dans les média
+
+"Ecologies of Photography in the American West," Interviewed by Author's Corner, Leuven University Press, https://lup.be/2026/07/monica-bravo-carolin-gorgen-ecologies-of-photography-in-the-american-west/.
 
 “Another West: Ecologies of Photography,” Blog post with Monica Bravo for *Verso*, Blog of the Huntington Library, 2024
 https://huntington.org/verso/another-west-ecologies-photography.
