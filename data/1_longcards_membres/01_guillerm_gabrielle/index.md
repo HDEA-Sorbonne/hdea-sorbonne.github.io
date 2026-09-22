@@ -27,9 +27,9 @@ Gabrielle Guillerm is Associate Professor of American and US history. She specia
 
 ## Articles dans une revue
 
--  “(Un)holy Trade: Ecclesiastical Slavery, French Missionaries, and Catholic Westward Expansion in the Early Republic,” *Journal of the Early Republic*,  Volume 45, Number 3, Fall 2025, https://muse.jhu.edu/article/969330
-  
--  “Reckoning with the Jesuits’ Role in the US Federal Policy of Assimilation: The Truth and Healing Project at Mahpíya Lúta/Red Cloud,” *Jesuit Educational Quarterly*, Special Issue on Jesuits, Race, and Slavery (under review)
+- "Les prêtres émigrés français comme agents de la politique expansionniste de la jeune république états-unienne, 1789-1815", *Annales historiques de la Révolution française* 425, no. 3 (2026): 21-45. Numéro spécial sur les relations franco-américaines à l'heure de la Révolution française (https://www.revues.armand-colin.com/histoire/annales-historiques-revolution-francaise)
+
+-  “(Un)holy Trade: Ecclesiastical Slavery, French Missionaries, and Catholic Westward Expansion in the Early Republic,” *Journal of the Early Republic* 45, no. 3 (Fall 2025), https://muse.jhu.edu/article/969330.
 
 ## Chapitres dans un ouvrage collectif
 
