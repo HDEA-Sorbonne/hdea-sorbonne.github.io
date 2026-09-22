@@ -35,6 +35,7 @@ Politique britannique XXe-XXIe siècles ; politique pénale ; néolibéralisme ;
 
 ## Articles de revue
 
+-  « ‘Defund the Police’ UK: Mobilising against Institutional Racism in a Hostile Environment », *Transatlantica*, 1 | 2026, http://journals.openedition.org/transatlantica/29410
 - « Countering Remotisation Through Community-Led Place-Making : A Scottish Case Study », *MIRANDA* (Revue pluridisciplinaire du monde anglophone), n°32, 2025, https://doi.org/10.4000/14yo6  
 - « The British Conservative Party’s Drift to the Right : Taking on the ‘deep state’ », *ELAD-SILDA, Studies in Linguistics and Discourse Analysis*, n°9, 2024, https://doi.org/10.35562/elad-silda.1484 
 - « Responding to Identity Politics: Thinking beyond the Cultural Divide », *Observatoire de la société britannique*, n°30, 2023 : 31-53, https://doi.org/10.4000/osb.6024
