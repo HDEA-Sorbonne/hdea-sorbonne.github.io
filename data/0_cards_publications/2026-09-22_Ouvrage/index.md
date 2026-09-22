@@ -11,14 +11,14 @@ Photography and the American West have long been culturally intertwined. Since t
 
 Table of contents available here: https://lup.be/book/ecologies-of-photography-in-the-american-west/
 
-
-## Type de publication:
-Ouvrage collectif
-
-
 ![small](cover.png)
 
 Cover image
 Binh Danh, *Yosemite Falls, Yosemite, CA (April 15, 2012)*, 2012, Daguerreotype,
 8.5 × 6.5 in., The Huntington Library, Art Museum, and Botanical Gardens,
 Courtesy of the artist
+
+## Type de publication:
+Ouvrage collectif
+
+
