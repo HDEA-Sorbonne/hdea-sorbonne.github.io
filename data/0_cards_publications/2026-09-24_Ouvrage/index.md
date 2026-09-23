@@ -5,7 +5,7 @@ event: true
 author:  Emma Bell, Filippo Barbera
 ---
 
-### Filippo Barbera and Emma Bell (eds.), *Commons, Citizenship and Power: Reclaiming the Margins* (paperback edition), Bristol University Press, 2026. 
+### Filippo Barbera and Emma Bell (eds.), *Commons, Citizenship and Power: Reclaiming the Margins*, Bristol University Press, 2026. 
 
 Since the 2010s, populism and illiberal politics have been on the rise. Demagogue leaders preach simplified rhetoric to vilify the powerless, polarising city and rural areas and sparking such shocking events as the US insurrection on 6th January 2021.
 
