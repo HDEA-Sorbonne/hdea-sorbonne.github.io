@@ -14,17 +14,17 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 ## Thèmes de recherche
 
-Carolin Görgen is Associate Professor of American Studies in the Department of English and American Studies (UFR Études Anglophones) and a junior member of the Institut Universitaire de France. She specializes in the history of U.S. photography and the history of the American West. After having studied in the Netherlands, France, and the United States, she completed a joint PhD in American Studies and Art History at Université Paris-Diderot and the École du Louvre in 2018. Her thesis on the California Camera Club was awarded the international research prize of the German Photographic Society & the Deutsche Börse Photography Foundation in 2020. It was published as a monograph with the University of Oklahoma Press in 2025. Görgen's current research focuses on the ecological dimension of western American photography, including histories of oil extractivism and wildfires. In the spring/summer of 2025, she was a Fulbright visiting scholar at the University of California, Los Angeles. 
+Carolin Görgen is Associate Professor of American Studies in the Department of English and American Studies (UFR Études Anglophones) and a junior member of the Institut Universitaire de France. She specializes in the history of U.S. photography and the history of the American West. After having studied in the Netherlands, France, and the United States, she completed a joint PhD in American Studies and Art History at Université Paris-Diderot and the École du Louvre in 2018. She is the author of *The California Camera Club: Collective Visions in the Making of the American West* (Oklahoma, 2025) which won the Joan Paterson Kerr Award of the Western History Association (WHA) and was a finalist for the Prix de la recherche AFEA/SAES. She is the co-editor of *Ecologies of Photography in the American West* (Leuven, 2026, with Monica Bravo). Görgen's current research focuses on the ecological dimension of western American photography, including histories of oil extractivism and wildfires. In 2025, she was a Fulbright visiting scholar at the University of California, Los Angeles. 
 
 Education:
-- Ph.D. American Studies & Art History, University Paris-Diderot & École du Louvre, 2018
-- M.A. American Studies, Université Paris-Diderot; exchange student at New York University, 2014
+- Ph.D. English & American Studies and Art History, Université Paris-Diderot & École du Louvre, 2018
+- M.A. English & American Studies, Université Paris-Diderot; exchange student at New York University, 2014
 - B.A. English & American Studies, minor French, Radboud Universiteit Nijmegen, 2012 
 
 Research topics:
-- History of American photography
-- Environmental histories, specifically California and the American West
+- History of U.S. photography
 - Eco-critical art history
+- Environmental histories, specifically California and the American West
 - Photography and material culture studies
 
 
@@ -32,7 +32,7 @@ Research topics:
 
  ### Monographie 
  
- Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, 2025. Sponsored by a publication grant from the Wyeth Foundation for American Art, shortlisted for the 2026 AFEA/SAES book prize. https://www.oupress.com/9780806196039/the-california-camera-club/.
+ Carolin Görgen, *The California Camera Club: Collective Visions in the Making of the American West*. University of Oklahoma Press, 2025. Winner of the Joan Paterson Kerr Award of the Western History Association; shortlisted for the 2026 AFEA/SAES book prize. https://www.oupress.com/9780806196039/the-california-camera-club/.
 
  ### Direction de numéro / volume
 
@@ -118,6 +118,8 @@ Since 2019 Member of the editorial board of the journal *Photographica* https://
 ## Fellowships and awards 
 
 2025-2030 Membre Junior, Institut Universitaire de France
+
+2026 Joan Paterson Kerr Book Award, Western History Association (WHA)
 
 2025 Fulbright Visiting Scholar, University of California, Los Angeles (UCLA)
 
