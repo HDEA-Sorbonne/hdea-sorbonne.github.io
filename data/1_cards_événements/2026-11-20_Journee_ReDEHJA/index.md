@@ -5,7 +5,7 @@ author: Gabrielle Guillerm - Nathalie Caron
 uuid: 482730b3-c110-47f1-bbaf-9d197b6fb76c
 ---
 
-### Journée Publications récentes RéDEHJA
+## Journée Publications récentes RéDEHJA
 20/11/2026
 Sorbonne Université
 
@@ -16,12 +16,10 @@ Comité d’organisation : Nathalie Caron (Sorbonne Université, HDEA), Robert C
 
 Contact : nathalie.caron [at] sorbonne-universite.fr ; gabrielle.guillerm [at] sorbonne-universite.fr
 
-# Programme
+## Programme
 
-9h00 : Accueil
-
-## MATIN - Session spéciale « Révolution américaine »
-
+### MATIN - Session spéciale « Révolution américaine »
+-	9h00 : Accueil
 -	9h15 : Ouverture
 -	9h30-10h45 : Bertrand Van Ruymbeke (Université Paris 8), 1776, *L’année américaine*, Tallandier, 2026 et Carine Lounissi (Université de Rouen Normandie), Eric Schnackenbourg (Nantes Université) et Bertrand Van Ruymbeke (Université Paris 8), *Révolution américaine et naissance des États-Unis (1763-1800)*, Armand Colin, 2026
 o	Commentaire de Jean-François Dunyach (Sorbonne Université)
@@ -37,7 +35,7 @@ o	Commentaire d'Anne-Claire Faucquez (Université Paris 8)
 
 12h45-14h15 : Déjeuner
 
-## APRES-MIDI
+### APRES-MIDI
 
 -	14h15-15h: Claire Bourhis-Mariotti (Université Paris 8), *We Are American Citizens: The Colored Conventions Movement and the Long Struggle for Civil Rights*, University of Georgia Press, 2026
 o	Commentaire de Claire Parfait (Université Paris Nord)
