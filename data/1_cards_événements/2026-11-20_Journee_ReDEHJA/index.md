@@ -30,6 +30,7 @@ o	Commentaire de Jean-François Dunyach (Sorbonne Université)
 
 -	11h15-12h : Florence Petroff (La Rochelle Université), *La Révolution américaine et l'Ecosse: Regards croisés et identités hybrides*, Honoré Champion, 2026
 o	Commentaire de Will Slauter (Sorbonne Université)
+
 -	12h-12h45 : Agnès Delahaye (Université Lyon 2), *À qui appartient le 4 juillet ? L'indépendance américaine et sa mémoire*
 o	Commentaire d'Anne-Claire Faucquez (Université Paris 8)
 
@@ -40,6 +41,7 @@ o	Commentaire d'Anne-Claire Faucquez (Université Paris 8)
 
 -	14h15-15h: Claire Bourhis-Mariotti (Université Paris 8), *We Are American Citizens: The Colored Conventions Movement and the Long Struggle for Civil Rights*, University of Georgia Press, 2026
 o	Commentaire de Claire Parfait (Université Paris Nord)
+
 -	15h-15h45 : Louis Bissières (Université Sorbonne Nouvelle), *Une économie de réseau : Explorer le monde marchand de Philadelphie*, Presses universitaires François-Rabelais, 2026
 o	Commentaire de Nicolas Barreyre (EHESS)
 
@@ -47,11 +49,12 @@ o	Commentaire de Nicolas Barreyre (EHESS)
 
 -	16h00-16h45 : Virginie Adane (Nantes Université), *Des femmes en Amérique : une histoire des États-Unis de Pocahontas à #MeToo*, Perrin, 2025
 o	Commentaire d'Hélène Quanquin (Université de Lille)
+
 -	16h45-17h00 : Conclusion
 
 
 
-### [Télécharger le programme](Programme journée publications récentes 20 novembre 2026 2.pdf)
+### [Télécharger le programme](Prog_Redehja2026.pdf)
 
 ![small](Redehja2026.jpg)
 
