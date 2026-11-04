@@ -6,7 +6,7 @@ abstract: Maîtresse de conférences en histoire britannique
 ---
 
 
-![small](Cournil_Melanie.jpg)
+![small](Photo-HDEA.png)
 
 ## Contact
 
@@ -32,16 +32,16 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 #### Direction de numéro de revue:
 
-- Mélanie Cournil & Jeanne Schaaf (Université Lumière Lyon 2), « Scottish Territories and Memories », *Études Écossaises*, N°25, avril 2026, [https://journals.openedition.org/etudesecossaises/5479]
+- Mélanie Cournil & Jeanne Schaaf (Université Lumière Lyon 2), « [Scottish Territories and Memories](https://journals.openedition.org/etudesecossaises/5479) », *Études Écossaises*, N°25, avril 2026.
 
 ## Articles dans une revue
 
 - « Labouring in the Cause of Botany: William Jackson Hooker at the University of Glasgow (1820-1841)», *Scottish Historical Review*, accepté, à paraître en avril 2027.
-- « Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841) », *British Journal of the History of Science*, Vol. 58, n°1, mars 2025, pp. 39-59. Open access: DOI: [https://doi.org/10.1017/S0007087424001456]
-- « 'What Dangerous Men' : La pratique de la médecine sur l'île de la Dominique à la fin du XVIIIe siècle », *Revue de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles*, N°75, « La couleur », décembre 2018, publication en ligne, [https://journals.openedition.org/1718/1333].
-- « La construction d'un discours antiabolitionniste britannique dans les années 1830 : James MacQueen et la 'controverse Mary Prince'», *Études écossaises*, N°20, avril 2018, publication en ligne, [https://journals.openedition.org/etudesecossaises/1422].
-- « La colonie de Darien : l'échec de l'empire écossais à la fin du XVIIe siècle », *La Vie des idées*, publication en ligne, 13 octobre 2015, [https://laviedesidees.fr/La-colonie-de-Darien.html].
-- « Doomed to fail? Scotland and Empire in the late 17th century », *Books & Ideas*, publication en ligne, 26 octobre 2015, [https://booksandideas.net/Doomed-to-Fail.html].
+- « [Science 'subservient to profit'? William Jackson Hooker and the First Glasgow Botanic Gardens (1817-1841)](https://doi.org/10.1017/S0007087424001456) », *British Journal of the History of Science*, Vol. 58, n°1, mars 2025, pp. 39-59. Open access.
+- « ['What Dangerous Men' : La pratique de la médecine sur l'île de la Dominique à la fin du XVIIIe siècle](https://journals.openedition.org/1718/1333) », *Revue de la Société d'Études Anglo-Américaines des XVIIe et XVIIIe Siècles*, N°75, « La couleur », décembre 2018, publication en ligne.
+- « [La construction d'un discours antiabolitionniste britannique dans les années 1830 : James MacQueen et la 'controverse Mary Prince'](https://journals.openedition.org/etudesecossaises/1422)», *Études écossaises*, N°20, avril 2018, publication en ligne.
+- « [La colonie de Darien : l'échec de l'empire écossais à la fin du XVIIe siècle](https://laviedesidees.fr/La-colonie-de-Darien.html) », *La Vie des idées*, publication en ligne, 13 octobre 2015.
+- « [Doomed to fail? Scotland and Empire in the late 17th century](https://booksandideas.net/Doomed-to-Fail.html) », *Books & Ideas*, publication en ligne, 26 octobre 2015.
 
 ## Chapitres dans un ouvrage collectif
 
@@ -50,7 +50,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 ## Autres publications
 
-- Avant-propos (avec Jeanne Schaaf) du numéro 25 d' *Études Écossaises* « Scottish Territories and Memories », DOI: [https://doi.org/10.4000/161mi]
+- [Avant-propos](https://doi.org/10.4000/161mi) (avec Jeanne Schaaf) du numéro 25 d' *Études Écossaises* « Scottish Territories and Memories ».
 - Introduction scientifique de Souria Adèle & Emma Sudour (dirs.), *Mary Prince: Récit autobiographique d'une esclave antillaise*, Éditions Karthala, 2025, pp. 13-30.
 - Traductions avec appareil critique de textes de Robert Wedderburn, in Marie-Jeanne Rossignol & Michaël Roy (dirs.), *Une anthologie de la pensée noire : États-Unis et Haïti (XVIIIe-XIXe siècles)*, Paris : Hors d'atteinte, 2023, pp. 78-84 ; 311-315.
 
@@ -82,11 +82,11 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 - « Cultivating Empire : William Jackson Hooker and the Glasgow Botanic Garden », *Newsletter of the Society of Antiquaries of Scotland*, Vol. 38 (1), printemps 2026, p. 10.
 
 ##### Entretien de civilisation britannique
-- « Brexit and Scottish Nationalism. An Interview with Fiona Simpkins », entretien co-dirigé avec Alice Bonzom, *Books & Ideas*, [https://booksandideas.net/Brexit-and-Scottish-Nationalism.html], 27 janvier 2019.
+- « [Brexit and Scottish Nationalism. An Interview with Fiona Simpkins](https://booksandideas.net/Brexit-and-Scottish-Nationalism.html) », entretien co-dirigé avec Alice Bonzom, *Books & Ideas*, 27 janvier 2019.
 
 ##### Entretiens de sciences de la Terre
-- « Below the Surface », entretien vidéo en anglais avec Sabrina Speich sur le rôle des océans dans le réchauffement climatique, mené avec Kristel Chanard, *Books & Ideas*, 16 juillet 2018, [https://booksandideas.net/Below-the-Surface.html].
-- « À quand la crue ? », entretien avec Magali Reghezza sur la crue de Paris, mené avec Kristel Chanard, *La Vie des Idées*, 12 mars 2018, [https://laviedesidees.fr/A-quand-la-crue.html].
+- « [Below the Surface](https://booksandideas.net/Below-the-Surface.html) », entretien vidéo en anglais avec Sabrina Speich sur le rôle des océans dans le réchauffement climatique, mené avec Kristel Chanard, *Books & Ideas*, 16 juillet 2018.
+- « [À quand la crue ?](https://laviedesidees.fr/A-quand-la-crue.html) », entretien avec Magali Reghezza sur la crue de Paris, mené avec Kristel Chanard, *La Vie des Idées*, 12 mars 2018.
 
 #### Manifestation culturelle grand public:
 
