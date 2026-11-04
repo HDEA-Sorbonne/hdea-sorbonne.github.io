@@ -6,12 +6,14 @@ uuid: 482730b3-c110-47f1-bbaf-9d197b6fb76c
 ---
 
 ## Journée Publications récentes RéDEHJA
+
 20/11/2026
+
 Campus Sorbonne
 17 rue de la Sorbonne 75005 Paris
 Salle des Actes et G 073
 
-L'accès à la Sorbonne étant restreint, il est impératif de s'inscrire à l'avance via ce [formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdzMjROffWcWzDyQsF4wkJMAYH5m1bteToHIZY9ZAH26-fRAA/viewform?usp=dialog) au minimum 72 heures à l'avance ou en écrivant aux organisatrices (e-mails plus bas).
+### L'accès à la Sorbonne étant restreint, il est impératif de s'inscrire à l'avance via ce [formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdzMjROffWcWzDyQsF4wkJMAYH5m1bteToHIZY9ZAH26-fRAA/viewform?usp=dialog) au minimum 72 heures à l'avance ou en écrivant aux organisatrices (e-mails plus bas).
 
 
 Journée organisée avec le soutien du laboratoire HDEA, du RéDEHJA et de la mention Master LLCER de Sorbonne Université
