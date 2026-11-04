@@ -7,7 +7,12 @@ uuid: 482730b3-c110-47f1-bbaf-9d197b6fb76c
 
 ## Journée Publications récentes RéDEHJA
 20/11/2026
-Sorbonne Université
+Campus Sorbonne
+17 rue de la Sorbonne 75005 Paris
+Salle des Actes et G 073
+
+L'accès à la Sorbonne étant restreint, il est impératif de s'inscrire à l'avance via ce [formulaire](https://docs.google.com/forms/d/e/1FAIpQLSdzMjROffWcWzDyQsF4wkJMAYH5m1bteToHIZY9ZAH26-fRAA/viewform?usp=dialog) au minimum 72 heures à l'avance ou en écrivant aux organisatrices (e-mails plus bas).
+
 
 Journée organisée avec le soutien du laboratoire HDEA, du RéDEHJA et de la mention Master LLCER de Sorbonne Université
 
@@ -18,7 +23,7 @@ Contact : nathalie.caron [at] sorbonne-universite.fr ; gabrielle.guillerm [at] s
 
 ## Programme
 
-### MATIN - Session spéciale « Révolution américaine »
+### MATIN - Session spéciale « Révolution américaine »: Salle des Actes
 -	9h00 : Accueil
 -	9h15 : Ouverture
 -	9h30-10h45 : Bertrand Van Ruymbeke (Université Paris 8), 1776, *L’année américaine*, Tallandier, 2026 et Carine Lounissi (Université de Rouen Normandie), Eric Schnackenbourg (Nantes Université) et Bertrand Van Ruymbeke (Université Paris 8), *Révolution américaine et naissance des États-Unis (1763-1800)*, Armand Colin, 2026
@@ -35,7 +40,7 @@ o	Commentaire d'Anne-Claire Faucquez (Université Paris 8)
 
 12h45-14h15 : Déjeuner
 
-### APRES-MIDI
+### APRES-MIDI: Salle G 073
 
 -	14h15-15h: Claire Bourhis-Mariotti (Université Paris 8), *We Are American Citizens: The Colored Conventions Movement and the Long Struggle for Civil Rights*, University of Georgia Press, 2026
 o	Commentaire de Claire Parfait (Université Paris Nord)
