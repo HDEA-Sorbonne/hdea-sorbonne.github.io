@@ -57,7 +57,7 @@ o	Commentaire d'Hélène Quanquin (Université de Lille)
 
 
 
-### [Télécharger le programme](Prog_Redehja2026.pdf)
+### [Télécharger le programme](REDHEJA-prog.pdf)
 
 ![small](Redehja2026.jpg)
 
