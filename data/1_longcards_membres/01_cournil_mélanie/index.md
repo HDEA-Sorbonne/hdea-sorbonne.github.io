@@ -77,13 +77,14 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 
 #### Publications:
 
-##### Texte
+##### Textes
+- « Cultivating Empire: William Jackson Hooker and the Glasgow Botanic Gardens: An archival study of a life and career in botany », [article de blog](https://www.socantscot.org/society-funded-research/cultivating-empire-william-jackson-hooker-and-the-glasgow-botanic-gardens/) de la Society of Antiquaries of Scotland  
 - « Cultivating Empire : William Jackson Hooker and the Glasgow Botanic Garden », *Newsletter of the Society of Antiquaries of Scotland*, Vol. 38 (1), printemps 2026, p. 10.
 
 ##### Entretien de civilisation britannique
 - « Brexit and Scottish Nationalism. An Interview with Fiona Simpkins », entretien co-dirigé avec Alice Bonzom, *Books & Ideas*, [https://booksandideas.net/Brexit-and-Scottish-Nationalism.html], 27 janvier 2019.
 
-##### Entretien de sciences de la Terre
+##### Entretiens de sciences de la Terre
 - « Below the Surface », entretien vidéo en anglais avec Sabrina Speich sur le rôle des océans dans le réchauffement climatique, mené avec Kristel Chanard, *Books & Ideas*, 16 juillet 2018, [https://booksandideas.net/Below-the-Surface.html].
 - « À quand la crue ? », entretien avec Magali Reghezza sur la crue de Paris, mené avec Kristel Chanard, *La Vie des Idées*, 12 mars 2018, [https://laviedesidees.fr/A-quand-la-crue.html].
 
