@@ -57,7 +57,7 @@ Jardins botaniques; histoire des Glasgow Botanic Gardens; circulation des savoir
 ## Interventions orales
 
 #### Conférences plénières
-- « Botany in the Making: The First Glasgow Botanic Garden », colloque du 175ème anniversaire de la Glasgow Naturalist Society (dans le cadre du Glasgow Science Festival), Glasgow, Écosse, 6 juin 2026.
+- « Botany in the Making: The First Glasgow Botanic Garden », colloque du 175ème anniversaire de la Glasgow Natural History Society (dans le cadre du Glasgow Science Festival), Glasgow, Écosse, 6 juin 2026.
 - Conférence plénière, « Scotland Within and Outwith: Internal and External Perspectives of a Nation », Postgraduate Research Symposium, Centre for Scottish and Celtic Studies, Glasgow, Écosse, 30 avril 2025.
 
 #### Autres interventions orales récentes
