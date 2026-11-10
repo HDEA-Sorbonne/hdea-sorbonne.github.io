@@ -20,6 +20,8 @@ abstract: Maîtresse de conférences en histoire et culture des États-Unis
 
 ## Ouvrage et directions de numéro de revue
 
+- Claire Dutriaux, *Women Motion Picture Regulators in Hollywood, 1915-1945: Mothering Better Pictures*, sous contrat avec Palgrave Macmillan, remise le 1er juillet 2027.
+- Claire Dutriaux, Anne-Marie Paquet-Deyris (Dirs.), *Censorship in Early Hollywood: Negotiating Regulation, 1915-1934*, sous contrat avec Palgrave Macmillan, remise le 1er décembre 2027.  
 -	Claire Dutriaux, Marianne Kac-Vergne (Dir.), « The Politics of Silence or Noise in US Film and Television», *Film Journal*, décembre 2025.
 
 - Claire Dutriaux, Anne-Marie Paquet-Deyris et Taïna Tuhkunen (Dir.), « When the West Meets the South on Screen », *LISA E-Journal*, Vol. XVI-n°1, 2018. ISSN électronique 1762-6153.
