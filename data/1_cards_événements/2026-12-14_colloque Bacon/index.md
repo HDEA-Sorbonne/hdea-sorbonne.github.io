@@ -18,4 +18,4 @@ Journée organisée avec le soutien du laboratoire HDEA, de l'Initiative Renouve
 
 ### [Télécharger le programme](Programme.pdf)
 
-![small](Affiche.png)
+![small](Affiche.jpg)
